@@ -1,0 +1,33 @@
+##### ID: 428000790 | PASSWORD: 6409 | MILES: 0 #####
+FULL NAME: REGIANE DAS DORES SILVA | MEMBER ID: 428000790
+BIRTHDAY: 1981-01-26
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2014-08-26T18:11:21.000-03:00
+#### ADDRESS ####
+Street Name: ELMANO FERREIRA VELOSO
+Number: 342
+Complement: casa
+City: SÃO JOSÉ DOS CAMPOS
+State: SP
+Country: Brazil
+Zip Code: 12232050
+#### ID DOCUMENTS ####
+CPF: 21467273813
+#### CONTACT ####
+CONTACT PHONE: (12) 32046675
+CONTACT CELL PHONE: () 988688100
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: regiane.rds.1981@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

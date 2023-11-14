@@ -1,0 +1,33 @@
+##### ID: 722582501 | PASSWORD: 3660 | MILES: 11426 #####
+FULL NAME: JOSE GILBERTO PEREIRA | MEMBER ID: 722582501
+BIRTHDAY: 1964-11-08
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 11426
+Miles To Expire: 815
+Member Since: 2006-01-23T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: QUARTZO
+Number: 47
+Complement: SOBRADO
+City: MARINGÁ
+State: PR
+Country: Brazil
+Zip Code: 87083030
+#### ID DOCUMENTS ####
+CPF: 51522578900
+#### CONTACT ####
+CONTACT PHONE: (44) 33054491
+CONTACT CELL PHONE: () 91154348
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 30119118
+### E-MAIL ####
+E-mail: jose.gilberto.pereira@gmail.com
+Secondary E-mailjgpereira@uem.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 553096
+Number: 553096******2610
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2021-07-26T04:11:02

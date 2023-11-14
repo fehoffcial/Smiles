@@ -1,0 +1,33 @@
+##### ID: 18213979320 | PASSWORD: 4061 | MILES: 539 #####
+FULL NAME: JOSE DO NASCIMENTO PEREIRA | MEMBER ID: 408907030
+BIRTHDAY: 1960-10-29
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 539
+Miles To Expire: 257
+Member Since: 2013-10-02T14:42:38.000-03:00
+#### ADDRESS ####
+Street Name: BENTO TEIXEIRA
+Number: 13
+Complement: CASA50
+City: RIO DE JANEIRO
+State: RJ
+Country: Brazil
+Zip Code: 20220700
+#### ID DOCUMENTS ####
+CPF: 18213979320
+#### CONTACT ####
+CONTACT PHONE: (21) 22538757
+CONTACT CELL PHONE: () 78776054
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: pereira_advogado@yahoo.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

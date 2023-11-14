@@ -1,0 +1,33 @@
+##### ID: 205309425 | PASSWORD: 5756 | MILES: 0 #####
+FULL NAME: JOSY RODRIGUES CRISOSTOMO | MEMBER ID: 205309425
+BIRTHDAY: 1978-07-30
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2000-08-07T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: R. 167
+Number: 15
+Complement: NUCLEO 8 - QD. 277
+City: MANAUS
+State: AM
+Country: Brazil
+Zip Code: 69096110
+#### ID DOCUMENTS ####
+CPF: 02418442403
+#### CONTACT ####
+CONTACT PHONE: (92) 36454864
+CONTACT CELL PHONE: () 99624045
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: akemy55@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

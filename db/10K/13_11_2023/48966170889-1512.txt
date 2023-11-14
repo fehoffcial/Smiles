@@ -1,0 +1,33 @@
+##### ID: 48966170889 | PASSWORD: 1512 | MILES: 207 #####
+FULL NAME: CARLOS EDUARDO CORDEIRO FERREIRA | MEMBER ID: 140815382
+BIRTHDAY: 1999-12-15
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 207
+Miles To Expire: 207
+Member Since: 2021-01-18T11:14:52.000-03:00
+#### ADDRESS ####
+Street Name: PARAI
+Number: 14
+Complement: 
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 04921190
+#### ID DOCUMENTS ####
+CPF: 48966170889
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 986479630
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: carlos_cadu12@outlook.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 529205
+Number: 529205******4996
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2021-04-15T20:39:49

@@ -1,0 +1,33 @@
+##### ID: 56026749934 | PASSWORD: 3366 | MILES: 0 #####
+FULL NAME: JOVERSON BENEDET | MEMBER ID: 707222692
+BIRTHDAY: 1965-01-03
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 1998-07-26T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: DESEMBARGADOR PEDRO SILVA
+Number: 930
+Complement: EDF TRIANGULO
+City: CRICIÚMA
+State: SC
+Country: Brazil
+Zip Code: 88803100
+#### ID DOCUMENTS ####
+CPF: 56026749934
+#### CONTACT ####
+CONTACT PHONE: (48) 21021100
+CONTACT CELL PHONE: () 984057777
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: jb@grupotriangulo.com.br
+Secondary E-mailJB@GRUPOTRIANGULO.COM.BR
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

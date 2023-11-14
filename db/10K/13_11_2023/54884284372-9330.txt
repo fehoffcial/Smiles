@@ -1,0 +1,33 @@
+##### ID: 54884284372 | PASSWORD: 9330 | MILES: 1050 #####
+FULL NAME: REGIA MARIA CARVALHO DE ARAUJO | MEMBER ID: 346520963
+BIRTHDAY: 1975-11-23
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 1050
+Miles To Expire: 50
+Member Since: 2011-02-04T20:42:40.000-02:00
+#### ADDRESS ####
+Street Name: RUA MARIA DE LURDES GOMES DE S
+Number: 364
+Complement: CASA
+City: CAJAZEIRAS
+State: PB
+Country: Brazil
+Zip Code: 58900000
+#### ID DOCUMENTS ####
+CPF: 54884284372
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 88405342
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: regiacarvalho.carvalho@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 470598
+Number: 470598******6874
+BRAND: Visa
+Gateway: Cielo
+Payment Date: 2020-03-25T10:16:53

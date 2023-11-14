@@ -1,0 +1,66 @@
+##### ID: 39268291843 | PASSWORD: 2594 | MILES: 10837 #####
+FULL NAME: FRANCISCO LUAN TAVARES AGUIAR | MEMBER ID: 379482434
+BIRTHDAY: 1993-07-24
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 10837
+Miles To Expire: 2150
+Member Since: 2012-06-05T22:32:00.000-03:00
+#### ADDRESS ####
+Street Name: ROMULO NALDI, SAO PAULO, SP11
+Number: 163
+Complement: 33
+City: SAO PAULO
+State: SP
+Country: Brazil
+Zip Code: 2873250
+#### ID DOCUMENTS ####
+CPF: 39268291843
+#### CONTACT ####
+CONTACT PHONE: (11) 38593807
+CONTACT CELL PHONE: () 92293321
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: luan.ts@hotmail.com.br
+Secondary E-mailluan.ts@hotmail.com.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 550209
+Number: 550209******7005
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-10-15T09:39:38
+##### ID: 39268291843 | PASSWORD: 2594 | MILES: 10837 #####
+FULL NAME: FRANCISCO LUAN TAVARES AGUIAR | MEMBER ID: 379482434
+BIRTHDAY: 1993-07-24
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 10837
+Miles To Expire: 2150
+Member Since: 2012-06-05T22:32:00.000-03:00
+#### ADDRESS ####
+Street Name: ROMULO NALDI, SAO PAULO, SP11
+Number: 163
+Complement: 33
+City: SAO PAULO
+State: SP
+Country: Brazil
+Zip Code: 2873250
+#### ID DOCUMENTS ####
+CPF: 39268291843
+#### CONTACT ####
+CONTACT PHONE: (11) 38593807
+CONTACT CELL PHONE: () 92293321
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: luan.ts@hotmail.com.br
+Secondary E-mailluan.ts@hotmail.com.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 550209
+Number: 550209******7005
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-10-15T09:39:38

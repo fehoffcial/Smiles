@@ -1,0 +1,33 @@
+##### ID: 60856258393 | PASSWORD: 9647 | MILES: 0 #####
+FULL NAME: NATANIO CARLOS DA SILVA | MEMBER ID: 124365824
+BIRTHDAY: 1991-04-14
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-10-03T11:36:46.000-03:00
+#### ADDRESS ####
+Street Name: VISCONDE DO RIO BRANCO
+Number: 2857
+Complement: A
+City: FORTALEZA
+State: CE
+Country: Brazil
+Zip Code: 60055172
+#### ID DOCUMENTS ####
+CPF: 60856258393
+#### CONTACT ####
+CONTACT PHONE: (85) 30857749
+CONTACT CELL PHONE: () 991287943
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: carlos@telemrepair.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

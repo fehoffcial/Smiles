@@ -1,0 +1,33 @@
+##### ID: 21554703808 | PASSWORD: 6623 | MILES: 0 #####
+FULL NAME: EDSOM BARBOZA VALIM | MEMBER ID: 109256534
+BIRTHDAY: 1978-11-30
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-02-14T17:39:56.000-02:00
+#### ADDRESS ####
+Street Name: FRANCISCO FOOT
+Number: 176
+Complement: predio 03 apt 21
+City: GUARULHOS
+State: SP
+Country: Brazil
+Zip Code: 07051090
+#### ID DOCUMENTS ####
+CPF: 21554703808
+#### CONTACT ####
+CONTACT PHONE: (11) 22290123
+CONTACT CELL PHONE: () 995860070
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: dorginho32@gmail.com
+Secondary E-maildorginho48@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

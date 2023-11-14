@@ -1,0 +1,33 @@
+##### ID: 52952533253 | PASSWORD: 1518 | MILES: 0 #####
+FULL NAME: JOHN LENNON LOPES DE OLIVEIRA | MEMBER ID: 125095180
+BIRTHDAY: 1991-12-15
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-10-18T11:30:45.000-03:00
+#### ADDRESS ####
+Street Name: 7 DE DEZEMBRO
+Number: 465
+Complement: Casa
+City: RIO BRANCO
+State: AC
+Country: Brazil
+Zip Code: 69902756
+#### ID DOCUMENTS ####
+CPF: 52952533253
+#### CONTACT ####
+CONTACT PHONE: (68) 32287846
+CONTACT CELL PHONE: () 999339480
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: brxjohnlopes@hotmail.com
+Secondary E-mailjohngadita12@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

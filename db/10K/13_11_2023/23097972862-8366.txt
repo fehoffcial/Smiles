@@ -1,0 +1,33 @@
+##### ID: 23097972862 | PASSWORD: 8366 | MILES: 0 #####
+FULL NAME: BRUNA SILVA | MEMBER ID: 444319492
+BIRTHDAY: 1990-04-09
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2016-01-03T17:33:49.000-02:00
+#### ADDRESS ####
+Street Name: CARLOS SEVERO
+Number: 5
+Complement: 5A
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 5871240
+#### ID DOCUMENTS ####
+CPF: 23097972862
+#### CONTACT ####
+CONTACT PHONE: (11) 58335160
+CONTACT CELL PHONE: () 983665499
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: bruna.patroni@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

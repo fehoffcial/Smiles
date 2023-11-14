@@ -1,0 +1,33 @@
+##### ID: 74764535300 | PASSWORD: 1979 | MILES: 0 #####
+FULL NAME: ANTONIO CANDIDO | MEMBER ID: 444423420
+BIRTHDAY: 1979-01-08
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2016-01-06T19:26:33.000-02:00
+#### ADDRESS ####
+Street Name: ACÁCIA AZUL
+Number: 38
+Complement: PROXIMO A PRAÇA
+City: OSASCO
+State: SP
+Country: Brazil
+Zip Code: 06226415
+#### ID DOCUMENTS ####
+CPF: 74764535300
+#### CONTACT ####
+CONTACT PHONE: (11) 45750985
+CONTACT CELL PHONE: () 965486893
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: adamhalley@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,33 @@
+##### ID: 405017480 | PASSWORD: 6404 | MILES: 24686 #####
+FULL NAME: DANIEL COELHO | MEMBER ID: 405017480
+BIRTHDAY: 1964-04-03
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 24686
+Miles To Expire: 240
+Member Since: 2013-08-18T06:47:07.000-03:00
+#### ADDRESS ####
+Street Name: AQUILINO SANCHES
+Number: 33
+Complement: CASA
+City: MARABÁ
+State: PA
+Country: Brazil
+Zip Code: 68502350
+#### ID DOCUMENTS ####
+CPF: 25160788204
+#### CONTACT ####
+CONTACT PHONE: (94) 33243174
+CONTACT CELL PHONE: () 996626944
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: colherxia@gmail.com
+Secondary E-mailcolherxia@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 230650
+Number: 230650******4507
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-10-25T21:36:04

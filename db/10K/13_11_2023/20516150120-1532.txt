@@ -1,0 +1,33 @@
+##### ID: 20516150120 | PASSWORD: 1532 | MILES: 0 #####
+FULL NAME: VALDECI BARCELOS DE ANDRADE | MEMBER ID: 457559340
+BIRTHDAY: 1957-10-21
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2017-06-13T20:26:40.000-03:00
+#### ADDRESS ####
+Street Name: COBERTURA
+Number: 128
+Complement: Laranjeiras
+City: UBERLÂNDIA
+State: MG
+Country: Brazil
+Zip Code: 38410480
+#### ID DOCUMENTS ####
+CPF: 20516150120
+#### CONTACT ####
+CONTACT PHONE: (34) 32107747
+CONTACT CELL PHONE: () 996827747
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: valdeciandrade128@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

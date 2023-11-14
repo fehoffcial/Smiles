@@ -1,0 +1,33 @@
+##### ID: 13343642738 | PASSWORD: 5394 | MILES: 0 #####
+FULL NAME: CARINA RODRIGUES | MEMBER ID: 455469696
+BIRTHDAY: 1989-04-29
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2017-03-19T07:57:12.000-03:00
+#### ADDRESS ####
+Street Name: RUA PONCIANO AZEREDO FURTADO PIRATININGA
+Number: 147
+Complement: BLOCO 02 APT 102
+City: NITERÓI
+State: RJ
+Country: Brazil
+Zip Code: 24350247
+#### ID DOCUMENTS ####
+CPF: 13343642738
+#### CONTACT ####
+CONTACT PHONE: (21) 27240982
+CONTACT CELL PHONE: () 995384656
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: cgagliano89@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

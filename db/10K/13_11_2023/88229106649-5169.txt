@@ -1,0 +1,66 @@
+##### ID: 88229106649 | PASSWORD: 5169 | MILES: 455 #####
+FULL NAME: ROGELIO SILVA SOUZA | MEMBER ID: 123156342
+BIRTHDAY: 1972-03-08
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 455
+Miles To Expire: 455
+Member Since: 2019-09-09T08:57:03.000-03:00
+#### ADDRESS ####
+Street Name: BIAS FORTES
+Number: 530
+Complement: NOVA ERA
+City: BOA ESPERANÇA
+State: MG
+Country: Brazil
+Zip Code: 37170000
+#### ID DOCUMENTS ####
+CPF: 88229106649
+#### CONTACT ####
+CONTACT PHONE: (35) 38515670
+CONTACT CELL PHONE: () 988795251
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: rogeliosouzacredito@gmail.com
+Secondary E-mailwsouza.uai@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 530780
+Number: 530780******1699
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2020-03-06T15:11:38
+##### ID: 88229106649 | PASSWORD: 5169 | MILES: 455 #####
+FULL NAME: ROGELIO SILVA SOUZA | MEMBER ID: 123156342
+BIRTHDAY: 1972-03-08
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 455
+Miles To Expire: 455
+Member Since: 2019-09-09T08:57:03.000-03:00
+#### ADDRESS ####
+Street Name: BIAS FORTES
+Number: 530
+Complement: NOVA ERA
+City: BOA ESPERANÇA
+State: MG
+Country: Brazil
+Zip Code: 37170000
+#### ID DOCUMENTS ####
+CPF: 88229106649
+#### CONTACT ####
+CONTACT PHONE: (35) 38515670
+CONTACT CELL PHONE: () 988795251
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: rogeliosouzacredito@gmail.com
+Secondary E-mailwsouza.uai@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 530780
+Number: 530780******1699
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2020-03-06T15:11:38

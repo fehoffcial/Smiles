@@ -1,0 +1,33 @@
+##### ID: 55423922020 | PASSWORD: 2865 | MILES: 0 #####
+FULL NAME: GRISELDA ESTHER JARA DE GARRIDO | MEMBER ID: 525247623
+BIRTHDAY: 1965-07-12
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 1998-11-25T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: N/A
+Number: 
+Complement: N/A
+City: N/A
+State: SP
+Country: Brazil
+Zip Code: 00000000
+#### ID DOCUMENTS ####
+CPF: 55423922020
+#### CONTACT ####
+CONTACT PHONE: (12) 32077959
+CONTACT CELL PHONE: () 981497153
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: grisel.grisel@gmail.com
+Secondary E-mailGRISEL.GRISEL@GMAIL.COM
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

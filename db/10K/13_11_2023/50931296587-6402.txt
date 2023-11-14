@@ -1,0 +1,33 @@
+##### ID: 50931296587 | PASSWORD: 6402 | MILES: 0 #####
+FULL NAME: PATRICIA Cardoso | MEMBER ID: 042605614
+BIRTHDAY: 1969-04-13
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 1998-09-25T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: BARÃO DE MAUÁ
+Number: 5430
+Complement: Casa 02 Jardim Itapeva
+City: MAUÁ
+State: SP
+Country: Brazil
+Zip Code: 09330150
+#### ID DOCUMENTS ####
+CPF: 50931296587
+#### CONTACT ####
+CONTACT PHONE: (11) 34204005
+CONTACT CELL PHONE: () 940303342
+CONTACT SECONDARY CELL PHONE: () 2119982
+CONTACT WORK PHONE: () 2111819
+### E-MAIL ####
+E-mail: pmbcmendes@yahoo.com.br
+Secondary E-mailCesar_fm@live.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

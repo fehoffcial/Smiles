@@ -1,0 +1,33 @@
+##### ID: 48022063304 | PASSWORD: 8060 | MILES: 0 #####
+FULL NAME: FABIANA MADJA DOS SANTOS FEITOSA | MEMBER ID: 358826775
+BIRTHDAY: 1973-03-16
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2011-07-30T15:35:25.000-03:00
+#### ADDRESS ####
+Street Name: MUNDICA PAULA, FORTALEZA, CE1
+Number: 681
+Complement: BLOCO L AP 301
+City: FORTALEZA
+State: CE
+Country: Brazil
+Zip Code: 60421410
+#### ID DOCUMENTS ####
+CPF: 48022063304
+#### CONTACT ####
+CONTACT PHONE: (85) 32961442
+CONTACT CELL PHONE: () 86270826
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 34645123
+### E-MAIL ####
+E-mail: fabianamadja@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

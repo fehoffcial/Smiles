@@ -1,0 +1,33 @@
+##### ID: 73462136100 | PASSWORD: 1370 | MILES: 11640 #####
+FULL NAME: RODRIGO LUCAS MIRANDA RODRIGUES | MEMBER ID: 451016963
+BIRTHDAY: 1993-11-05
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 11640
+Miles To Expire: 600
+Member Since: 2016-10-24T11:17:47.000-02:00
+#### ADDRESS ####
+Street Name: J
+Number: 09
+Complement: MÓDULO J
+City: BRASÍLIA
+State: DF
+Country: Brazil
+Zip Code: 73401230
+#### ID DOCUMENTS ####
+CPF: 73462136100
+#### CONTACT ####
+CONTACT PHONE: (61) 34882905
+CONTACT CELL PHONE: () 999800511
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: rlucasmr@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 498406
+Number: 498406******7393
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2022-08-31T19:50:07

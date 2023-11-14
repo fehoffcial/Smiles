@@ -1,0 +1,33 @@
+##### ID: 00507217128 | PASSWORD: 2941 | MILES: 33854 #####
+FULL NAME: NATALIA FERRAZ DA SILVA | MEMBER ID: 461171793
+BIRTHDAY: 1984-11-09
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 33854
+Miles To Expire: 712
+Member Since: 2017-10-16T13:01:59.000-02:00
+#### ADDRESS ####
+Street Name: NOSSA SENHORA DAS MERCES
+Number: 555
+Complement: CASA 3
+City: CAMPO GRANDE
+State: MS
+Country: Brazil
+Zip Code: 79040160
+#### ID DOCUMENTS ####
+CPF: 00507217128
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 981485184
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: natferrazs1@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 406669
+Number: 406669******4592
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2023-07-15T05:36:18

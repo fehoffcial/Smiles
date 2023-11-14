@@ -1,0 +1,33 @@
+##### ID: 47884789515 | PASSWORD: 7405 | MILES: 4738 #####
+FULL NAME: BENICIO ALEXO DOS SANTOS | MEMBER ID: 232282573
+BIRTHDAY: 1972-03-22
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 4738
+Miles To Expire: 304
+Member Since: 2006-01-13T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: Rua Antonio Jose dos Santos,jabotiana
+Number: nº 4, casa 24
+Complement: Condominio Vivendas do Santa Lucia
+City: ARACAJU
+State: SE
+Country: Brazil
+Zip Code: 49095783
+#### ID DOCUMENTS ####
+CPF: 47884789515
+#### CONTACT ####
+CONTACT PHONE: (79) 32593762
+CONTACT CELL PHONE: () 988646973
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: beniciosubsea@hotmail.com
+Secondary E-mailbeniciosubsea@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

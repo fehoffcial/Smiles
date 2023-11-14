@@ -1,0 +1,33 @@
+##### ID: 85208612020 | PASSWORD: 2015 | MILES: 1860 #####
+FULL NAME: DIEGO ROBERTO MACHADO PEREIRA | MEMBER ID: 460385085
+BIRTHDAY: 1995-09-04
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 1860
+Miles To Expire: 1812
+Member Since: 2017-09-16T19:36:53.000-03:00
+#### ADDRESS ####
+Street Name: 26 DE MAIO
+Number: 31
+Complement: CASA
+City: PORTO ALEGRE
+State: RS
+Country: Brazil
+Zip Code: 91260510
+#### ID DOCUMENTS ####
+CPF: 85208612020
+#### CONTACT ####
+CONTACT PHONE: (51) 33878096
+CONTACT CELL PHONE: () 998431850
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: drimpper@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 423071
+Number: 423071******1832
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2018-12-12T12:07:47

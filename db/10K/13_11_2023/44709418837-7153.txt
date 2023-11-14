@@ -1,0 +1,33 @@
+##### ID: 44709418837 | PASSWORD: 7153 | MILES: 0 #####
+FULL NAME: DIOGO DOS SANTOS SANTANA | MEMBER ID: 128650340
+BIRTHDAY: 1996-09-30
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-12-28T17:45:06.000-03:00
+#### ADDRESS ####
+Street Name: M 21A
+Number: 1572
+Complement: 
+City: RIO CLARO
+State: SP
+Country: Brazil
+Zip Code: 13505532
+#### ID DOCUMENTS ####
+CPF: 44709418837
+#### CONTACT ####
+CONTACT PHONE: (19) 97914352
+CONTACT CELL PHONE: () 997914352
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: diogo.santos.santana@gmail.com
+Secondary E-maildiogo.santos.santana@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

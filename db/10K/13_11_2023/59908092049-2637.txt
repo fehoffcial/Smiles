@@ -1,0 +1,33 @@
+##### ID: 59908092049 | PASSWORD: 2637 | MILES: 8308 #####
+FULL NAME: JAIR FRANCISCO FALCADE | MEMBER ID: 701029361
+BIRTHDAY: 1967-06-02
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 8308
+Miles To Expire: 451
+Member Since: 2001-10-29T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: QUINZE DE NOVEMBRO
+Number: 1626
+Complement: 201 B
+City: PELOTAS
+State: RS
+Country: Brazil
+Zip Code: 96015000
+#### ID DOCUMENTS ####
+CPF: 59908092049
+#### CONTACT ####
+CONTACT PHONE: (53) 32233960
+CONTACT CELL PHONE: () 991495519
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: jairfrancisco.falcade@gmail.com
+Secondary E-mailjair.falcade@sanofi.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 515590
+Number: 515590******3879
+BRAND: MASTERCARD
+Gateway: 
+Payment Date: 2018-01-15T07:41:54

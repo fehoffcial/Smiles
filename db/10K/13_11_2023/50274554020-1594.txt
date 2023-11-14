@@ -1,0 +1,33 @@
+##### ID: 50274554020 | PASSWORD: 1594 | MILES: 0 #####
+FULL NAME: DIONEI PIVOTO | MEMBER ID: 390360283
+BIRTHDAY: 1967-11-20
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2013-01-02T13:51:17.000-02:00
+#### ADDRESS ####
+Street Name: Thomás Fortes
+Number: 581
+Complement: casa
+City: santiago
+State: RS
+Country: Brazil
+Zip Code: 97700000000
+#### ID DOCUMENTS ####
+CPF: 50274554020
+#### CONTACT ####
+CONTACT PHONE: (55) 32512888
+CONTACT CELL PHONE: () 99743847
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: pivoto90@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

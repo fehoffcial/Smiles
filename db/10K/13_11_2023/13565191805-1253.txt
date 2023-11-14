@@ -1,0 +1,33 @@
+##### ID: 13565191805 | PASSWORD: 1253 | MILES: 16685 #####
+FULL NAME: LOIDE FERREIRA GOMES BATISTA | MEMBER ID: 135906562
+BIRTHDAY: 1971-10-11
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 16685
+Miles To Expire: 60
+Member Since: 2020-08-25T15:03:06.000-03:00
+#### ADDRESS ####
+Street Name: JOSÉ GOMES DA CUNHA
+Number: 303
+Complement: 
+City: SOROCABA
+State: SP
+Country: Brazil
+Zip Code: 18078240
+#### ID DOCUMENTS ####
+CPF: 13565191805
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 981809152
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: loide.batista@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 404024
+Number: 404024******2734
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2022-01-13T09:41:03

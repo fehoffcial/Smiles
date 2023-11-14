@@ -1,0 +1,33 @@
+##### ID: 49070525615 | PASSWORD: 4038 | MILES: 2755 #####
+FULL NAME: MOYSES DUARTE JORGE | MEMBER ID: 383004156
+BIRTHDAY: 1964-01-04
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 2755
+Miles To Expire: 1051
+Member Since: 2012-07-31T20:32:42.000-03:00
+#### ADDRESS ####
+Street Name: Rua DOS GUAJAJARAS
+Number: 863
+Complement: B1 604
+City: BELO HORIZONTE
+State: MG
+Country: Brazil
+Zip Code: 30180100
+#### ID DOCUMENTS ####
+CPF: 49070525615
+#### CONTACT ####
+CONTACT PHONE: (31) 96036347
+CONTACT CELL PHONE: () 999936347
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: modjorge@yahoo.com.br
+Secondary E-mailmoyses.jorge@comau.com.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

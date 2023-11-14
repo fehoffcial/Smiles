@@ -1,0 +1,33 @@
+##### ID: 16197130718 | PASSWORD: 6915 | MILES: 0 #####
+FULL NAME: BRUNO SEDANO | MEMBER ID: 458000023
+BIRTHDAY: 1996-10-07
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2017-06-28T22:49:14.000-03:00
+#### ADDRESS ####
+Street Name: SÃO LOURENÇO
+Number: 
+Complement: 
+City: DUQUE DE CAXIAS
+State: RJ
+Country: Brazil
+Zip Code: 25243150
+#### ID DOCUMENTS ####
+CPF: 16197130718
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: producoes.bsd@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

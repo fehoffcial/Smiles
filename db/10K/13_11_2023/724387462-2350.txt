@@ -1,0 +1,33 @@
+##### ID: 724387462 | PASSWORD: 2350 | MILES: 2193 #####
+FULL NAME: BRUNO MONTAGNER BEVACQUA | MEMBER ID: 724387462
+BIRTHDAY: 1982-01-08
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 2193
+Miles To Expire: 760
+Member Since: 2008-10-28T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: CAROLINA PRADO PENTEADO
+Number: 383
+Complement: apto 24
+City: CAMPINAS
+State: SP
+Country: Brazil
+Zip Code: 13092470
+#### ID DOCUMENTS ####
+CPF: 22337244881
+#### CONTACT ####
+CONTACT PHONE: (19) 81545098
+CONTACT CELL PHONE: () 999711742
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: bruno.bevacqua@outlook.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,33 @@
+##### ID: 88283208187 | PASSWORD: 2806 | MILES: 1600 #####
+FULL NAME: MARCIANA RODRIGUES CARNEIRO | MEMBER ID: 449457606
+BIRTHDAY: 1980-10-27
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 1600
+Miles To Expire: 1600
+Member Since: 2016-08-16T11:11:13.000-03:00
+#### ADDRESS ####
+Street Name: 24
+Number: 32
+Complement: CASA 20
+City: VALPARAÍSO DE GOIÁS
+State: GO
+Country: Brazil
+Zip Code: 72870283
+#### ID DOCUMENTS ####
+CPF: 88283208187
+#### CONTACT ####
+CONTACT PHONE: (61) 36293158
+CONTACT CELL PHONE: () 993317570
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: marcicarneiro@gmail.com
+Secondary E-mailmarcicarneiro@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 526769
+Number: 526769******2908
+BRAND: Mastercard
+Gateway: 
+Payment Date: 2017-07-05T10:33:26

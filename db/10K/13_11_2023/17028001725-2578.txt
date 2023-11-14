@@ -1,0 +1,33 @@
+##### ID: 17028001725 | PASSWORD: 2578 | MILES: 0 #####
+FULL NAME: PHILIPE DIAS RUIZ MARTINS | MEMBER ID: 124017235
+BIRTHDAY: 1996-08-17
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-09-27T08:00:24.000-03:00
+#### ADDRESS ####
+Street Name: HAROLDO FERREIRA MAGALHÃES
+Number: 5
+Complement: Quadra 5
+City: SÃO GONÇALO
+State: RJ
+Country: Brazil
+Zip Code: 24745530
+#### ID DOCUMENTS ####
+CPF: 17028001725
+#### CONTACT ####
+CONTACT PHONE: (21) 37114484
+CONTACT CELL PHONE: () 989164594
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: philipe.ruiz@gmail.com
+Secondary E-mailphilipe.ruiz@msn.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

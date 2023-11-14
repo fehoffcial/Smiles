@@ -1,0 +1,33 @@
+##### ID: 18480727756 | PASSWORD: 2809 | MILES: 0 #####
+FULL NAME: SUSAN RIBEIRO DOS SANTOS | MEMBER ID: 110405293
+BIRTHDAY: 1998-01-13
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-03-17T15:57:45.000-03:00
+#### ADDRESS ####
+Street Name: ROSALINA
+Number: 37
+Complement: casa
+City: NOVA IGUAÇU
+State: RJ
+Country: Brazil
+Zip Code: 26032040
+#### ID DOCUMENTS ####
+CPF: 18480727756
+#### CONTACT ####
+CONTACT PHONE: (21) 36985520
+CONTACT CELL PHONE: () 985280174
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: susan.ribeiro@outlook.com
+Secondary E-mailsusan_santos_20@outlook.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

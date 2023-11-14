@@ -1,0 +1,33 @@
+##### ID: 19319118434 | PASSWORD: 1962 | MILES: 91516 #####
+FULL NAME: FERNANDITO EDESIO GARCIA PINO | MEMBER ID: 116148233
+BIRTHDAY: 1962-06-04
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 91516
+Miles To Expire: 258
+Member Since: 2019-04-25T13:58:19.000-03:00
+#### ADDRESS ####
+Street Name: BEATO JOSÉ LOURENÇO
+Number: 601
+Complement: 
+City: JUAZEIRO DO NORTE
+State: CE
+Country: Brazil
+Zip Code: 63031600
+#### ID DOCUMENTS ####
+CPF: 19319118434
+#### CONTACT ####
+CONTACT PHONE: (88) 35721919
+CONTACT CELL PHONE: () 999652170
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: pastorfernandito@gmail.com
+Secondary E-mailjuazeiroturismo@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 530780
+Number: 530780******6822
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-10-16T01:30:20

@@ -1,0 +1,33 @@
+##### ID: 19726155800 | PASSWORD: 1146 | MILES: 0 #####
+FULL NAME: MARCIO SCIASCIO | MEMBER ID: 730189272
+BIRTHDAY: 1946-11-01
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2009-09-21T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: RUA SEBATIAO FRANCO DE ARRUDA
+Number: 669
+Complement: 
+City: BARRA BONITA
+State: SP
+Country: Brazil
+Zip Code: 17340000
+#### ID DOCUMENTS ####
+CPF: 19726155800
+#### CONTACT ####
+CONTACT PHONE: (14) 36413815
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: marco.sciascio@raizen.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

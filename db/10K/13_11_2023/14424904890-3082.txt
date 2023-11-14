@@ -1,0 +1,33 @@
+##### ID: 14424904890 | PASSWORD: 3082 | MILES: 0 #####
+FULL NAME: GERALDO DEUSEDITO | MEMBER ID: 475111453
+BIRTHDAY: 1973-04-21
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2018-04-02T22:16:16.000-03:00
+#### ADDRESS ####
+Street Name: DOUTOR GALDINO NUNES VIEIRA
+Number: 261
+Complement: 261
+City: PORTO ALEGRE
+State: RS
+Country: Brazil
+Zip Code: 91215075
+#### ID DOCUMENTS ####
+CPF: 14424904890
+#### CONTACT ####
+CONTACT PHONE: (51) 97400259
+CONTACT CELL PHONE: () 974002595
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: sergio_tec2000@yahoo.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

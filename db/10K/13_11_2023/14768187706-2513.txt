@@ -1,0 +1,33 @@
+##### ID: 14768187706 | PASSWORD: 2513 | MILES: 3343 #####
+FULL NAME: MAYSA FERNANDES DA SILVA | MEMBER ID: 455662981
+BIRTHDAY: 1996-12-10
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 3343
+Miles To Expire: 343
+Member Since: 2017-03-24T09:36:22.000-03:00
+#### ADDRESS ####
+Street Name: PAULO NASCIMENTO
+Number: 341
+Complement: CASA
+City: CARIACICA
+State: ES
+Country: Brazil
+Zip Code: 29155820
+#### ID DOCUMENTS ####
+CPF: 14768187706
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 996483783
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: maysafernandes96@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 423070
+Number: 423070******4495
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2023-10-15T18:39:02

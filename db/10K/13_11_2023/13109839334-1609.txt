@@ -1,0 +1,33 @@
+##### ID: 13109839334 | PASSWORD: 1609 | MILES: 0 #####
+FULL NAME: AVELAR PIAUIENSE DE FREITAS SA | MEMBER ID: 706384313
+BIRTHDAY: 1958-10-13
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 1998-07-17T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: CANDIDO HOLANDA
+Number: 174
+Complement: 
+City: OEIRAS
+State: PI
+Country: Brazil
+Zip Code: 64500000
+#### ID DOCUMENTS ####
+CPF: 13109839334
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: casaveterinaria@bol.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

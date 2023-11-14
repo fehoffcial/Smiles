@@ -1,0 +1,33 @@
+##### ID: 050087074 | PASSWORD: 2751 | MILES: 0 #####
+FULL NAME: MANOEL DOMINGUES MOREIRA | MEMBER ID: 050087074
+BIRTHDAY: 1965-04-24
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 1998-03-13T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: N/A
+Number: 
+Complement: N/A
+City: N/A
+State: SP
+Country: Brazil
+Zip Code: 00000000
+#### ID DOCUMENTS ####
+CPF: 90765710749
+#### CONTACT ####
+CONTACT PHONE: (67) 21098096
+CONTACT CELL PHONE: () 99539951
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: MDMOREIRA@IG.COM.BR
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

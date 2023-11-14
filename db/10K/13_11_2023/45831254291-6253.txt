@@ -1,0 +1,33 @@
+##### ID: 45831254291 | PASSWORD: 6253 | MILES: 2336 #####
+FULL NAME: JOANA CARDOSO | MEMBER ID: 477708696
+BIRTHDAY: 1972-02-18
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 2336
+Miles To Expire: 336
+Member Since: 2018-05-29T20:56:14.000-03:00
+#### ADDRESS ####
+Street Name: MÁRCIA CRISTINA
+Number: 36
+Complement: 
+City: BELÉM
+State: PA
+Country: Brazil
+Zip Code: 66095340
+#### ID DOCUMENTS ####
+CPF: 45831254291
+#### CONTACT ####
+CONTACT PHONE: (91) 30387029
+CONTACT CELL PHONE: () 980866657
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: jceliabitencourt@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 453211
+Number: 453211******6037
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2022-05-05T10:27:36

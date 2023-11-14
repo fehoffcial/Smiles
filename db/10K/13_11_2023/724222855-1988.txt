@@ -1,0 +1,33 @@
+##### ID: 724222855 | PASSWORD: 1988 | MILES: 70224 #####
+FULL NAME: EDSON MARINS DO NASCIMENTO | MEMBER ID: 724222855
+BIRTHDAY: 1962-06-06
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 70224
+Miles To Expire: 901
+Member Since: 2008-10-20T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: JORGE BONN
+Number: 231
+Complement: APT 14 BLOCO 4
+City: CURITIBA
+State: PR
+Country: Brazil
+Zip Code: 82600290
+#### ID DOCUMENTS ####
+CPF: 36231088987
+#### CONTACT ####
+CONTACT PHONE: (65) 41414020
+CONTACT CELL PHONE: () 84162000
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: edsoncasapronta@gmail.com
+Secondary E-mailedsonmarins@pop.com.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 522688
+Number: 522688******9937
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-11-05T12:45:11

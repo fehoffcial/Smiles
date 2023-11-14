@@ -1,0 +1,33 @@
+##### ID: 16249636765 | PASSWORD: 1671 | MILES: 8390 #####
+FULL NAME: LEONARDO HENRIQUE GUERHARDT EVANGELISTA | MEMBER ID: 479614645
+BIRTHDAY: 1997-07-16
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 8390
+Miles To Expire: 4200
+Member Since: 2018-07-12T09:19:38.000-03:00
+#### ADDRESS ####
+Street Name: DOUTOR NILO PEÇANHA
+Number: 1044
+Complement: FUNDOS
+City: MANGARATIBA
+State: RJ
+Country: Brazil
+Zip Code: 23860000
+#### ID DOCUMENTS ####
+CPF: 16249636765
+#### CONTACT ####
+CONTACT PHONE: (21) 27803887
+CONTACT CELL PHONE: () 979291754
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: leoguerhardt15@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

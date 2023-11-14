@@ -1,0 +1,33 @@
+##### ID: 48979795874 | PASSWORD: 7471 | MILES: 64 #####
+FULL NAME: RUANE MARIA CHAVES RODRIGUES | MEMBER ID: 125604905
+BIRTHDAY: 2000-02-08
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 64
+Miles To Expire: 64
+Member Since: 2019-10-29T00:02:43.000-03:00
+#### ADDRESS ####
+Street Name: DOM LUIZ DE SOUZA
+Number: 416
+Complement: a
+City: MOGI DAS CRUZES
+State: SP
+Country: Brazil
+Zip Code: 08740570
+#### ID DOCUMENTS ####
+CPF: 48979795874
+#### CONTACT ####
+CONTACT PHONE: (11) 23124429
+CONTACT CELL PHONE: () 996997509
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: ruane795@gmail.com
+Secondary E-mailmarketing.capcam@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 550209
+Number: 550209******2644
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2020-05-05T04:31:39

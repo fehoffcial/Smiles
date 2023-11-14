@@ -1,0 +1,33 @@
+##### ID: 379963684 | PASSWORD: 8433 | MILES: 4230 #####
+FULL NAME: CELIO TROMBELLI Junior | MEMBER ID: 379963684
+BIRTHDAY: 1981-02-04
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 4230
+Miles To Expire: 230
+Member Since: 2012-06-13T18:35:44.000-03:00
+#### ADDRESS ####
+Street Name: FRITZ KOELLING
+Number: 128
+Complement: APTO 101
+City: JOINVILLE
+State: SC
+Country: Brazil
+Zip Code: 89219130
+#### ID DOCUMENTS ####
+CPF: 00875836909
+#### CONTACT ####
+CONTACT PHONE: (47) 38010103
+CONTACT CELL PHONE: () 999417679
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: celiotrombelli@gmail.com
+Secondary E-mailceliotrombelli@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 425850
+Number: 425850******0341
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2023-10-25T14:44:19

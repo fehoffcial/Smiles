@@ -1,0 +1,33 @@
+##### ID: 22664286838 | PASSWORD: 3072 | MILES: 358 #####
+FULL NAME: LEANDRO PAULO DE BRITO | MEMBER ID: 124531061
+BIRTHDAY: 1984-03-03
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 358
+Miles To Expire: 358
+Member Since: 2019-10-07T09:42:25.000-03:00
+#### ADDRESS ####
+Street Name: JOSÉ AUGUSTO DE MATTOS
+Number: 19
+Complement: 
+City: CAMPINAS
+State: SP
+Country: Brazil
+Zip Code: 13060629
+#### ID DOCUMENTS ####
+CPF: 22664286838
+#### CONTACT ####
+CONTACT PHONE: (19) 21217537
+CONTACT CELL PHONE: () 991416918
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: leandrobritobr@gmail.com
+Secondary E-mailleandrobritobr@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,33 @@
+##### ID: 434497685 | PASSWORD: 7532 | MILES: 0 #####
+FULL NAME: AUTAIR APARECIDO BARBOSA TIEGHI | MEMBER ID: 434497685
+BIRTHDAY: 1963-09-03
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2015-01-11T13:37:56.000-02:00
+#### ADDRESS ####
+Street Name: MANOEL JOSÉ DO NASCIMENTO
+Number: 56
+Complement: casa
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 05762170
+#### ID DOCUMENTS ####
+CPF: 05013273803
+#### CONTACT ####
+CONTACT PHONE: (11) 43276656
+CONTACT CELL PHONE: () 986054449
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: autair_tieghi@hotmail.com
+Secondary E-maila.tieghi@accenture.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,66 @@
+##### ID: 41527537811 | PASSWORD: 2713 | MILES: 300 #####
+FULL NAME: PEDRO GONÇALVES GAMA LOBO PEREIRA | MEMBER ID: 128464070
+BIRTHDAY: 1997-08-27
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 300
+Miles To Expire: 300
+Member Since: 2019-12-23T00:41:20.000-03:00
+#### ADDRESS ####
+Street Name: JOÃO PEIXOTO VIEGAS
+Number: 193
+Complement: ap 122 bloco 1
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 04437000
+#### ID DOCUMENTS ####
+CPF: 41527537811
+#### CONTACT ####
+CONTACT PHONE: (11) 67031202
+CONTACT CELL PHONE: () 940279905
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: pedrogglp@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 512682
+Number: 512682******0493
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-10-19T16:43:33
+##### ID: 41527537811 | PASSWORD: 2713 | MILES: 300 #####
+FULL NAME: PEDRO GONÇALVES GAMA LOBO PEREIRA | MEMBER ID: 128464070
+BIRTHDAY: 1997-08-27
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 300
+Miles To Expire: 300
+Member Since: 2019-12-23T00:41:20.000-03:00
+#### ADDRESS ####
+Street Name: JOÃO PEIXOTO VIEGAS
+Number: 193
+Complement: ap 122 bloco 1
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 04437000
+#### ID DOCUMENTS ####
+CPF: 41527537811
+#### CONTACT ####
+CONTACT PHONE: (11) 67031202
+CONTACT CELL PHONE: () 940279905
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: pedrogglp@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 512682
+Number: 512682******0493
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-10-19T16:43:33

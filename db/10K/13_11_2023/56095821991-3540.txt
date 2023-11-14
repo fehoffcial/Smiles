@@ -1,0 +1,33 @@
+##### ID: 56095821991 | PASSWORD: 3540 | MILES: 0 #####
+FULL NAME: ROGERIO MACEDO CARNEIRO | MEMBER ID: 121048001
+BIRTHDAY: 1966-01-30
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-07-26T18:44:09.000-03:00
+#### ADDRESS ####
+Street Name: ATAÚLFO ALVES
+Number: 300
+Complement: 
+City: PONTA GROSSA
+State: PR
+Country: Brazil
+Zip Code: 84050360
+#### ID DOCUMENTS ####
+CPF: 56095821991
+#### CONTACT ####
+CONTACT PHONE: (42) 30251484
+CONTACT CELL PHONE: () 999141313
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: maysa.weigert@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

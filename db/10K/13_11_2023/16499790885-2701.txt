@@ -1,0 +1,33 @@
+##### ID: 16499790885 | PASSWORD: 2701 | MILES: 4948 #####
+FULL NAME: CLAUDIO DE BRITO CARVALHO | MEMBER ID: 725428815
+BIRTHDAY: 1976-02-05
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 4948
+Miles To Expire: 653
+Member Since: 2009-01-15T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: JORGE DE ALMEIDA QUIRINO
+Number: 313
+Complement: casa 1
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 03567100
+#### ID DOCUMENTS ####
+CPF: 16499790885
+#### CONTACT ####
+CONTACT PHONE: (11) 41720181
+CONTACT CELL PHONE: () 993481565
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: claudio.b.carvalho@gmail.com
+Secondary E-mailbc_claudio@icloud.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

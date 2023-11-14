@@ -1,0 +1,33 @@
+##### ID: 16428606704 | PASSWORD: 2928 | MILES: 11300 #####
+FULL NAME: GUSTAVO  LEON DA SILVA SANTOS | MEMBER ID: 357346286
+BIRTHDAY: 2005-03-28
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 11300
+Miles To Expire: 300
+Member Since: 2011-07-11T03:44:27.000-03:00
+#### ADDRESS ####
+Street Name: Av. Marechal Mascarenhas de Moraes, 4780 Apt 103
+Number: 4780
+Complement: 103
+City: Recife
+State: PE
+Country: Brazil
+Zip Code: 51180001
+#### ID DOCUMENTS ####
+CPF: 16428606704
+#### CONTACT ####
+CONTACT PHONE: (81) 33224203
+CONTACT CELL PHONE: () 997284514
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: gustavoleonbr@yahoo.com.br
+Secondary E-mailmarinelzasilva@yahoo.com.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 506741
+Number: 506741******5706
+BRAND: ELO
+Gateway: Cielo
+Payment Date: 2020-08-26T01:29:14

@@ -1,0 +1,33 @@
+##### ID: 22697293825 | PASSWORD: 1520 | MILES: 0 #####
+FULL NAME: ALFREDO BASSO | MEMBER ID: 464972944
+BIRTHDAY: 1982-02-10
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2017-10-30T08:51:53.000-02:00
+#### ADDRESS ####
+Street Name: N/A
+Number: 
+Complement: 
+City: N/A
+State: SP
+Country: Brazil
+Zip Code: 00000000
+#### ID DOCUMENTS ####
+CPF: 22697293825
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: jnafgn@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

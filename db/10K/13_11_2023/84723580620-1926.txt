@@ -1,0 +1,33 @@
+##### ID: 84723580620 | PASSWORD: 1926 | MILES: 44 #####
+FULL NAME: ED WILSON MARCAL FARIA | MEMBER ID: 457669796
+BIRTHDAY: 1971-09-02
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 44
+Miles To Expire: 44
+Member Since: 2017-06-18T13:02:43.000-03:00
+#### ADDRESS ####
+Street Name: ACRE
+Number: 551
+Complement: 
+City: UBERLÂNDIA
+State: MG
+Country: Brazil
+Zip Code: 38402022
+#### ID DOCUMENTS ####
+CPF: 84723580620
+#### CONTACT ####
+CONTACT PHONE: (34) 32228988
+CONTACT CELL PHONE: () 992139906
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: edwilsonmarcal@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 459383
+Number: 459383******9378
+BRAND: VISA
+Gateway: 
+Payment Date: 2019-01-05T12:55:56

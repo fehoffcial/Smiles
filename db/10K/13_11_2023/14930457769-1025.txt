@@ -1,0 +1,33 @@
+##### ID: 14930457769 | PASSWORD: 1025 | MILES: 126 #####
+FULL NAME: ALINE DOS ANJOS PUPO | MEMBER ID: 137383702
+BIRTHDAY: 1993-12-23
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 126
+Miles To Expire: 126
+Member Since: 2020-10-08T19:10:50.000-03:00
+#### ADDRESS ####
+Street Name: PREFEITO JOÃO GREGÓRIO GALINDO
+Number: 576
+Complement: casa
+City: ANGRA DOS REIS
+State: RJ
+Country: Brazil
+Zip Code: 23934005
+#### ID DOCUMENTS ####
+CPF: 14930457769
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 992548248
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: aline.pupo@outlook.com
+Secondary E-mailaline.pupo@outlook.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

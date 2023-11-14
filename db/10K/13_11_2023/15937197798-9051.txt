@@ -1,0 +1,33 @@
+##### ID: 15937197798 | PASSWORD: 9051 | MILES: 50 #####
+FULL NAME: KEVIN DOS SANTOS BARBOSA | MEMBER ID: 123301636
+BIRTHDAY: 1996-11-26
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 50
+Miles To Expire: 50
+Member Since: 2019-09-11T17:09:47.000-03:00
+#### ADDRESS ####
+Street Name: HORÁCIO PESSINI
+Number: 620
+Complement: Ap 231
+City: RIBEIRÃO PRETO
+State: SP
+Country: Brazil
+Zip Code: 14026590
+#### ID DOCUMENTS ####
+CPF: 15937197798
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 991142809
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: kevinsantos.cadastro@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 550209
+Number: 550209******0420
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2020-06-15T12:26:12

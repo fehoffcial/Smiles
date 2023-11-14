@@ -1,0 +1,33 @@
+##### ID: 13375095740 | PASSWORD: 1612 | MILES: 574 #####
+FULL NAME: THAIS DANIEL DA ROCHA | MEMBER ID: 105825204
+BIRTHDAY: 1990-10-11
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 574
+Miles To Expire: 49
+Member Since: 2018-12-01T00:02:30.000-02:00
+#### ADDRESS ####
+Street Name: CARLOS FREIRE
+Number: 60
+Complement: Apt 108
+City: RIO DE JANEIRO
+State: RJ
+Country: Brazil
+Zip Code: 23059130
+#### ID DOCUMENTS ####
+CPF: 13375095740
+#### CONTACT ####
+CONTACT PHONE: (21) 33840188
+CONTACT CELL PHONE: () 969090105
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: thais.danny.rocha@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

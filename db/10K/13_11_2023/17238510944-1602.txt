@@ -1,0 +1,33 @@
+##### ID: 17238510944 | PASSWORD: 1602 | MILES: 627 #####
+FULL NAME: ANTONIO CARLOS RAMOS | MEMBER ID: 120810432
+BIRTHDAY: 1948-03-16
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 627
+Miles To Expire: 627
+Member Since: 2019-07-22T13:27:45.000-03:00
+#### ADDRESS ####
+Street Name: NAVEGANTES
+Number: 6037
+Complement: RUA NAVEGANTES
+City: PORTO VELHO
+State: RO
+Country: Brazil
+Zip Code: 76807714
+#### ID DOCUMENTS ####
+CPF: 17238510944
+#### CONTACT ####
+CONTACT PHONE: (69) 32217079
+CONTACT CELL PHONE: () 992431308
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: danielmpaulino@hotmail.com
+Secondary E-mailkellykhar@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

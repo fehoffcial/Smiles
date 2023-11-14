@@ -1,0 +1,33 @@
+##### ID: 60681608749 | PASSWORD: 1347 | MILES: 92514 #####
+FULL NAME: RIVADAVIA ARTUR MASCARENHAS CAMPOS | MEMBER ID: 719557403
+BIRTHDAY: 1954-06-09
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 92514
+Miles To Expire: 10000
+Member Since: 2003-01-24T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: DESEMBARGADOR AUGUSTO BOTELHO
+Number: 575
+Complement: 604
+City: VILA VELHA
+State: ES
+Country: Brazil
+Zip Code: 29101110
+#### ID DOCUMENTS ####
+CPF: 60681608749
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 997551705
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: camposriva@hotmail.com
+Secondary E-mailrivadavia@bandes.com.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 549167
+Number: 549167******7787
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-10-16T03:48:24

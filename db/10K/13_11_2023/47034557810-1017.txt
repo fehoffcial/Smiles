@@ -1,0 +1,33 @@
+##### ID: 47034557810 | PASSWORD: 1017 | MILES: 1605 #####
+FULL NAME: KESSLER GONÇALVES DOS REIS | MEMBER ID: 121528433
+BIRTHDAY: 1996-11-12
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 1605
+Miles To Expire: 241
+Member Since: 2019-08-05T11:12:52.000-03:00
+#### ADDRESS ####
+Street Name: GENERAL VITORINO
+Number: 35
+Complement: 
+City: PORTO ALEGRE
+State: RS
+Country: Brazil
+Zip Code: 90020171
+#### ID DOCUMENTS ####
+CPF: 47034557810
+#### CONTACT ####
+CONTACT PHONE: (51) 32241543
+CONTACT CELL PHONE: () 982504776
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: kessler_548@hotmail.com
+Secondary E-mailkessler.548@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

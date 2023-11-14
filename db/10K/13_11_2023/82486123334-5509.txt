@@ -1,0 +1,33 @@
+##### ID: 82486123334 | PASSWORD: 5509 | MILES: 55846 #####
+FULL NAME: LIANA PRACA OLIVEIRA | MEMBER ID: 347871790
+BIRTHDAY: 1978-03-31
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 55846
+Miles To Expire: 250
+Member Since: 2011-02-21T18:35:15.000-03:00
+#### ADDRESS ####
+Street Name: JOSE MOACIR BEZERRA
+Number: 1133
+Complement: 
+City: FORTALEZA
+State: CE
+Country: Brazil
+Zip Code: 60833414
+#### ID DOCUMENTS ####
+CPF: 82486123334
+#### CONTACT ####
+CONTACT PHONE: (85) 32426839
+CONTACT CELL PHONE: () 999720129
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: virgiliocbarros74@gmail.com
+Secondary E-maillianarpraca@yahoo.com.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 459080
+Number: 459080******4689
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2023-10-16T04:19:06

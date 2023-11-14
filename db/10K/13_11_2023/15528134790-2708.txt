@@ -1,0 +1,33 @@
+##### ID: 15528134790 | PASSWORD: 2708 | MILES: 20360 #####
+FULL NAME: THAÍS NASCIMENTO DE ALMEIDA | MEMBER ID: 140446014
+BIRTHDAY: 1996-08-20
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 20360
+Miles To Expire: 360
+Member Since: 2021-01-12T07:44:44.000-03:00
+#### ADDRESS ####
+Street Name: MARECHAL HERMES
+Number: 137
+Complement: Fundos, casa 4
+City: DUQUE DE CAXIAS
+State: RJ
+Country: Brazil
+Zip Code: 25065110
+#### ID DOCUMENTS ####
+CPF: 15528134790
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 973881506
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: thais.de.almeiida@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 550209
+Number: 550209******5668
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-10-15T13:52:30

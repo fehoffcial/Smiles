@@ -1,0 +1,33 @@
+##### ID: 61431265934 | PASSWORD: 2654 | MILES: 0 #####
+FULL NAME: MARCOS ROBERTO STORM | MEMBER ID: 733769525
+BIRTHDAY: 1967-04-30
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2010-04-22T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: RUA PITANGA
+Number: 41
+Complement: 
+City: APUCARANA
+State: PR
+Country: Brazil
+Zip Code: 86804300
+#### ID DOCUMENTS ####
+CPF: 61431265934
+#### CONTACT ####
+CONTACT PHONE: (43) 34234179
+CONTACT CELL PHONE: () 99360882
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 34223804
+### E-MAIL ####
+E-mail: MRSTORM@UOL.COM.BR
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

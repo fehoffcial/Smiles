@@ -1,0 +1,33 @@
+##### ID: 87495104104 | PASSWORD: 2389 | MILES: 0 #####
+FULL NAME: YARA ALBUQUERQUE MARTINS ALBUQUERQUE MARTINS | MEMBER ID: 369313722
+BIRTHDAY: 1976-09-08
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2012-01-08T17:09:58.000-02:00
+#### ADDRESS ####
+Street Name: AGRICOLA SAMAMBAIA, TAGUATINGA
+Number: 120
+Complement: LT.29/3061
+City: TAGUATINGA
+State: DF
+Country: Brazil
+Zip Code: 72110600
+#### ID DOCUMENTS ####
+CPF: 87495104104
+#### CONTACT ####
+CONTACT PHONE: (61) 35427408
+CONTACT CELL PHONE: () 86167105
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: yaraamartins@gmail.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

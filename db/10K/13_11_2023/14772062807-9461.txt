@@ -1,0 +1,33 @@
+##### ID: 14772062807 | PASSWORD: 9461 | MILES: 0 #####
+FULL NAME: ALESSANDRO LOZANO | MEMBER ID: 458599875
+BIRTHDAY: 1973-11-26
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2017-07-20T23:40:13.000-03:00
+#### ADDRESS ####
+Street Name: RUA LUIZ VIEIRA DE SOUZA
+Number: 40
+Complement: TORRE 2 AP 84
+City: SBC
+State: SP
+Country: Brazil
+Zip Code: 09668130
+#### ID DOCUMENTS ####
+CPF: 14772062807
+#### CONTACT ####
+CONTACT PHONE: (11) 25349447
+CONTACT CELL PHONE: () 993529110
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: alozano33@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

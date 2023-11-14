@@ -1,0 +1,33 @@
+##### ID: 16561366786 | PASSWORD: 1512 | MILES: 0 #####
+FULL NAME: MARCOS VINICIOS LUZ SANTOS | MEMBER ID: 110141533
+BIRTHDAY: 1998-02-16
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-03-10T21:45:16.000-03:00
+#### ADDRESS ####
+Street Name: LAMBARIS
+Number: 29
+Complement: Condomínio ilha da caieira
+City: MACAÉ
+State: RJ
+Country: Brazil
+Zip Code: 27961008
+#### ID DOCUMENTS ####
+CPF: 16561366786
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 999964606
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: vini_viniciusds@hotmail.com
+Secondary E-mailVini.viniciusds91@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

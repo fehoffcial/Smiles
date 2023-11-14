@@ -1,0 +1,33 @@
+##### ID: 13646759780 | PASSWORD: 6839 | MILES: 364 #####
+FULL NAME: CARLOS VENANCIO DA CRUZ LIMA | MEMBER ID: 473824142
+BIRTHDAY: 1988-02-21
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 364
+Miles To Expire: 200
+Member Since: 2018-02-26T11:51:24.000-03:00
+#### ADDRESS ####
+Street Name: 
+Number: 
+Complement: 
+City: 
+State: 
+Country: 
+Zip Code: 
+#### ID DOCUMENTS ####
+CPF: 13646759780
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: venanciocruzlima@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

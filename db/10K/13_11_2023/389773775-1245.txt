@@ -1,0 +1,33 @@
+##### ID: 389773775 | PASSWORD: 1245 | MILES: 750 #####
+FULL NAME: rosangela fennades  marques fernandes marques | MEMBER ID: 389773775
+BIRTHDAY: 1976-09-08
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 750
+Miles To Expire: 750
+Member Since: 2012-12-17T14:32:29.000-02:00
+#### ADDRESS ####
+Street Name: COLÔMBIA
+Number: 11
+Complement: casa
+City: FERRAZ DE VASCONCELOS
+State: SP
+Country: Brazil
+Zip Code: 08505560
+#### ID DOCUMENTS ####
+CPF: 16885705861
+#### CONTACT ####
+CONTACT PHONE: (11) 46766430
+CONTACT CELL PHONE: () 65620495
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: rosa56325r@gmail.com
+Secondary E-mailrosalindasp@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 470598
+Number: 470598******6437
+BRAND: VISA
+Gateway: 
+Payment Date: 2018-10-01T17:18:12

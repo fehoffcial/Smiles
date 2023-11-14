@@ -1,0 +1,33 @@
+##### ID: 52657965920 | PASSWORD: 4608 | MILES: 12034 #####
+FULL NAME: ALENCAR PEDRO TIEPO | MEMBER ID: 727646813
+BIRTHDAY: 1969-06-12
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 12034
+Miles To Expire: 5815
+Member Since: 2009-05-08T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: LAURO MULLER - E
+Number: 224 E
+Complement: EDIFICIO MONTSERRAT
+City: CHAPECÓ
+State: SC
+Country: Brazil
+Zip Code: 89801600
+#### ID DOCUMENTS ####
+CPF: 52657965920
+#### CONTACT ####
+CONTACT PHONE: (49) 33041521
+CONTACT CELL PHONE: () 999700264
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: tiepo@agenciatig.com.br
+Secondary E-mailalencar.tiepo@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

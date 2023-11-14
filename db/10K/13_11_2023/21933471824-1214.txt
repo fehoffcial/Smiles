@@ -1,0 +1,33 @@
+##### ID: 21933471824 | PASSWORD: 1214 | MILES: 505 #####
+FULL NAME: WENDEL BEZERRA SANTANA | MEMBER ID: 106969435
+BIRTHDAY: 1981-04-02
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 505
+Miles To Expire: 505
+Member Since: 2018-12-28T18:59:28.000-02:00
+#### ADDRESS ####
+Street Name: WALDEMAR ORTEGA
+Number: 155
+Complement: B
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 05885370
+#### ID DOCUMENTS ####
+CPF: 21933471824
+#### CONTACT ####
+CONTACT PHONE: (11) 55132020
+CONTACT CELL PHONE: () 981284146
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: wendelbs14@gmail.com
+Secondary E-mailwendelbs07@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

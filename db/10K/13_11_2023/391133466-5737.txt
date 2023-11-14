@@ -1,0 +1,33 @@
+##### ID: 391133466 | PASSWORD: 5737 | MILES: 0 #####
+FULL NAME: BALDUINO JOSE CARNEIRO NETO | MEMBER ID: 391133466
+BIRTHDAY: 1965-04-09
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2013-01-15T14:47:07.000-02:00
+#### ADDRESS ####
+Street Name: DO ROSÁRIO
+Number: 581
+Complement: 
+City: SERRA
+State: ES
+Country: Brazil
+Zip Code: 29175586
+#### ID DOCUMENTS ####
+CPF: 41708180672
+#### CONTACT ####
+CONTACT PHONE: (27) 32524854
+CONTACT CELL PHONE: () 88198362
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: bedeu65@hotmail.com
+Secondary E-mailbjcneto@fibria.com.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

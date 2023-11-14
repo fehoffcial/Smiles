@@ -1,0 +1,33 @@
+##### ID: 48698535828 | PASSWORD: 1308 | MILES: 0 #####
+FULL NAME: LUIZ FELIOFELIOE SILVA GALDINO | MEMBER ID: 479543890
+BIRTHDAY: 1999-01-23
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2018-07-10T18:31:40.000-03:00
+#### ADDRESS ####
+Street Name: MARTIM AFONSO
+Number: 191
+Complement: AP 11
+City: DIADEMA
+State: SP
+Country: Brazil
+Zip Code: 9911550
+#### ID DOCUMENTS ####
+CPF: 48698535828
+#### CONTACT ####
+CONTACT PHONE: (11) 95804949
+CONTACT CELL PHONE: () 958049491
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: felipe.galdino1308@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

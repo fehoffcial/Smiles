@@ -1,0 +1,33 @@
+##### ID: 78381304504 | PASSWORD: 3125 | MILES: 0 #####
+FULL NAME: CLAUDIO DE SOUZA FILHO | MEMBER ID: 133541774
+BIRTHDAY: 1971-05-23
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2020-05-30T09:28:06.000-03:00
+#### ADDRESS ####
+Street Name: SANTO ANTÔNIO
+Number: 75
+Complement: E
+City: SALVADOR
+State: BA
+Country: Brazil
+Zip Code: 40454060
+#### ID DOCUMENTS ####
+CPF: 78381304504
+#### CONTACT ####
+CONTACT PHONE: (71) 86180284
+CONTACT CELL PHONE: () 996891496
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: carpintariapopular@hotmail.com
+Secondary E-mailkacaumister@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,33 @@
+##### ID: 60527340197 | PASSWORD: 2303 | MILES: 1524 #####
+FULL NAME: CLAUDEMIRO correia QUINTAL JUNIOR | MEMBER ID: 727037931
+BIRTHDAY: 1975-10-22
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 1524
+Miles To Expire: 728
+Member Since: 2009-04-08T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: QNM 7 CONJUNTO N
+Number: 41
+Complement: Casa
+City: BRASÍLIA
+State: DF
+Country: Brazil
+Zip Code: 72215084
+#### ID DOCUMENTS ####
+CPF: 60527340197
+#### CONTACT ####
+CONTACT PHONE: (61) 33717003
+CONTACT CELL PHONE: () 996960391
+CONTACT SECONDARY CELL PHONE: () 96552262
+CONTACT WORK PHONE: () 39013751
+### E-MAIL ####
+E-mail: claudemiro-junior@uol.com.br
+Secondary E-mailclaudemiro.quintal@previc.gov.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

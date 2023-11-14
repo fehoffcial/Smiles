@@ -1,0 +1,33 @@
+##### ID: 76360628791 | PASSWORD: 1019 | MILES: 0 #####
+FULL NAME: CLAUDIO MAIA PEIXOTO | MEMBER ID: 747408546
+BIRTHDAY: 1962-05-17
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2000-08-12T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: BRAZ DE PINA
+Number: 1706
+Complement: casa 101
+City: RIO DE JANEIRO
+State: RJ
+Country: Brazil
+Zip Code: 21235603
+#### ID DOCUMENTS ####
+CPF: 76360628791
+#### CONTACT ####
+CONTACT PHONE: (21) 33528968
+CONTACT CELL PHONE: () 999291019
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 78002270
+### E-MAIL ####
+E-mail: novus.total@gmail.com
+Secondary E-mailnovus.total@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

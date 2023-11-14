@@ -1,0 +1,33 @@
+##### ID: 81548141615 | PASSWORD: 7507 | MILES: 5060 #####
+FULL NAME: EDSON RIBAS DE SA | MEMBER ID: 481117770
+BIRTHDAY: 1975-07-20
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 5060
+Miles To Expire: 1060
+Member Since: 2018-08-14T16:45:34.000-03:00
+#### ADDRESS ####
+Street Name: FRANCISCO GONÇALVES SANTOS
+Number: 303
+Complement: A
+City: MONTES CLAROS
+State: MG
+Country: Brazil
+Zip Code: 39401430
+#### ID DOCUMENTS ####
+CPF: 81548141615
+#### CONTACT ####
+CONTACT PHONE: (38) 99167567
+CONTACT CELL PHONE: () 991590525
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: ersmontes@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 482425
+Number: 482425******3109
+BRAND: VISA
+Gateway: 
+Payment Date: 2019-09-25T17:52:22

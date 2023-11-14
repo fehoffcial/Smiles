@@ -1,0 +1,33 @@
+##### ID: 60042575249 | PASSWORD: 6197 | MILES: 7972 #####
+FULL NAME: FRANCISCO FERREIRA NETO | MEMBER ID: 718649945
+BIRTHDAY: 1979-04-19
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 7972
+Miles To Expire: 467
+Member Since: 2001-03-10T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: QE 13 CONJUNTO A
+Number: 39
+Complement: QUADRA 17
+City: BRASÍLIA
+State: DF
+Country: Brazil
+Zip Code: 71050011
+#### ID DOCUMENTS ####
+CPF: 60042575249
+#### CONTACT ####
+CONTACT PHONE: (61) 35472149
+CONTACT CELL PHONE: () 988301000
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 21038510
+### E-MAIL ####
+E-mail: ciscomaraba@msn.com
+Secondary E-mailfrancisco1979@me.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

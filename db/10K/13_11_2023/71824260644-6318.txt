@@ -1,0 +1,33 @@
+##### ID: 71824260644 | PASSWORD: 6318 | MILES: 39261 #####
+FULL NAME: EUGENIA REGINA DE MELO | MEMBER ID: 751197274
+BIRTHDAY: 1967-09-01
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 39261
+Miles To Expire: 83
+Member Since: 2002-04-02T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: SHIGS 713 BLOCO D
+Number: 15
+Complement: casa
+City: BRASÍLIA
+State: DF
+Country: Brazil
+Zip Code: 70380704
+#### ID DOCUMENTS ####
+CPF: 71824260644
+#### CONTACT ####
+CONTACT PHONE: (61) 33803934
+CONTACT CELL PHONE: () 996580324
+CONTACT SECONDARY CELL PHONE: () 96110658
+CONTACT WORK PHONE: () 39803090
+### E-MAIL ####
+E-mail: eugenia.melo@brb.com.br
+Secondary E-maileugenia.regina@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

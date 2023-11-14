@@ -1,0 +1,33 @@
+##### ID: 47856858753 | PASSWORD: 1485 | MILES: 3914 #####
+FULL NAME: ALAIDE GONCALVES | MEMBER ID: 207412693
+BIRTHDAY: 1957-04-12
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 3914
+Miles To Expire: 806
+Member Since: 2000-03-14T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: N/A
+Number: 
+Complement: N/A
+City: N/A
+State: SP
+Country: Brazil
+Zip Code: 00000000
+#### ID DOCUMENTS ####
+CPF: 47856858753
+#### CONTACT ####
+CONTACT PHONE: (27) 3430651
+CONTACT CELL PHONE: () 0
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: alaide.goncalves@hortifruti.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 651652
+Number: 651652******2779
+BRAND: ELO
+Gateway: Cielo
+Payment Date: 2021-08-15T11:35:49

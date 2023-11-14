@@ -1,0 +1,33 @@
+##### ID: 16506809701 | PASSWORD: 8163 | MILES: 0 #####
+FULL NAME: ANA FLÁVIA COIMBRA | MEMBER ID: 119662653
+BIRTHDAY: 1997-08-07
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-06-29T22:53:22.000-03:00
+#### ADDRESS ####
+Street Name: Rua Anastácio Correia
+Number: 1022
+Complement: bloco 18 ap 303
+City: São João de Meriti
+State: RJ
+Country: Brazil
+Zip Code: 02558111
+#### ID DOCUMENTS ####
+CPF: 16506809701
+#### CONTACT ####
+CONTACT PHONE: (21) 26734938
+CONTACT CELL PHONE: () 981485260
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: anaafloliveira@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

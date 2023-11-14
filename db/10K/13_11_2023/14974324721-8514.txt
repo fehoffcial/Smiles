@@ -1,0 +1,33 @@
+##### ID: 14974324721 | PASSWORD: 8514 | MILES: 0 #####
+FULL NAME: MATHEUS AURÉLIO FERREIRA PEREIRA SILVA | MEMBER ID: 478444864
+BIRTHDAY: 1994-09-20
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2018-06-14T13:39:13.000-03:00
+#### ADDRESS ####
+Street Name: RISDE ATTIÊ
+Number: 60
+Complement: AP 303 BLOCO 5
+City: UBERLÂNDIA
+State: MG
+Country: Brazil
+Zip Code: 38414706
+#### ID DOCUMENTS ####
+CPF: 14974324721
+#### CONTACT ####
+CONTACT PHONE: (21) 85145241
+CONTACT CELL PHONE: () 988405241
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: matheusaurelioferreira@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

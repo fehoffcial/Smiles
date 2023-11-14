@@ -1,0 +1,33 @@
+##### ID: 58187162953 | PASSWORD: 6806 | MILES: 0 #####
+FULL NAME: SANDRO LEAL CIPRIANO | MEMBER ID: 126182873
+BIRTHDAY: 1966-01-11
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-11-10T15:18:28.000-03:00
+#### ADDRESS ####
+Street Name: DAS ORQUÍDEAS
+Number: 207
+Complement: Casa
+City: ARAUCÁRIA
+State: PR
+Country: Brazil
+Zip Code: 83709600
+#### ID DOCUMENTS ####
+CPF: 58187162953
+#### CONTACT ####
+CONTACT PHONE: (41) 35523686
+CONTACT CELL PHONE: () 988921049
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: lcsandro@hotmail.com
+Secondary E-mailsandrocipriano@bol.com.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,33 @@
+##### ID: 89139771415 | PASSWORD: 7910 | MILES: 0 #####
+FULL NAME: REINALDO CLAUDINO | MEMBER ID: 122070034
+BIRTHDAY: 1972-07-20
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-08-15T09:49:47.000-03:00
+#### ADDRESS ####
+Street Name: RUA 3
+Number: 104
+Complement: CONJUNTO BEIRA MAR
+City: IPOJUCA
+State: PE
+Country: Brazil
+Zip Code: 55590000
+#### ID DOCUMENTS ####
+CPF: 89139771415
+#### CONTACT ####
+CONTACT PHONE: (81) 84890880
+CONTACT CELL PHONE: () 989461891
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: rcs.reginaldosilva@gmail.com
+Secondary E-mailrss.systemsoftware@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

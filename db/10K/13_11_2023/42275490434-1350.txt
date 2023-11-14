@@ -1,0 +1,66 @@
+##### ID: 42275490434 | PASSWORD: 1350 | MILES: 11 #####
+FULL NAME: PERCEVAL NUNES DE CARVALHO FILHO | MEMBER ID: 242621886
+BIRTHDAY: 1965-05-13
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 11
+Miles To Expire: 11
+Member Since: 2003-09-16T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: Rua Romualdo Galvão
+Number: 2235
+Complement: F 804
+City: Natal
+State: RN
+Country: Brazil
+Zip Code: 59056165
+#### ID DOCUMENTS ####
+CPF: 42275490434
+#### CONTACT ####
+CONTACT PHONE: (84) 32064641
+CONTACT CELL PHONE: () 988258474
+CONTACT SECONDARY CELL PHONE: () 2340734
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: percevalcarvalho@gmail.com
+Secondary E-mailpercevalcarvalho@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 541759
+Number: 541759******3787
+BRAND: MASTERCARD
+Gateway: Cielo
+Payment Date: 2021-08-15T05:46:36
+##### ID: 42275490434 | PASSWORD: 1350 | MILES: 11 #####
+FULL NAME: PERCEVAL NUNES DE CARVALHO FILHO | MEMBER ID: 242621886
+BIRTHDAY: 1965-05-13
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 11
+Miles To Expire: 11
+Member Since: 2003-09-16T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: Rua Romualdo Galvão
+Number: 2235
+Complement: F 804
+City: Natal
+State: RN
+Country: Brazil
+Zip Code: 59056165
+#### ID DOCUMENTS ####
+CPF: 42275490434
+#### CONTACT ####
+CONTACT PHONE: (84) 32064641
+CONTACT CELL PHONE: () 988258474
+CONTACT SECONDARY CELL PHONE: () 2340734
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: percevalcarvalho@gmail.com
+Secondary E-mailpercevalcarvalho@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 541759
+Number: 541759******3787
+BRAND: MASTERCARD
+Gateway: Cielo
+Payment Date: 2021-08-15T05:46:36

@@ -1,0 +1,33 @@
+##### ID: 53649508915 | PASSWORD: 6353 | MILES: 2384 #####
+FULL NAME: DIRCEU CIUPKA | MEMBER ID: 607896682
+BIRTHDAY: 1964-02-09
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 2384
+Miles To Expire: 2384
+Member Since: 1998-06-26T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: LARGO ERASMO DE ROTTERDAM, CUR
+Number: 1307
+Complement: CASA
+City: CURITIBA
+State: PR
+Country: Brazil
+Zip Code: 82200240
+#### ID DOCUMENTS ####
+CPF: 53649508915
+#### CONTACT ####
+CONTACT PHONE: (41) 32528547
+CONTACT CELL PHONE: () 82215866
+CONTACT SECONDARY CELL PHONE: () 3226566
+CONTACT WORK PHONE: () 32301952
+### E-MAIL ####
+E-mail: dirceuciupka@hotmail.com
+Secondary E-maildirceuciupka@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

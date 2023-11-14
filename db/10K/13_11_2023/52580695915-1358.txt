@@ -1,0 +1,33 @@
+##### ID: 52580695915 | PASSWORD: 1358 | MILES: 0 #####
+FULL NAME: ROSA MARIA DAZZI | MEMBER ID: 376060086
+BIRTHDAY: 1956-08-14
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2012-04-11T21:23:28.000-03:00
+#### ADDRESS ####
+Street Name: JARDIM EUROPA - E
+Number: 957
+Complement: 
+City: CHAPECÓ
+State: SC
+Country: Brazil
+Zip Code: 89806170
+#### ID DOCUMENTS ####
+CPF: 52580695915
+#### CONTACT ####
+CONTACT PHONE: (49) 33229148
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: rosa@ksulo.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

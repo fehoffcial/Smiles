@@ -1,0 +1,66 @@
+##### ID: 39670066387 | PASSWORD: 7012 | MILES:  #####
+FULL NAME:   | MEMBER ID: 
+BIRTHDAY: 
+GENDER: 
+CITIZENSHIP: 
+Available Miles: 
+Miles To Expire: 
+Member Since: 
+#### ADDRESS ####
+Street Name: 
+Number: 
+Complement: 
+City: 
+State: 
+Country: 
+Zip Code: 
+#### ID DOCUMENTS ####
+CPF: 
+#### CONTACT ####
+CONTACT PHONE: () 
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: 
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 
+##### ID: 39670066387 | PASSWORD: 7012 | MILES: 60 #####
+FULL NAME: LUCILENE MARIA DO NASCIMENTO MACEDO | MEMBER ID: 433909206
+BIRTHDAY: 1970-12-06
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 60
+Miles To Expire: 60
+Member Since: 2014-12-26T16:06:18.000-02:00
+#### ADDRESS ####
+Street Name: GILBERTO NEIVA
+Number: 04
+Complement: 
+City: ITAINÓPOLIS
+State: PI
+Country: Brazil
+Zip Code: 64565000
+#### ID DOCUMENTS ####
+CPF: 39670066387
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: lusanascimento1@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 516220
+Number: 516220******8155
+BRAND: Mastercard
+Gateway: 
+Payment Date: 2018-08-25T11:43:40

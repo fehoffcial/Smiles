@@ -1,0 +1,33 @@
+##### ID: 80665373104 | PASSWORD: 1322 | MILES: 24649 #####
+FULL NAME: VANDA LIRA VASCONCELOS | MEMBER ID: 441926041
+BIRTHDAY: 1975-09-28
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 24649
+Miles To Expire: 649
+Member Since: 2015-09-17T11:00:51.000-03:00
+#### ADDRESS ####
+Street Name: ARNO 32 RUA 14
+Number: 04
+Complement: QI 12
+City: PALMAS
+State: TO
+Country: Brazil
+Zip Code: 77001330
+#### ID DOCUMENTS ####
+CPF: 80665373104
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 984101368
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: vidautil@bol.com.br
+Secondary E-maildliralingerie@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 550209
+Number: 550209******8030
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-04-05T01:12:38

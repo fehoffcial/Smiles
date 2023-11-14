@@ -1,0 +1,33 @@
+##### ID: 16837901702 | PASSWORD: 1532 | MILES: 0 #####
+FULL NAME: MARLON FARIA BORGES | MEMBER ID: 135533090
+BIRTHDAY: 2001-03-09
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2020-08-12T04:09:31.000-03:00
+#### ADDRESS ####
+Street Name: CEDRO
+Number: 19
+Complement: Rua Cedro
+City: VILA VELHA
+State: ES
+Country: Brazil
+Zip Code: 29126727
+#### ID DOCUMENTS ####
+CPF: 16837901702
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 996253706
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: skatefaria.marlon@gmail.com
+Secondary E-mailskatefaria.marlon@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

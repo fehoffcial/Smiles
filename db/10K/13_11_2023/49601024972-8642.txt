@@ -1,0 +1,33 @@
+##### ID: 49601024972 | PASSWORD: 8642 | MILES: 27628 #####
+FULL NAME: ADAGIR SAGGIN | MEMBER ID: 217420276
+BIRTHDAY: 1963-03-26
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 27628
+Miles To Expire: 14628
+Member Since: 2000-08-24T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: SÃO VALENTIN
+Number: 90
+Complement: Casa
+City: BLUMENAU
+State: SC
+Country: Brazil
+Zip Code: 89053330
+#### ID DOCUMENTS ####
+CPF: 49601024972
+#### CONTACT ####
+CONTACT PHONE: (47) 33234004
+CONTACT CELL PHONE: () 999338007
+CONTACT SECONDARY CELL PHONE: () 3403077
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: adagirs@hotmail.com
+Secondary E-mailadagirs@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,33 @@
+##### ID: 18161200220 | PASSWORD: 8430 | MILES: 18888 #####
+FULL NAME: ANETE ALVES LIMA DE ALBUQUERQUE | MEMBER ID: 441327655
+BIRTHDAY: 1963-05-17
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 18888
+Miles To Expire: 5000
+Member Since: 2015-08-23T16:48:38.000-03:00
+#### ADDRESS ####
+Street Name: COMANDANTE RÚBENS SILVA
+Number: 679
+Complement: bl02 Apto 108
+City: RIO DE JANEIRO
+State: RJ
+Country: Brazil
+Zip Code: 22750053
+#### ID DOCUMENTS ####
+CPF: 18161200220
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 999951776
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: anetelima@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

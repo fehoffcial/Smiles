@@ -1,0 +1,66 @@
+##### ID: 40065928334 | PASSWORD: 1302 | MILES: 11056 #####
+FULL NAME: GRACIANO FERREIRA | MEMBER ID: 370106682
+BIRTHDAY: 1971-07-14
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 11056
+Miles To Expire: 179
+Member Since: 2012-01-16T09:55:51.000-02:00
+#### ADDRESS ####
+Street Name: Rua Madre Ilduara
+Number: 670
+Complement: 
+City: BARBALHA
+State: CE
+Country: Brazil
+Zip Code: 63180000
+#### ID DOCUMENTS ####
+CPF: 40065928334
+#### CONTACT ####
+CONTACT PHONE: (88) 999905127
+CONTACT CELL PHONE: () 999905127
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: growgraciano@hotmail.com
+Secondary E-mailprismarepresenta@ig.com.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 542661
+Number: 542661******4868
+BRAND: MASTERCARD_SMILES
+Gateway: 
+Payment Date: 2019-06-15T08:05:39
+##### ID: 40065928334 | PASSWORD: 1302 | MILES: 11056 #####
+FULL NAME: GRACIANO FERREIRA | MEMBER ID: 370106682
+BIRTHDAY: 1971-07-14
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 11056
+Miles To Expire: 179
+Member Since: 2012-01-16T09:55:51.000-02:00
+#### ADDRESS ####
+Street Name: Rua Madre Ilduara
+Number: 670
+Complement: 
+City: BARBALHA
+State: CE
+Country: Brazil
+Zip Code: 63180000
+#### ID DOCUMENTS ####
+CPF: 40065928334
+#### CONTACT ####
+CONTACT PHONE: (88) 999905127
+CONTACT CELL PHONE: () 999905127
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: growgraciano@hotmail.com
+Secondary E-mailprismarepresenta@ig.com.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 542661
+Number: 542661******4868
+BRAND: MASTERCARD_SMILES
+Gateway: 
+Payment Date: 2019-06-15T08:05:39

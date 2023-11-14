@@ -1,0 +1,33 @@
+##### ID: 396196415 | PASSWORD: 6234 | MILES: 830 #####
+FULL NAME: RENATA SAYURI AKABANE | MEMBER ID: 396196415
+BIRTHDAY: 1988-06-21
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 830
+Miles To Expire: 830
+Member Since: 2013-04-20T19:16:23.000-03:00
+#### ADDRESS ####
+Street Name: JANDIRA
+Number: 79
+Complement: 152 B1
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 04080000
+#### ID DOCUMENTS ####
+CPF: 35765157807
+#### CONTACT ####
+CONTACT PHONE: (11) 50527490
+CONTACT CELL PHONE: () 983675695
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: renataakabane@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 520132
+Number: 520132******8173
+BRAND: MASTERCARD
+Gateway: Cielo
+Payment Date: 2020-08-25T20:21:19

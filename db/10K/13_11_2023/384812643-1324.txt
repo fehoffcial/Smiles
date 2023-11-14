@@ -1,0 +1,33 @@
+##### ID: 384812643 | PASSWORD: 1324 | MILES: 0 #####
+FULL NAME: DIONATHAN NAYTE DOS SANTOS | MEMBER ID: 384812643
+BIRTHDAY: 1988-11-16
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2012-09-08T13:54:36.000-03:00
+#### ADDRESS ####
+Street Name: ANDROMEDA, QUINTA DO SOL, PR1
+Number: 184
+Complement: CASA
+City: QUINTA DO SOL
+State: PR
+Country: Brazil
+Zip Code: 87265000
+#### ID DOCUMENTS ####
+CPF: 06585384970
+#### CONTACT ####
+CONTACT PHONE: (44) 35671802
+CONTACT CELL PHONE: () 84224387
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: nayte.edfisica@hotmail.com
+Secondary E-mailnayte.edfisica@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 529285
+Number: 529285******4272
+BRAND: Mastercard
+Gateway: 
+Payment Date: 2016-05-15T20:28:57

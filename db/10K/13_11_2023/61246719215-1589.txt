@@ -1,0 +1,33 @@
+##### ID: 61246719215 | PASSWORD: 1589 | MILES: 270 #####
+FULL NAME: EVANIO SOUZA PALHARES | MEMBER ID: 727908963
+BIRTHDAY: 1978-04-04
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 270
+Miles To Expire: 270
+Member Since: 2009-05-21T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: QUADRA 22
+Number: 7
+Complement: igreja batista
+City: ÁGUAS LINDAS DE GOIÁS
+State: GO
+Country: Brazil
+Zip Code: 72917597
+#### ID DOCUMENTS ####
+CPF: 61246719215
+#### CONTACT ####
+CONTACT PHONE: (61) 92890120
+CONTACT CELL PHONE: () 992890120
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: evaniopalhares@gmail.com
+Secondary E-mailpr.espalhares@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 516292
+Number: 516292******0302
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2021-09-05T21:50:32

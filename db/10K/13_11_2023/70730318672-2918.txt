@@ -1,0 +1,33 @@
+##### ID: 70730318672 | PASSWORD: 2918 | MILES: 314 #####
+FULL NAME: ILDETE ALMEIDA DE MENEZES SOUZA | MEMBER ID: 136688882
+BIRTHDAY: 1964-10-04
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 314
+Miles To Expire: 157
+Member Since: 2020-09-19T09:50:28.000-03:00
+#### ADDRESS ####
+Street Name: DA VARGEM
+Number: 501
+Complement: casa
+City: BANDEIRANTES
+State: MG
+Country: Brazil
+Zip Code: 35423000
+#### ID DOCUMENTS ####
+CPF: 70730318672
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 988402272
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: ildete-04@hotmail.com
+Secondary E-mailsamuelmsouza72@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

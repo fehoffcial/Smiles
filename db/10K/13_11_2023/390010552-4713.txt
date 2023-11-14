@@ -1,0 +1,33 @@
+##### ID: 390010552 | PASSWORD: 4713 | MILES: 3220 #####
+FULL NAME: ALINE FABIA GUERRA DE MORAES MORAES | MEMBER ID: 390010552
+BIRTHDAY: 1988-11-01
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 3220
+Miles To Expire: 708
+Member Since: 2012-12-23T14:14:09.000-02:00
+#### ADDRESS ####
+Street Name: VICENTE LUCAS BORGES
+Number: 488
+Complement: 
+City: JOÃO PESSOA
+State: PB
+Country: Brazil
+Zip Code: 58025510
+#### ID DOCUMENTS ####
+CPF: 05731757488
+#### CONTACT ####
+CONTACT PHONE: (83) 32252745
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: lineguerra@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 523421
+Number: 523421******2229
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2021-08-26T00:43:32

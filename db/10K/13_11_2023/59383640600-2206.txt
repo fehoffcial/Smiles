@@ -1,0 +1,33 @@
+##### ID: 59383640600 | PASSWORD: 2206 | MILES: 3045 #####
+FULL NAME: MACMILLER SILVA COSTA | MEMBER ID: 711525544
+BIRTHDAY: 1966-02-16
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 3045
+Miles To Expire: 430
+Member Since: 2001-01-05T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: Av. Othon Barcelos
+Number: 323
+Complement: casa
+City: ARCOS
+State: MG
+Country: Brazil
+Zip Code: 35588000
+#### ID DOCUMENTS ####
+CPF: 59383640600
+#### CONTACT ####
+CONTACT PHONE: (37) 33510807
+CONTACT CELL PHONE: () 999410705
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: macmiller@terra.com.br
+Secondary E-mailmacmiller@terra.com.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 421960
+Number: 421960******6688
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2022-07-25T13:22:10

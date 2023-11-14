@@ -1,0 +1,33 @@
+##### ID: 21346241830 | PASSWORD: 1683 | MILES: 3288 #####
+FULL NAME: RENE MALUENDA SALAS | MEMBER ID: 524166742
+BIRTHDAY: 1971-04-28
+GENDER: MALE
+CITIZENSHIP: Chilean
+Available Miles: 3288
+Miles To Expire: 624
+Member Since: 1998-12-10T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: RUA DOUTOR BRÁULIO GOMES
+Number: 141
+Complement: 1º ANDAR
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 1047020
+#### ID DOCUMENTS ####
+CPF: 21346241830
+#### CONTACT ####
+CONTACT PHONE: (11) 31256767
+CONTACT CELL PHONE: () 987869933
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: rene.maluenda@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

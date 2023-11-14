@@ -1,0 +1,33 @@
+##### ID: 44875614772 | PASSWORD: 4687 | MILES: 0 #####
+FULL NAME: RICARDO OLIVEIRA ESTEVES | MEMBER ID: 897163341
+BIRTHDAY: 1955-10-03
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2009-11-12T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: R. FRANCISCA THOME
+Number: 394
+Complement: 
+City: DUQUE DE CAXIAS
+State: RJ
+Country: Brazil
+Zip Code: 25030210
+#### ID DOCUMENTS ####
+CPF: 44875614772
+#### CONTACT ####
+CONTACT PHONE: (21) 88890535
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: RESTEVES@TELELISTAS.NET
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

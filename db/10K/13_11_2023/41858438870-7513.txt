@@ -1,0 +1,66 @@
+##### ID: 41858438870 | PASSWORD: 7513 | MILES: 38 #####
+FULL NAME: AMANDA LACERDA SILVA | MEMBER ID: 119036374
+BIRTHDAY: 1992-05-23
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 38
+Miles To Expire: 38
+Member Since: 2019-06-19T15:21:59.000-03:00
+#### ADDRESS ####
+Street Name: WILSON TÓRTORO
+Number: 115
+Complement: 
+City: RIBEIRÃO PRETO
+State: SP
+Country: Brazil
+Zip Code: 14093005
+#### ID DOCUMENTS ####
+CPF: 41858438870
+#### CONTACT ####
+CONTACT PHONE: (16) 99622991
+CONTACT CELL PHONE: () 999622991
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: amandalacerda.cadastro@gmail.com
+Secondary E-mailamandalacerda.cadastro@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 651653
+Number: 651653******3300
+BRAND: ELO
+Gateway: Adyen
+Payment Date: 2020-07-05T12:39:50
+##### ID: 41858438870 | PASSWORD: 7513 | MILES: 38 #####
+FULL NAME: AMANDA LACERDA SILVA | MEMBER ID: 119036374
+BIRTHDAY: 1992-05-23
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 38
+Miles To Expire: 38
+Member Since: 2019-06-19T15:21:59.000-03:00
+#### ADDRESS ####
+Street Name: WILSON TÓRTORO
+Number: 115
+Complement: 
+City: RIBEIRÃO PRETO
+State: SP
+Country: Brazil
+Zip Code: 14093005
+#### ID DOCUMENTS ####
+CPF: 41858438870
+#### CONTACT ####
+CONTACT PHONE: (16) 99622991
+CONTACT CELL PHONE: () 999622991
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: amandalacerda.cadastro@gmail.com
+Secondary E-mailamandalacerda.cadastro@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 651653
+Number: 651653******3300
+BRAND: ELO
+Gateway: Adyen
+Payment Date: 2020-07-05T12:39:50

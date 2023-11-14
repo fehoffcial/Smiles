@@ -1,0 +1,33 @@
+##### ID: 86668013104 | PASSWORD: 4257 | MILES: 0 #####
+FULL NAME: ALEXANDRE BERNARDES | MEMBER ID: 383280030
+BIRTHDAY: 1981-04-15
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2012-08-06T19:00:20.000-03:00
+#### ADDRESS ####
+Street Name: LOMAS VALENTINAS, BELEM, PA11
+Number: 37
+Complement: SACRAMENTA
+City: BELEM
+State: PA
+Country: Brazil
+Zip Code: 66083390
+#### ID DOCUMENTS ####
+CPF: 86668013104
+#### CONTACT ####
+CONTACT PHONE: (91) 32640314
+CONTACT CELL PHONE: () 80510202
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: alexbsb14@hotmail.com
+Secondary E-mailcontato@bernardesdecor.com.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

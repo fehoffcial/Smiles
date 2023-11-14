@@ -1,0 +1,33 @@
+##### ID: 72006064304 | PASSWORD: 1639 | MILES: 0 #####
+FULL NAME: GUSTAVO ADALBERTO S DE SOUSA | MEMBER ID: 730888476
+BIRTHDAY: 1976-04-01
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2009-10-23T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: N/A
+Number: 
+Complement: N/A
+City: N/A
+State: 
+Country: Brazil
+Zip Code: 00000000
+#### ID DOCUMENTS ####
+CPF: 72006064304
+#### CONTACT ####
+CONTACT PHONE: (99) 36411510
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: JAGA_BR@HOTMAIL.COM
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

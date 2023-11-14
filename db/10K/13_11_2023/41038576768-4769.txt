@@ -1,0 +1,66 @@
+##### ID: 41038576768 | PASSWORD: 4769 | MILES:  #####
+FULL NAME:   | MEMBER ID: 
+BIRTHDAY: 
+GENDER: 
+CITIZENSHIP: 
+Available Miles: 
+Miles To Expire: 
+Member Since: 
+#### ADDRESS ####
+Street Name: 
+Number: 
+Complement: 
+City: 
+State: 
+Country: 
+Zip Code: 
+#### ID DOCUMENTS ####
+CPF: 
+#### CONTACT ####
+CONTACT PHONE: () 
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: 
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 
+##### ID: 41038576768 | PASSWORD: 4769 | MILES: 0 #####
+FULL NAME: PEDRO VITALINO DORNELAS | MEMBER ID: 104008192
+BIRTHDAY: 1951-10-14
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2018-10-29T08:54:35.000-03:00
+#### ADDRESS ####
+Street Name: CÂNDIDO MOTA FILHO
+Number: 90
+Complement: ap 501
+City: RIO DE JANEIRO
+State: RJ
+Country: Brazil
+Zip Code: 22753440
+#### ID DOCUMENTS ####
+CPF: 41038576768
+#### CONTACT ####
+CONTACT PHONE: (21) 34151067
+CONTACT CELL PHONE: () 982080106
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: pedrovital4@hotmail.com
+Secondary E-mailpldrj@bol.com.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

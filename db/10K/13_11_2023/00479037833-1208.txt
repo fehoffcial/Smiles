@@ -1,0 +1,33 @@
+##### ID: 00479037833 | PASSWORD: 1208 | MILES: 233 #####
+FULL NAME: PAULO ANTONIO V ROCHA | MEMBER ID: 793934956
+BIRTHDAY: 1959-06-10
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 233
+Miles To Expire: 233
+Member Since: 2002-11-19T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: R. DIONISIO DE AGUIAR
+Number: 450
+Complement: 
+City: BAURU
+State: SP
+Country: Brazil
+Zip Code: 17047150
+#### ID DOCUMENTS ####
+CPF: 00479037833
+#### CONTACT ####
+CONTACT PHONE: (14) 997145678
+CONTACT CELL PHONE: () 997145678
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: pauloantoniorocha@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 406669
+Number: 406669******4322
+BRAND: Visa
+Gateway: Cielo
+Payment Date: 2022-02-25T07:45:03

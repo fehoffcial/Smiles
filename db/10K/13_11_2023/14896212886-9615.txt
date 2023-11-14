@@ -1,0 +1,33 @@
+##### ID: 14896212886 | PASSWORD: 9615 | MILES: 0 #####
+FULL NAME: ELISABETH TEIXEIRA GUIMARAES | MEMBER ID: 456470501
+BIRTHDAY: 1971-10-02
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2017-04-22T14:46:08.000-03:00
+#### ADDRESS ####
+Street Name: SILAS
+Number: 76
+Complement: BLOCO A2 APTO 33
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 04181160
+#### ID DOCUMENTS ####
+CPF: 14896212886
+#### CONTACT ####
+CONTACT PHONE: (11) 23361466
+CONTACT CELL PHONE: () 962817944
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: bethtg2009@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

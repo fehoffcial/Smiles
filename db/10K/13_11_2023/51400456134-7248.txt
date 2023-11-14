@@ -1,0 +1,33 @@
+##### ID: 51400456134 | PASSWORD: 7248 | MILES: 0 #####
+FULL NAME: NAIDES GAMA | MEMBER ID: 478620962
+BIRTHDAY: 1970-09-28
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2018-06-19T17:22:50.000-03:00
+#### ADDRESS ####
+Street Name: av :E
+Number: 13
+Complement: 
+City: CUIABÁ
+State: MT
+Country: Brazil
+Zip Code: 78090310
+#### ID DOCUMENTS ####
+CPF: 51400456134
+#### CONTACT ####
+CONTACT PHONE: (3661) 6080
+CONTACT CELL PHONE: () 8264
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: naides.freitas@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,33 @@
+##### ID: 416464554 | PASSWORD: 2431 | MILES: 0 #####
+FULL NAME: NILSON FERNANDES EVANGELISTA | MEMBER ID: 416464554
+BIRTHDAY: 1982-02-24
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2014-01-20T20:22:23.000-02:00
+#### ADDRESS ####
+Street Name: Rua Rosana Cambaúva Cordeiro
+Number: 173
+Complement: Casa B
+City: maringa
+State: PR
+Country: Brazil
+Zip Code: 87075793
+#### ID DOCUMENTS ####
+CPF: 30855639890
+#### CONTACT ####
+CONTACT PHONE: (44) 30298607
+CONTACT CELL PHONE: () 99491624
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: knirso@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

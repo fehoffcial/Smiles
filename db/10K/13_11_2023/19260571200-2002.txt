@@ -1,0 +1,33 @@
+##### ID: 19260571200 | PASSWORD: 2002 | MILES: 0 #####
+FULL NAME: ELIAS GONCALVES DE ARAUJO | MEMBER ID: 442287204
+BIRTHDAY: 1963-06-26
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2015-10-05T19:25:32.000-03:00
+#### ADDRESS ####
+Street Name: BOA ESPERANÇA
+Number: 121
+Complement: CRESPO
+City: MANAUS
+State: AM
+Country: Brazil
+Zip Code: 69073150
+#### ID DOCUMENTS ####
+CPF: 19260571200
+#### CONTACT ####
+CONTACT PHONE: (92) 99223379
+CONTACT CELL PHONE: () 992233799
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: elias_thd@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

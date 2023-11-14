@@ -1,0 +1,33 @@
+##### ID: 48322695187 | PASSWORD: 1509 | MILES: 42041 #####
+FULL NAME: MAURO LUCIO DE SOUZA JUNIOR | MEMBER ID: 893645745
+BIRTHDAY: 1971-05-15
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 42041
+Miles To Expire: 20612
+Member Since: 2006-07-19T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: HABITACIONAL IAPI CHÁCARA 20
+Number: 7
+Complement: lote 7-B - Cond. Ville Verde
+City: BRASÍLIA
+State: DF
+Country: Brazil
+Zip Code: 71081275
+#### ID DOCUMENTS ####
+CPF: 48322695187
+#### CONTACT ####
+CONTACT PHONE: (61) 33161706
+CONTACT CELL PHONE: () 996520269
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: sapoharry@gmail.com
+Secondary E-mailmaurojr.71@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 552937
+Number: 552937******9850
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-11-05T18:51:44

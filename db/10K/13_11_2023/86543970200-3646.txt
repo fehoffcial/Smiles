@@ -1,0 +1,33 @@
+##### ID: 86543970200 | PASSWORD: 3646 | MILES: 0 #####
+FULL NAME: JAQUES LOURENCO DE ASSIS | MEMBER ID: 442703811
+BIRTHDAY: 1987-08-09
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2015-10-26T11:00:07.000-02:00
+#### ADDRESS ####
+Street Name: DOM PEDRO I
+Number: 2382
+Complement: SETOR 07
+City: JARU
+State: RO
+Country: Brazil
+Zip Code: 76890000
+#### ID DOCUMENTS ####
+CPF: 86543970200
+#### CONTACT ####
+CONTACT PHONE: (69) 35214065
+CONTACT CELL PHONE: () 92253202
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: jaques.tecnologo@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

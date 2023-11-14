@@ -1,0 +1,33 @@
+##### ID: 14477777604 | PASSWORD: 1624 | MILES: 5182 #####
+FULL NAME: HELIO AGOSTINHO SOUZA | MEMBER ID: 468645030
+BIRTHDAY: 1948-07-25
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 5182
+Miles To Expire: 1182
+Member Since: 2017-11-21T13:45:49.000-02:00
+#### ADDRESS ####
+Street Name: GERALDO GARCIA DE ALMEIDA
+Number: 151
+Complement: 151
+City: UBERLÂNDIA
+State: MG
+Country: Brazil
+Zip Code: 38410044
+#### ID DOCUMENTS ####
+CPF: 14477777604
+#### CONTACT ####
+CONTACT PHONE: (34) 32231052
+CONTACT CELL PHONE: () 32231052
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: corojones.fhs@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 459383
+Number: 459383******9082
+BRAND: VISA
+Gateway: Cielo
+Payment Date: 2021-03-05T05:29:17

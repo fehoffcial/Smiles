@@ -1,0 +1,33 @@
+##### ID: 15086025737 | PASSWORD: 4499 | MILES: 0 #####
+FULL NAME: BRUNNO ALMEIDA DE ARAUJO | MEMBER ID: 126515745
+BIRTHDAY: 1994-12-07
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-11-16T13:54:17.000-03:00
+#### ADDRESS ####
+Street Name: TALMA RODRIGUES RIBEIRO
+Number: 0
+Complement: 3° ETAPA Q 1/ BL 107C AP 202
+City: SERRA
+State: ES
+Country: Brazil
+Zip Code: 29172630
+#### ID DOCUMENTS ####
+CPF: 15086025737
+#### CONTACT ####
+CONTACT PHONE: (11) 91807808
+CONTACT CELL PHONE: () 997251625
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: brunno.flaraujo@hotmail.com
+Secondary E-mailbalajard@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

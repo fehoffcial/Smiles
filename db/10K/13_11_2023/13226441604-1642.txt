@@ -1,0 +1,33 @@
+##### ID: 13226441604 | PASSWORD: 1642 | MILES: 0 #####
+FULL NAME: LUCAS JOSÉ DE OLIVEIRA FIGUEIREDO | MEMBER ID: 125027140
+BIRTHDAY: 1999-09-19
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-10-16T22:32:13.000-03:00
+#### ADDRESS ####
+Street Name: NOSSA SENHORA DE GUADALUPE
+Number: 117
+Complement: Av. Nossa Sra. de Guadalupe, 117
+City: GOVERNADOR VALADARES
+State: MG
+Country: Brazil
+Zip Code: 35045190
+#### ID DOCUMENTS ####
+CPF: 13226441604
+#### CONTACT ####
+CONTACT PHONE: (33) 98152731
+CONTACT CELL PHONE: () 991279323
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: lukeeolliveira@gmail.com
+Secondary E-maillukeeolliveira@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

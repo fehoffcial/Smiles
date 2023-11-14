@@ -1,0 +1,33 @@
+##### ID: 18054048904 | PASSWORD: 4160 | MILES: 0 #####
+FULL NAME: ADELIA MARIA COSTA COSTA | MEMBER ID: 374026800
+BIRTHDAY: 1946-06-01
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2012-03-12T18:01:03.000-03:00
+#### ADDRESS ####
+Street Name: VITÓRIA-RÉGIA
+Number: 62
+Complement: ITOUP NORTE
+City: BLUMENAU
+State: SC
+Country: Brazil
+Zip Code: 89052130
+#### ID DOCUMENTS ####
+CPF: 18054048904
+#### CONTACT ####
+CONTACT PHONE: (47) 32094923
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: adeliamariacosta@yahoo.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

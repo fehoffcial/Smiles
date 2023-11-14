@@ -1,0 +1,33 @@
+##### ID: 13927706965 | PASSWORD: 1224 | MILES: 0 #####
+FULL NAME: GABRIELA RIGOLIN | MEMBER ID: 129080070
+BIRTHDAY: 2011-10-20
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2020-01-07T21:16:54.000-03:00
+#### ADDRESS ####
+Street Name: RUI BARBOSA
+Number: 489
+Complement: 
+City: MARINGÁ
+State: PR
+Country: Brazil
+Zip Code: 87020090
+#### ID DOCUMENTS ####
+CPF: 13927706965
+#### CONTACT ####
+CONTACT PHONE: (44) 32651175
+CONTACT CELL PHONE: () 999283495
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: gabriela.rigolin2011@gmail.com
+Secondary E-mailraa.ricardoalmeida@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

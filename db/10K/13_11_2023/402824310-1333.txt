@@ -1,0 +1,33 @@
+##### ID: 402824310 | PASSWORD: 1333 | MILES: 22256 #####
+FULL NAME: MAURICIO ANSOLIN | MEMBER ID: 402824310
+BIRTHDAY: 1983-05-05
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 22256
+Miles To Expire: 2132
+Member Since: 2013-07-23T16:25:17.000-03:00
+#### ADDRESS ####
+Street Name: FERNANDO MACHADO - E
+Number: 2339
+Complement: E
+City: CHAPECÓ
+State: SC
+Country: Brazil
+Zip Code: 89814470
+#### ID DOCUMENTS ####
+CPF: 00738482986
+#### CONTACT ####
+CONTACT PHONE: (49) 33297382
+CONTACT CELL PHONE: () 991365738
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 33301770
+### E-MAIL ####
+E-mail: ansolin.mauricio@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 425850
+Number: 425850******6062
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2023-11-05T15:25:06

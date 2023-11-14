@@ -1,0 +1,33 @@
+##### ID: 14079840713 | PASSWORD: 3010 | MILES: 200 #####
+FULL NAME: WAGNER SANTANA | MEMBER ID: 438678472
+BIRTHDAY: 1989-10-30
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 200
+Miles To Expire: 100
+Member Since: 2015-05-23T10:20:44.000-03:00
+#### ADDRESS ####
+Street Name: VARIANTE DE JACAREPAGUA
+Number: 17
+Complement: 
+City: RIO DE JANEIRO
+State: RJ
+Country: Brazil
+Zip Code: 22753040
+#### ID DOCUMENTS ####
+CPF: 14079840713
+#### CONTACT ####
+CONTACT PHONE: (21) 24479487
+CONTACT CELL PHONE: () 965568914
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: wagnerzlatan@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

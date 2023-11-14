@@ -1,0 +1,33 @@
+##### ID: 14548875751 | PASSWORD: 5478 | MILES: 4595 #####
+FULL NAME: LUCAS SILVA | MEMBER ID: 475831075
+BIRTHDAY: 1995-05-02
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 4595
+Miles To Expire: 110
+Member Since: 2018-04-17T15:02:44.000-03:00
+#### ADDRESS ####
+Street Name: ERNANI MAGALHÃES BASTOS
+Number: 150
+Complement: 
+City: SÃO GONÇALO
+State: RJ
+Country: Brazil
+Zip Code: 24457170
+#### ID DOCUMENTS ####
+CPF: 14548875751
+#### CONTACT ####
+CONTACT PHONE: (21) 20888168
+CONTACT CELL PHONE: () 964705543
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: lucasdosreisamaralsilva@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 536233
+Number: 536233******3014
+BRAND: MASTERCARD
+Gateway: 
+Payment Date: 2019-07-05T04:18:55

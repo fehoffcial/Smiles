@@ -1,0 +1,33 @@
+##### ID: 16180301751 | PASSWORD: 1208 | MILES: 3354 #####
+FULL NAME: ISMAEL LIMA DE SOUZA LIMA DE SOUZA | MEMBER ID: 125878244
+BIRTHDAY: 1996-08-12
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 3354
+Miles To Expire: 1222
+Member Since: 2019-11-04T09:43:09.000-03:00
+#### ADDRESS ####
+Street Name: CAPITÃO JOÃO MANOEL
+Number: 2050
+Complement: Fundos casa 2
+City: SÃO GONÇALO
+State: RJ
+Country: Brazil
+Zip Code: 24435550
+#### ID DOCUMENTS ####
+CPF: 16180301751
+#### CONTACT ####
+CONTACT PHONE: (21) 37149620
+CONTACT CELL PHONE: () 998643999
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: ismaelimads@outlook.com
+Secondary E-mailismaelimads@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

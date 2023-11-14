@@ -1,0 +1,33 @@
+##### ID: 76246477968 | PASSWORD: 2795 | MILES: 1976 #####
+FULL NAME: JANETE APARECIDA MOREIRA | MEMBER ID: 401397076
+BIRTHDAY: 1970-03-07
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 1976
+Miles To Expire: 426
+Member Since: 2013-07-04T23:49:03.000-03:00
+#### ADDRESS ####
+Street Name: AV JK
+Number: 133
+Complement: APTO 604
+City: FOZ DO IGUACU
+State: PR
+Country: Brazil
+Zip Code: 8585210
+#### ID DOCUMENTS ####
+CPF: 76246477968
+#### CONTACT ####
+CONTACT PHONE: (45) 984061781
+CONTACT CELL PHONE: () 999538646
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 39287800
+### E-MAIL ####
+E-mail: janeteamc@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 412177
+Number: 412177******0132
+BRAND: Visa
+Gateway: 
+Payment Date: 2018-12-25T21:11:11

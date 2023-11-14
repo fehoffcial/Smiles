@@ -1,0 +1,33 @@
+##### ID: 82442630087 | PASSWORD: 7007 | MILES: 0 #####
+FULL NAME: ALESSANDRA ELISA MENDES BUENO | MEMBER ID: 384731270
+BIRTHDAY: 1984-01-03
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2012-09-06T09:13:53.000-03:00
+#### ADDRESS ####
+Street Name: PEDRO ISMAEL CLAROS, ALVORADA,
+Number: 318
+Complement: 
+City: ALVORADA
+State: RS
+Country: Brazil
+Zip Code: 94858342
+#### ID DOCUMENTS ####
+CPF: 82442630087
+#### CONTACT ####
+CONTACT PHONE: (51) 34476736
+CONTACT CELL PHONE: () 82955163
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 34430138
+### E-MAIL ####
+E-mail: llisa_li@yahoo.com.br
+Secondary E-mailcontato@penaporta.com.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

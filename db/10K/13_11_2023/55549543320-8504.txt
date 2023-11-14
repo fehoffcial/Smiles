@@ -1,0 +1,33 @@
+##### ID: 55549543320 | PASSWORD: 8504 | MILES: 0 #####
+FULL NAME: FÁBIA TAVARES BARACHO | MEMBER ID: 413625951
+BIRTHDAY: 1974-03-10
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2013-12-02T11:41:05.000-02:00
+#### ADDRESS ####
+Street Name: VALPARAÍSO
+Number: 745
+Complement: 
+City: FORTALEZA
+State: CE
+Country: Brazil
+Zip Code: 60870440
+#### ID DOCUMENTS ####
+CPF: 55549543320
+#### CONTACT ####
+CONTACT PHONE: (85) 32698255
+CONTACT CELL PHONE: () 91765351
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: fabia.tb@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 400970
+Number: 400970******8696
+BRAND: Visa
+Gateway: 
+Payment Date: 2014-12-16T02:29:40

@@ -1,0 +1,33 @@
+##### ID: 13730094700 | PASSWORD: 2310 | MILES: 0 #####
+FULL NAME: DAIANA DE SOUSA PIRES | MEMBER ID: 137829156
+BIRTHDAY: 1989-11-24
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2020-10-24T01:38:03.000-03:00
+#### ADDRESS ####
+Street Name: VISCONDE DE JEQUITINHONHA
+Number: 369
+Complement: Avenida Visconde de Jequitinhonha
+City: RECIFE
+State: PE
+Country: Brazil
+Zip Code: 51021190
+#### ID DOCUMENTS ####
+CPF: 13730094700
+#### CONTACT ####
+CONTACT PHONE: (81) 99659211
+CONTACT CELL PHONE: () 996592115
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: daiana@centraldoiphone.com.br
+Secondary E-maildaiana@centraldoiphone.com.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

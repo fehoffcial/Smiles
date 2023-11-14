@@ -1,0 +1,33 @@
+##### ID: 85782073519 | PASSWORD: 6830 | MILES: 0 #####
+FULL NAME: DANILO SANTANA OLIVEIRA | MEMBER ID: 119449061
+BIRTHDAY: 1992-03-25
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-06-25T18:56:16.000-03:00
+#### ADDRESS ####
+Street Name: ITAJUÍPE
+Number: 830
+Complement: AVENIDA ITAJUÍPE
+City: ITABUNA
+State: BA
+Country: Brazil
+Zip Code: 45602380
+#### ID DOCUMENTS ####
+CPF: 85782073519
+#### CONTACT ####
+CONTACT PHONE: (73) 32122783
+CONTACT CELL PHONE: () 39888335
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: danylinhow@hotmail.com
+Secondary E-maildanylinhow@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

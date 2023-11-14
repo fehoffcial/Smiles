@@ -1,0 +1,33 @@
+##### ID: 60664456340 | PASSWORD: 1063 | MILES: 3124 #####
+FULL NAME: Washington Da Conceição Sousa | MEMBER ID: 476908865
+BIRTHDAY: 1993-08-11
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 3124
+Miles To Expire: 3124
+Member Since: 2018-05-12T08:13:36.000-03:00
+#### ADDRESS ####
+Street Name: QS 116 CONJUNTO 5
+Number: 2
+Complement: Apto 305B
+City: BRASÍLIA
+State: DF
+Country: Brazil
+Zip Code: 72302565
+#### ID DOCUMENTS ####
+CPF: 60664456340
+#### CONTACT ####
+CONTACT PHONE: (61) 92430880
+CONTACT CELL PHONE: () 982966568
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: dadalzim@gmail.com
+Secondary E-maildadalzim@live.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 
+Number: *
+BRAND: PI
+Gateway: Adyen
+Payment Date: 2023-11-01T00:00:00

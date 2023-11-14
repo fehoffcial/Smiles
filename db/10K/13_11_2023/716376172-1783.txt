@@ -1,0 +1,33 @@
+##### ID: 716376172 | PASSWORD: 1783 | MILES: 6298 #####
+FULL NAME: IVON DA COSTA MARQUES | MEMBER ID: 716376172
+BIRTHDAY: 1959-10-20
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 6298
+Miles To Expire: 168
+Member Since: 2000-08-03T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: SIMÃO DA CUNHA
+Number: 81
+Complement: 
+City: BELO HORIZONTE
+State: MG
+Country: Brazil
+Zip Code: 31555160
+#### ID DOCUMENTS ####
+CPF: 25306677649
+#### CONTACT ####
+CONTACT PHONE: (31) 342762506
+CONTACT CELL PHONE: () 97261888
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: ivoncmarques@hotmail.com
+Secondary E-mailivoncmarques@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 522840
+Number: 522840******6155
+BRAND: MASTERCARD
+Gateway: Cielo
+Payment Date: 2020-09-25T12:26:26

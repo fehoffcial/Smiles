@@ -1,0 +1,33 @@
+##### ID: 50769215866 | PASSWORD: 8081 | MILES: 608 #####
+FULL NAME: MIGUEL EZEQUIAS DA SILVA SOUSA | MEMBER ID: 137743631
+BIRTHDAY: 2007-12-07
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 608
+Miles To Expire: 285
+Member Since: 2020-10-21T10:03:52.000-03:00
+#### ADDRESS ####
+Street Name: BOTOCUDO
+Number: 155
+Complement: ap. 76
+City: PRAIA GRANDE
+State: SP
+Country: Brazil
+Zip Code: 11703360
+#### ID DOCUMENTS ####
+CPF: 50769215866
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 981873109
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: furia-do-dc@hotmail.com
+Secondary E-mailricardo.msousa@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,33 @@
+##### ID: 16772369220 | PASSWORD: 6767 | MILES: 2731 #####
+FULL NAME: RAIMUNDO SANTOS COSTA | MEMBER ID: 435505711
+BIRTHDAY: 1967-09-07
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 2731
+Miles To Expire: 1150
+Member Since: 2015-02-01T14:52:53.000-02:00
+#### ADDRESS ####
+Street Name: RUA DOS PIONEIROS, XINGUARA, P
+Number: 465
+Complement: 
+City: XINGUARA
+State: PA
+Country: Brazil
+Zip Code: 68555541
+#### ID DOCUMENTS ####
+CPF: 16772369220
+#### CONTACT ####
+CONTACT PHONE: (94) 34262078
+CONTACT CELL PHONE: () 91307416
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 34261876
+### E-MAIL ####
+E-mail: rscosta67@hotmail.com
+Secondary E-mailglobopecas1@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 453211
+Number: 453211******7080
+BRAND: VISA
+Gateway: 
+Payment Date: 2017-09-15T09:59:47

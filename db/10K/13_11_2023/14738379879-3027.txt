@@ -1,0 +1,33 @@
+##### ID: 14738379879 | PASSWORD: 3027 | MILES: 1311 #####
+FULL NAME: ROBSON LOPES | MEMBER ID: 390729776
+BIRTHDAY: 1974-09-30
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 1311
+Miles To Expire: 311
+Member Since: 2013-01-08T15:58:05.000-02:00
+#### ADDRESS ####
+Street Name: JOÃO BENITO
+Number: 75
+Complement: a
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 04403280
+#### ID DOCUMENTS ####
+CPF: 14738379879
+#### CONTACT ####
+CONTACT PHONE: (11) 56213867
+CONTACT CELL PHONE: () 967421229
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: robson-lopes74@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 515601
+Number: 515601******4809
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2021-06-05T11:47:57

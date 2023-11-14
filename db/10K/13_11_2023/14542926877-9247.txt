@@ -1,0 +1,33 @@
+##### ID: 14542926877 | PASSWORD: 9247 | MILES: 75 #####
+FULL NAME: VALERIA CRISTINA PERES GOULART | MEMBER ID: 118462643
+BIRTHDAY: 1974-02-23
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 75
+Miles To Expire: 75
+Member Since: 2019-06-12T09:37:32.000-03:00
+#### ADDRESS ####
+Street Name: rua aziz chaud
+Number: 894
+Complement: 
+City: GUARÁ
+State: SP
+Country: Brazil
+Zip Code: 14580000
+#### ID DOCUMENTS ####
+CPF: 14542926877
+#### CONTACT ####
+CONTACT PHONE: (16) 38313739
+CONTACT CELL PHONE: () 999792680
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: arteira21@gmail.com
+Secondary E-mailleognogueira73@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 453211
+Number: 453211******5333
+BRAND: Visa
+Gateway: Cielo
+Payment Date: 2020-07-15T12:46:19

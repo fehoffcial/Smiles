@@ -1,0 +1,33 @@
+##### ID: 21506826806 | PASSWORD: 5036 | MILES: 820 #####
+FULL NAME: JOSE INACIO RIBEIRO BARBOSA | MEMBER ID: 720266610
+BIRTHDAY: 1978-10-21
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 820
+Miles To Expire: 524
+Member Since: 2004-01-28T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: VILLA-LOBOS
+Number: 41
+Complement: AP. H24
+City: SÃO JOSÉ DOS CAMPOS
+State: SP
+Country: Brazil
+Zip Code: 12242021
+#### ID DOCUMENTS ####
+CPF: 21506826806
+#### CONTACT ####
+CONTACT PHONE: (12) 39223437
+CONTACT CELL PHONE: () 96429922
+CONTACT SECONDARY CELL PHONE: () 32818247
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: jb@global-xs.com
+Secondary E-mailinfo@skyzepp.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

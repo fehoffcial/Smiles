@@ -1,0 +1,33 @@
+##### ID: 71268634204 | PASSWORD: 1978 | MILES: 0 #####
+FULL NAME: KLISSIANE GOMES DE SENA | MEMBER ID: 235977932
+BIRTHDAY: 1980-06-09
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2005-01-18T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: MAX TEIXEIRA
+Number: 2121
+Complement: Apt 404,T5
+City: MANAUS
+State: AM
+Country: Brazil
+Zip Code: 69093770
+#### ID DOCUMENTS ####
+CPF: 71268634204
+#### CONTACT ####
+CONTACT PHONE: (92) 36295272
+CONTACT CELL PHONE: () 994408946
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: klissianesena@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

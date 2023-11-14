@@ -1,0 +1,33 @@
+##### ID: 77478592287 | PASSWORD: 2202 | MILES: 0 #####
+FULL NAME: LAURIMAR OLIVEIRA PROGENIO | MEMBER ID: 126163833
+BIRTHDAY: 1981-02-22
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-11-10T00:08:58.000-03:00
+#### ADDRESS ####
+Street Name: TREZE DE MAIO
+Number: 33
+Complement: rua cristo reis
+City: ANANINDEUA
+State: PA
+Country: Brazil
+Zip Code: 67145800
+#### ID DOCUMENTS ####
+CPF: 77478592287
+#### CONTACT ####
+CONTACT PHONE: (91) 32711093
+CONTACT CELL PHONE: () 983690027
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: ramiruololiveira@hortlook.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

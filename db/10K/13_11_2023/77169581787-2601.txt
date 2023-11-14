@@ -1,0 +1,33 @@
+##### ID: 77169581787 | PASSWORD: 2601 | MILES: 0 #####
+FULL NAME: EVANILDE CERQUEIRA CANDIA MARQUES | MEMBER ID: 439283725
+BIRTHDAY: 1963-02-15
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2015-06-11T12:07:56.000-03:00
+#### ADDRESS ####
+Street Name: SÃO FÉLIX
+Number: 303
+Complement: APT 301
+City: RIO DE JANEIRO
+State: RJ
+Country: Brazil
+Zip Code: 21235610
+#### ID DOCUMENTS ####
+CPF: 77169581787
+#### CONTACT ####
+CONTACT PHONE: (21) 21359364
+CONTACT CELL PHONE: () 991006312
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: evanildecerqueira@gmail.com
+Secondary E-mailtacerqueira95@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 453211
+Number: 453211******6988
+BRAND: Visa
+Gateway: 
+Payment Date: 2015-07-15T11:55:56

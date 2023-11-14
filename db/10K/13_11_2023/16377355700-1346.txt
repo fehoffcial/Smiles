@@ -1,0 +1,33 @@
+##### ID: 16377355700 | PASSWORD: 1346 | MILES: 0 #####
+FULL NAME: ANDRE FERRAZ | MEMBER ID: 452966150
+BIRTHDAY: 1995-09-28
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2016-12-23T11:13:51.000-02:00
+#### ADDRESS ####
+Street Name: IBITURUNA
+Number: 96
+Complement: Casa 4 101
+City: RIO DE JANEIRO
+State: RJ
+Country: Brazil
+Zip Code: 20271020
+#### ID DOCUMENTS ####
+CPF: 16377355700
+#### CONTACT ####
+CONTACT PHONE: (2234) 6511
+CONTACT CELL PHONE: () 43433
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: andrem.ferraz@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

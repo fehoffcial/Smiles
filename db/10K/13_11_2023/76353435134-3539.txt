@@ -1,0 +1,33 @@
+##### ID: 76353435134 | PASSWORD: 3539 | MILES: 16325 #####
+FULL NAME: SILVIA KELLI DE MENEZES | MEMBER ID: 445573914
+BIRTHDAY: 1973-10-02
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 16325
+Miles To Expire: 825
+Member Since: 2016-02-24T10:16:14.000-03:00
+#### ADDRESS ####
+Street Name: VENEZA
+Number: 00
+Complement: QD 24 LT 02
+City: GOIÂNIA
+State: GO
+Country: Brazil
+Zip Code: 74366038
+#### ID DOCUMENTS ####
+CPF: 76353435134
+#### CONTACT ####
+CONTACT PHONE: (0) 0
+CONTACT CELL PHONE: () 0
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: fernando-f@sefaz.go.gov.br
+Secondary E-mailfernando-f@sefaz.go.gov.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 553096
+Number: 553096******3140
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-05-26T06:25:00

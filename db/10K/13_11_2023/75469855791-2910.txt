@@ -1,0 +1,33 @@
+##### ID: 75469855791 | PASSWORD: 2910 | MILES: 0 #####
+FULL NAME: RONALDO GRAVINO | MEMBER ID: 384905474
+BIRTHDAY: 1962-10-29
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2012-09-10T16:45:45.000-03:00
+#### ADDRESS ####
+Street Name: PIONEIRO RAFAEL FENATO, MARING
+Number: 213
+Complement: CASA
+City: MARINGA
+State: PR
+Country: Brazil
+Zip Code: 87023120
+#### ID DOCUMENTS ####
+CPF: 75469855791
+#### CONTACT ####
+CONTACT PHONE: (44) 30298182
+CONTACT CELL PHONE: () 99502381
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 30288193
+### E-MAIL ####
+E-mail: producoesgravino@gmail.com
+Secondary E-mailronaldo@gravino.com.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

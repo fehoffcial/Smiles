@@ -1,0 +1,33 @@
+##### ID: 57865922191 | PASSWORD: 8241 | MILES: 0 #####
+FULL NAME: MARIA DAS GRACAS OLIVEIRA | MEMBER ID: 728928922
+BIRTHDAY: 1972-12-10
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2009-07-15T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: AC 02 LTS, 1/2 E 12 BLOCO A
+Number: 405
+Complement: COND. VIA ARAGUAIA
+City: BRASILIA
+State: DF
+Country: Brazil
+Zip Code: 71810200
+#### ID DOCUMENTS ####
+CPF: 57865922191
+#### CONTACT ####
+CONTACT PHONE: (61) 92000834
+CONTACT CELL PHONE: () 0
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: juligraisa@ig.com.br
+Secondary E-mailjuligraisa@ig.com.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

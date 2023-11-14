@@ -1,0 +1,33 @@
+##### ID: 21428549234 | PASSWORD: 4156 | MILES: 180 #####
+FULL NAME: ELIANA DO NASCIMENTO SERPA | MEMBER ID: 451223301
+BIRTHDAY: 1960-04-16
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 180
+Miles To Expire: 180
+Member Since: 2016-11-02T02:09:44.000-02:00
+#### ADDRESS ####
+Street Name: SACRAMENTO
+Number: 74
+Complement: QD 180
+City: MANAUS
+State: AM
+Country: Brazil
+Zip Code: 69097282
+#### ID DOCUMENTS ####
+CPF: 21428549234
+#### CONTACT ####
+CONTACT PHONE: (92) 30719141
+CONTACT CELL PHONE: () 994370090
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: eliananascimentoserpa@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 544315
+Number: 544315******7758
+BRAND: MASTERCARD
+Gateway: 
+Payment Date: 2018-06-25T19:53:30

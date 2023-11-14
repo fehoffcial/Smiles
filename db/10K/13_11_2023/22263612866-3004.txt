@@ -1,0 +1,33 @@
+##### ID: 22263612866 | PASSWORD: 3004 | MILES: 20569 #####
+FULL NAME: NIVALDO F ROSA JUNIOR JUNIOR | MEMBER ID: 417123571
+BIRTHDAY: 1981-10-11
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 20569
+Miles To Expire: 2569
+Member Since: 2014-01-29T18:12:13.000-02:00
+#### ADDRESS ####
+Street Name: SOROCABA
+Number: 515
+Complement: CASA
+City: RIBEIRCO PRETO
+State: SP
+Country: Brazil
+Zip Code: 14075130
+#### ID DOCUMENTS ####
+CPF: 22263612866
+#### CONTACT ####
+CONTACT PHONE: (16) 36280093
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 981961324
+### E-MAIL ####
+E-mail: ferreirarosajunior@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 439354
+Number: 439354******8221
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2019-08-12T17:20:07

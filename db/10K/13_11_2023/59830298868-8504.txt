@@ -1,0 +1,33 @@
+##### ID: 59830298868 | PASSWORD: 8504 | MILES: 0 #####
+FULL NAME: LUIZ GONZAGA DA SILVA | MEMBER ID: 419115196
+BIRTHDAY: 1953-06-21
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2014-03-08T00:55:49.000-03:00
+#### ADDRESS ####
+Street Name: DURVAL GUERRA DE AZEVEDO
+Number: 164
+Complement: casa terea
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 05852440
+#### ID DOCUMENTS ####
+CPF: 59830298868
+#### CONTACT ####
+CONTACT PHONE: (11) 55151307
+CONTACT CELL PHONE: () 991904698
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: goonzza@uol.com.br
+Secondary E-mailgoonzza@uol.com.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

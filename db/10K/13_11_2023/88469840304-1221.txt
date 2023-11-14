@@ -1,0 +1,33 @@
+##### ID: 88469840304 | PASSWORD: 1221 | MILES: 400 #####
+FULL NAME: RODRIGO SANTANA DE JESUS OLIVEIRA | MEMBER ID: 128109940
+BIRTHDAY: 1981-07-11
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 400
+Miles To Expire: 400
+Member Since: 2019-12-12T01:35:08.000-03:00
+#### ADDRESS ####
+Street Name: MARIA ALICE
+Number: 50
+Complement: C Divinéia olhodagua
+City: SÃO LUÍS
+State: MA
+Country: Brazil
+Zip Code: 65068096
+#### ID DOCUMENTS ####
+CPF: 88469840304
+#### CONTACT ####
+CONTACT PHONE: (98) 98888888
+CONTACT CELL PHONE: () 988670244
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: tridentebr@yahoo.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 404024
+Number: 404024******0308
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2021-07-26T03:45:01

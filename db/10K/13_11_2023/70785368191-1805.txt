@@ -1,0 +1,33 @@
+##### ID: 70785368191 | PASSWORD: 1805 | MILES: 3870 #####
+FULL NAME: DENIZE RODRIGUES DAMASCENO | MEMBER ID: 727463796
+BIRTHDAY: 1980-08-26
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 3870
+Miles To Expire: 3870
+Member Since: 2009-04-29T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: N/A
+Number: 
+Complement: N/A
+City: N/A
+State: 
+Country: Brazil
+Zip Code: 00000000
+#### ID DOCUMENTS ####
+CPF: 70785368191
+#### CONTACT ####
+CONTACT PHONE: (62) 35942026
+CONTACT CELL PHONE: () 81377646
+CONTACT SECONDARY CELL PHONE: () 85121013
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: de.rdamasceno@gmail.com
+Secondary E-mailDE.RDAMASCENO@GMAIL.COM
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

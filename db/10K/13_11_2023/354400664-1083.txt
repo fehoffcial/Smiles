@@ -1,0 +1,33 @@
+##### ID: 354400664 | PASSWORD: 1083 | MILES: 0 #####
+FULL NAME: MARCELO RANGEL MOURA | MEMBER ID: 354400664
+BIRTHDAY: 1968-01-18
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2011-05-19T23:10:35.000-03:00
+#### ADDRESS ####
+Street Name: VAHIA DE ABREU
+Number: 144
+Complement: 
+City: SANTOS
+State: SP
+Country: Brazil
+Zip Code: 11050120
+#### ID DOCUMENTS ####
+CPF: 08062104869
+#### CONTACT ####
+CONTACT PHONE: (13) 22024938
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: danibaddini@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

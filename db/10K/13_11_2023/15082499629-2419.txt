@@ -1,0 +1,33 @@
+##### ID: 15082499629 | PASSWORD: 2419 | MILES: 0 #####
+FULL NAME: MARIANNY VIEIRA PIRES | MEMBER ID: 125570605
+BIRTHDAY: 1999-09-19
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-10-28T14:11:19.000-03:00
+#### ADDRESS ####
+Street Name: travessa comendador salermo
+Number: 71
+Complement: casa
+City: CARANGOLA
+State: MG
+Country: Brazil
+Zip Code: 36800000
+#### ID DOCUMENTS ####
+CPF: 15082499629
+#### CONTACT ####
+CONTACT PHONE: (32) 37413572
+CONTACT CELL PHONE: () 998026748
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: mariannycglaa@gmail.com
+Secondary E-mailmariannycgla@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

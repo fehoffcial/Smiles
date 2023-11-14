@@ -1,0 +1,33 @@
+##### ID: 356059443 | PASSWORD: 2563 | MILES: 660 #####
+FULL NAME: REGINA APARECIDA ALVES FEITOZA | MEMBER ID: 356059443
+BIRTHDAY: 1978-02-27
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 660
+Miles To Expire: 160
+Member Since: 2011-06-19T11:25:46.000-03:00
+#### ADDRESS ####
+Street Name: RUA 81
+Number: 83
+Complement: CONJUNTO EDUARDO GOMES
+City: SAO CRISTOVAO
+State: SE
+Country: Brazil
+Zip Code: 49100000
+#### ID DOCUMENTS ####
+CPF: 91194377572
+#### CONTACT ####
+CONTACT PHONE: (79) 999151132
+CONTACT CELL PHONE: () 999151132
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: reginafeitoza@gmail.com
+Secondary E-mailreginafeitoza@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 522688
+Number: 522688******7232
+BRAND: MASTERCARD
+Gateway: Cielo
+Payment Date: 2020-05-05T17:47:06

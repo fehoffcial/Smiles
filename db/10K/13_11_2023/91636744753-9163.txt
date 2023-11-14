@@ -1,0 +1,33 @@
+##### ID: 91636744753 | PASSWORD: 9163 | MILES: 0 #####
+FULL NAME: MARIA DE FATIMA DA COSTA | MEMBER ID: 137340954
+BIRTHDAY: 1962-09-01
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2020-10-07T12:25:22.000-03:00
+#### ADDRESS ####
+Street Name: ALONSO DE FARIA
+Number: 967
+Complement: CASA 31
+City: SÃO GONÇALO
+State: RJ
+Country: Brazil
+Zip Code: 24440370
+#### ID DOCUMENTS ####
+CPF: 91636744753
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 991060890
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: fatinharj17@hotmail.com
+Secondary E-mailfatinharj17@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

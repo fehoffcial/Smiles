@@ -1,0 +1,33 @@
+##### ID: 91544092091 | PASSWORD: 3649 | MILES: 16820 #####
+FULL NAME: EMIR SANCHES SQUEFF | MEMBER ID: 440358730
+BIRTHDAY: 1980-05-26
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 16820
+Miles To Expire: 560
+Member Since: 2015-07-16T15:28:42.000-03:00
+#### ADDRESS ####
+Street Name: DOM JOÃO BECKER
+Number: 1852
+Complement: BLOCO O APT 358
+City: CANOAS
+State: RS
+Country: Brazil
+Zip Code: 92200031
+#### ID DOCUMENTS ####
+CPF: 91544092091
+#### CONTACT ####
+CONTACT PHONE: (51) 24812009
+CONTACT CELL PHONE: () 99193013
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: squeff.emir@gmail.com
+Secondary E-mailemir_squeff@msn.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

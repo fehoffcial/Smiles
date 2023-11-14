@@ -1,0 +1,33 @@
+##### ID: 12962051693 | PASSWORD: 6557 | MILES: 0 #####
+FULL NAME: LEONARDO BICALHO CARDOSO | MEMBER ID: 126312071
+BIRTHDAY: 1995-08-27
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-11-12T19:57:51.000-03:00
+#### ADDRESS ####
+Street Name: EUCLIDES DA CUNHA
+Number: 77
+Complement: 
+City: VILA VELHA
+State: ES
+Country: Brazil
+Zip Code: 29119110
+#### ID DOCUMENTS ####
+CPF: 12962051693
+#### CONTACT ####
+CONTACT PHONE: (27) 99896012
+CONTACT CELL PHONE: () 998960127
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: leobicalho16@gmail.com
+Secondary E-mailleobicalho19@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

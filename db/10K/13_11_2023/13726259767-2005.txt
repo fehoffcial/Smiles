@@ -1,0 +1,33 @@
+##### ID: 13726259767 | PASSWORD: 2005 | MILES: 8004 #####
+FULL NAME: YAGO LOPES DE SOUZA | MEMBER ID: 398969174
+BIRTHDAY: 1992-05-20
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 8004
+Miles To Expire: 4
+Member Since: 2013-06-04T07:49:19.000-03:00
+#### ADDRESS ####
+Street Name: RUA 13
+Number: 11
+Complement: RESIDENCIAL
+City: ANGRA DOS REIS
+State: RJ
+Country: Brazil
+Zip Code: 23950130
+#### ID DOCUMENTS ####
+CPF: 13726259767
+#### CONTACT ####
+CONTACT PHONE: (24) 33389206
+CONTACT CELL PHONE: () 974023064
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: yago_lopes@hotmail.com
+Secondary E-mailyago_lopes@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 520132
+Number: 520132******6851
+BRAND: MASTERCARD
+Gateway: 
+Payment Date: 2019-06-15T08:05:12

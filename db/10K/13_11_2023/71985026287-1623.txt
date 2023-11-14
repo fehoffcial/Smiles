@@ -1,0 +1,33 @@
+##### ID: 71985026287 | PASSWORD: 1623 | MILES: 219 #####
+FULL NAME: MARCOS FREITAS | MEMBER ID: 454351111
+BIRTHDAY: 1981-10-13
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 219
+Miles To Expire: 120
+Member Since: 2017-02-09T11:25:44.000-02:00
+#### ADDRESS ####
+Street Name: OPERÁRIA
+Number: 51
+Complement: 
+City: MANAUS
+State: AM
+Country: Brazil
+Zip Code: 69065220
+#### ID DOCUMENTS ####
+CPF: 71985026287
+#### CONTACT ####
+CONTACT PHONE: (92) 99401589
+CONTACT CELL PHONE: () 994015899
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: marcoskennedi@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

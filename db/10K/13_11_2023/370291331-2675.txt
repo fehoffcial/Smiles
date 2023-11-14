@@ -1,0 +1,33 @@
+##### ID: 370291331 | PASSWORD: 2675 | MILES: 229 #####
+FULL NAME: DAYANE FREDDI | MEMBER ID: 370291331
+BIRTHDAY: 1982-12-02
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 229
+Miles To Expire: 81
+Member Since: 2012-01-17T21:21:49.000-02:00
+#### ADDRESS ####
+Street Name: DAS PRIMULAS, SAO PAULO, SP1T
+Number: 43
+Complement: 
+City: SAO PAULO
+State: SP
+Country: Brazil
+Zip Code: 04052090
+#### ID DOCUMENTS ####
+CPF: 32385090805
+#### CONTACT ####
+CONTACT PHONE: (11) 55892571
+CONTACT CELL PHONE: () 98135496
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: dayanefreddi@yahoo.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

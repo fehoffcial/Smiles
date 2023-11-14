@@ -1,0 +1,33 @@
+##### ID: 18070754869 | PASSWORD: 5369 | MILES: 0 #####
+FULL NAME: ADRIANO VIANA | MEMBER ID: 135946005
+BIRTHDAY: 1974-08-29
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2020-08-26T19:53:12.000-03:00
+#### ADDRESS ####
+Street Name: NELSON PEREIRA BUENO
+Number: 185
+Complement: Avalon 2 bloCo 2 ap 202
+City: HORTOLÂNDIA
+State: SP
+Country: Brazil
+Zip Code: 13184235
+#### ID DOCUMENTS ####
+CPF: 18070754869
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 996426113
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: lojatimhortolandia@gmail.com
+Secondary E-maildymyl32@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

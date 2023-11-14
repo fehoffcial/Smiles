@@ -1,0 +1,33 @@
+##### ID: 43832660704 | PASSWORD: 2120 | MILES: 0 #####
+FULL NAME: ANTONIA ALMEIDA | MEMBER ID: 446768276
+BIRTHDAY: 1955-06-13
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2016-04-24T10:00:17.000-03:00
+#### ADDRESS ####
+Street Name: A
+Number: 79
+Complement: CASA
+City: MONTES CLAROS
+State: MG
+Country: Brazil
+Zip Code: 39404700
+#### ID DOCUMENTS ####
+CPF: 43832660704
+#### CONTACT ####
+CONTACT PHONE: (38) 32513227
+CONTACT CELL PHONE: () 998303368
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: antoniabocaiuva@yahoo.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,33 @@
+##### ID: 72751010172 | PASSWORD: 1635 | MILES: 606 #####
+FULL NAME: HALÍPIA RODRIGUES DOS SANTOS | MEMBER ID: 432723303
+BIRTHDAY: 1983-04-28
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 606
+Miles To Expire: 606
+Member Since: 2014-12-01T10:36:57.000-02:00
+#### ADDRESS ####
+Street Name: QUADRA 7
+Number: 1165
+Complement: APARTAMENTO 01
+City: GAMA
+State: DF
+Country: Brazil
+Zip Code: 72445070
+#### ID DOCUMENTS ####
+CPF: 72751010172
+#### CONTACT ####
+CONTACT PHONE: (61) 33922566
+CONTACT CELL PHONE: () 999141600
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: halipia@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 554773
+Number: 554773******7022
+BRAND: Mastercard
+Gateway: 
+Payment Date: 2017-09-05T16:42:24

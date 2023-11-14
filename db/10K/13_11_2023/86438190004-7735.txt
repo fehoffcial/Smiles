@@ -1,0 +1,33 @@
+##### ID: 86438190004 | PASSWORD: 7735 | MILES: 0 #####
+FULL NAME: EMANUEL MATOS | MEMBER ID: 111567260
+BIRTHDAY: 1996-07-28
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-04-04T18:55:41.000-03:00
+#### ADDRESS ####
+Street Name: JORDÃO
+Number: 75
+Complement: casa na esquina
+City: PORTO ALEGRE
+State: RS
+Country: Brazil
+Zip Code: 91170700
+#### ID DOCUMENTS ####
+CPF: 86438190004
+#### CONTACT ####
+CONTACT PHONE: (51) 98407359
+CONTACT CELL PHONE: () 984073595
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: emanuelmatosmanu@gmail.com
+Secondary E-mailemanueldematos@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

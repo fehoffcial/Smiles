@@ -1,0 +1,33 @@
+##### ID: 15394736863 | PASSWORD: 1867 | MILES: 0 #####
+FULL NAME: RONALDO RODRIGUES DOS SANTOS | MEMBER ID: 424859923
+BIRTHDAY: 1971-08-31
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2014-06-24T22:16:01.000-03:00
+#### ADDRESS ####
+Street Name: JOÃO MOURA
+Number: 
+Complement: 
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 05412001
+#### ID DOCUMENTS ####
+CPF: 15394736863
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: tta_tto123@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 493494
+Number: 493494******1078
+BRAND: Visa
+Gateway: 
+Payment Date: 2015-06-08T10:41:58

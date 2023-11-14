@@ -1,0 +1,66 @@
+##### ID: 84390344749 | PASSWORD: 8170 | MILES: 138328 #####
+FULL NAME: GILMAR ANDRADE | MEMBER ID: 256129716
+BIRTHDAY: 1965-11-29
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 138328
+Miles To Expire: 1000
+Member Since: 2006-04-10T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: DESEMBARGADOR JOÃO PAES
+Number: 1044
+Complement:  901
+City: RECIFE
+State: PE
+Country: Brazil
+Zip Code: 51021360
+#### ID DOCUMENTS ####
+CPF: 84390344749
+#### CONTACT ####
+CONTACT PHONE: (81) 30386388
+CONTACT CELL PHONE: () 995005476
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: andrade.gilmar@uol.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 425850
+Number: 425850******8713
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2023-11-05T17:18:11
+##### ID: 84390344749 | PASSWORD: 8170 | MILES: 138328 #####
+FULL NAME: GILMAR ANDRADE | MEMBER ID: 256129716
+BIRTHDAY: 1965-11-29
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 138328
+Miles To Expire: 1000
+Member Since: 2006-04-10T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: DESEMBARGADOR JOÃO PAES
+Number: 1044
+Complement:  901
+City: RECIFE
+State: PE
+Country: Brazil
+Zip Code: 51021360
+#### ID DOCUMENTS ####
+CPF: 84390344749
+#### CONTACT ####
+CONTACT PHONE: (81) 30386388
+CONTACT CELL PHONE: () 995005476
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: andrade.gilmar@uol.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 425850
+Number: 425850******8713
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2023-11-05T17:18:11

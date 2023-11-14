@@ -1,0 +1,33 @@
+##### ID: 043189016 | PASSWORD: 7526 | MILES: 8490 #####
+FULL NAME: PERCIO CAMPOS BARROS | MEMBER ID: 043189016
+BIRTHDAY: 1969-02-03
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 8490
+Miles To Expire: 532
+Member Since: 1998-11-27T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: Rua Paulo VI
+Number: 500
+Complement: 302
+City: RIO DE JANEIRO
+State: RJ
+Country: Brazil
+Zip Code: 20241060
+#### ID DOCUMENTS ####
+CPF: 45028567468
+#### CONTACT ####
+CONTACT PHONE: (21) 34865609
+CONTACT CELL PHONE: () 93704990
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 22655609
+### E-MAIL ####
+E-mail: perciocampos@gmail.com
+Secondary E-mailpercio@luxmundi.com.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

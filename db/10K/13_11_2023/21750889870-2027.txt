@@ -1,0 +1,33 @@
+##### ID: 21750889870 | PASSWORD: 2027 | MILES: 0 #####
+FULL NAME: PAULO FERNANDO ORTEGA BOSCHI FILHO | MEMBER ID: 382044095
+BIRTHDAY: 1979-09-20
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2012-07-13T13:58:06.000-03:00
+#### ADDRESS ####
+Street Name: SÃO BENTO
+Number: 1271
+Complement: 
+City: ARARAQUARA
+State: SP
+Country: Brazil
+Zip Code: 14801300
+#### ID DOCUMENTS ####
+CPF: 21750889870
+#### CONTACT ####
+CONTACT PHONE: (16) 33041021
+CONTACT CELL PHONE: () 92152286
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 33360066
+### E-MAIL ####
+E-mail: pauloortega79@hotmail.com
+Secondary E-mailpaulo@delboneortega.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

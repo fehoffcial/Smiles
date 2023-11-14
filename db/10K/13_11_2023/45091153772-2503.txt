@@ -1,0 +1,33 @@
+##### ID: 45091153772 | PASSWORD: 2503 | MILES: 1742 #####
+FULL NAME: MARIA ALBA MARTINELLI | MEMBER ID: 450780536
+BIRTHDAY: 1956-03-25
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 1742
+Miles To Expire: 970
+Member Since: 2016-10-12T10:37:29.000-03:00
+#### ADDRESS ####
+Street Name: SANTA LEOCÁDIA
+Number: 17
+Complement: 
+City: VILA VELHA
+State: ES
+Country: Brazil
+Zip Code: 29101081
+#### ID DOCUMENTS ####
+CPF: 45091153772
+#### CONTACT ####
+CONTACT PHONE: (27) 33296297
+CONTACT CELL PHONE: () 998901700
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: mariaalbamartinelli@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

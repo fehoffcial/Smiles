@@ -1,0 +1,66 @@
+##### ID: 40111822068 | PASSWORD: 1523 | MILES: 95800 #####
+FULL NAME: JERONIMO GASPARI | MEMBER ID: 226086722
+BIRTHDAY: 1963-01-29
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 95800
+Miles To Expire: 34400
+Member Since: 2002-11-05T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: R. JACOB LUCHESI
+Number: 2261
+Complement: AP. 204
+City: CAXIAS DO SUL
+State: RS
+Country: Brazil
+Zip Code: 95032000
+#### ID DOCUMENTS ####
+CPF: 40111822068
+#### CONTACT ####
+CONTACT PHONE: (54) 32116062
+CONTACT CELL PHONE: () 99796489
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: jeronimogaspari@gmail.com
+Secondary E-mailjeronimogaspari@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 406669
+Number: 406669******3180
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2023-11-05T19:31:00
+##### ID: 40111822068 | PASSWORD: 1523 | MILES: 95800 #####
+FULL NAME: JERONIMO GASPARI | MEMBER ID: 226086722
+BIRTHDAY: 1963-01-29
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 95800
+Miles To Expire: 34400
+Member Since: 2002-11-05T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: R. JACOB LUCHESI
+Number: 2261
+Complement: AP. 204
+City: CAXIAS DO SUL
+State: RS
+Country: Brazil
+Zip Code: 95032000
+#### ID DOCUMENTS ####
+CPF: 40111822068
+#### CONTACT ####
+CONTACT PHONE: (54) 32116062
+CONTACT CELL PHONE: () 99796489
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: jeronimogaspari@gmail.com
+Secondary E-mailjeronimogaspari@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 406669
+Number: 406669******3180
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2023-11-05T19:31:00

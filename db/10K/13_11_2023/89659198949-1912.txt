@@ -1,0 +1,33 @@
+##### ID: 89659198949 | PASSWORD: 1912 | MILES: 28000 #####
+FULL NAME: CLAUDIANE FIORINI ALEGRO | MEMBER ID: 403883502
+BIRTHDAY: 1973-04-22
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 28000
+Miles To Expire: 1000
+Member Since: 2013-08-05T08:01:05.000-03:00
+#### ADDRESS ####
+Street Name: JOSÉ CALDART
+Number: 462
+Complement: apto 04
+City: CASCAVEL
+State: PR
+Country: Brazil
+Zip Code: 85819570
+#### ID DOCUMENTS ####
+CPF: 89659198949
+#### CONTACT ####
+CONTACT PHONE: (45) 30393561
+CONTACT CELL PHONE: () 99180820
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: jc.clau@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 536805
+Number: 536805******6964
+BRAND: Master
+Gateway: Cielo
+Payment Date: 2020-01-25T13:15:50

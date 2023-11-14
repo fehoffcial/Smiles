@@ -1,0 +1,33 @@
+##### ID: 14882851792 | PASSWORD: 1808 | MILES: 0 #####
+FULL NAME: PATRICK REIS HAYASHIDA FERREIRA | MEMBER ID: 116144490
+BIRTHDAY: 1994-05-06
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-04-25T12:51:53.000-03:00
+#### ADDRESS ####
+Street Name: Avenida MARECHAL FONTENELLE
+Number: 4553
+Complement: Rua 13 Casa 43
+City: RIO DE JANEIRO
+State: RJ
+Country: Brazil
+Zip Code: 21750000
+#### ID DOCUMENTS ####
+CPF: 14882851792
+#### CONTACT ####
+CONTACT PHONE: (21) 35559098
+CONTACT CELL PHONE: () 968019819
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: patrickhayashida@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

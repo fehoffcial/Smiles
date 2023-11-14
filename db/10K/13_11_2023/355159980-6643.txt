@@ -1,0 +1,33 @@
+##### ID: 355159980 | PASSWORD: 6643 | MILES: 956 #####
+FULL NAME: JOSIANE ANTUNES PINA | MEMBER ID: 355159980
+BIRTHDAY: 1985-11-26
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 956
+Miles To Expire: 347
+Member Since: 2011-06-02T21:11:17.000-03:00
+#### ADDRESS ####
+Street Name: JOAO MANOEL DE MELO, SAO GONCA
+Number: 54
+Complement: 
+City: SAO GONCALO
+State: RJ
+Country: Brazil
+Zip Code: 24723620
+#### ID DOCUMENTS ####
+CPF: 11679167782
+#### CONTACT ####
+CONTACT PHONE: (21) 37155636
+CONTACT CELL PHONE: () 99546253
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 26023202
+### E-MAIL ####
+E-mail: josiane.web@gmail.com
+Secondary E-mailjosiane.pina@bbraun.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

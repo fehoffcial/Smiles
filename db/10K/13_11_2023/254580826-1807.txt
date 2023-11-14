@@ -1,0 +1,33 @@
+##### ID: 254580826 | PASSWORD: 1807 | MILES: 2139 #####
+FULL NAME: JUSCELINO APARECIDO DA SILVA | MEMBER ID: 254580826
+BIRTHDAY: 1974-09-23
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 2139
+Miles To Expire: 139
+Member Since: 2005-11-28T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: QUINTINO BOCAIÚVA
+Number: 1255
+Complement: N/A
+City: FOZ DO IGUAÇU
+State: PR
+Country: Brazil
+Zip Code: 85851130
+#### ID DOCUMENTS ####
+CPF: 11410648800
+#### CONTACT ####
+CONTACT PHONE: (45) 35765979
+CONTACT CELL PHONE: () 999941905
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: tiojussa@hotmail.com
+Secondary E-mailtiojussa@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 515894
+Number: 515894******7537
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-11-05T07:22:45

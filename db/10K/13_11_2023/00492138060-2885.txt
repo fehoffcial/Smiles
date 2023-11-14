@@ -1,0 +1,33 @@
+##### ID: 00492138060 | PASSWORD: 2885 | MILES: 0 #####
+FULL NAME: EURICO PORTELA PAZ DOS SANTOS | MEMBER ID: 126597240
+BIRTHDAY: 1985-12-28
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-11-18T13:57:17.000-03:00
+#### ADDRESS ####
+Street Name: CEL FALKEMBACH
+Number: 1477
+Complement: RUA CEL. FALKEMBACH
+City: SOLEDADE
+State: RS
+Country: Brazil
+Zip Code: 99300000
+#### ID DOCUMENTS ####
+CPF: 00492138060
+#### CONTACT ####
+CONTACT PHONE: (54) 33811466
+CONTACT CELL PHONE: () 999122265
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: euricopps@gmail.com
+Secondary E-maileuricopps@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

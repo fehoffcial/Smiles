@@ -1,0 +1,33 @@
+##### ID: 432989222 | PASSWORD: 0910 | MILES: 43000 #####
+FULL NAME: ISABEL CECÍLIA FERNANDES MOREIRA | MEMBER ID: 432989222
+BIRTHDAY: 1946-11-28
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 43000
+Miles To Expire: 1000
+Member Since: 2014-12-05T14:48:33.000-02:00
+#### ADDRESS ####
+Street Name: MANOEL CAVALCANTI DE SOUZA
+Number: 95
+Complement: 801
+City: JOÃO PESSOA
+State: PB
+Country: Brazil
+Zip Code: 58045090
+#### ID DOCUMENTS ####
+CPF: 05301726404
+#### CONTACT ####
+CONTACT PHONE: (83) 81895363
+CONTACT CELL PHONE: () 87806323
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: domingosmoreira.0910@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 498453
+Number: 498453******8395
+BRAND: Visa
+Gateway: Cielo
+Payment Date: 2020-12-15T18:15:15

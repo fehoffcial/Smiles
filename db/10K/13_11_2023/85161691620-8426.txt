@@ -1,0 +1,33 @@
+##### ID: 85161691620 | PASSWORD: 8426 | MILES: 0 #####
+FULL NAME: ROMERO SILVA | MEMBER ID: 117555174
+BIRTHDAY: 1972-06-29
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-05-23T05:14:04.000-03:00
+#### ADDRESS ####
+Street Name: Rua alexandre bernardes primo
+Number: 1160
+Complement: centro
+City: LAGOA DA PRATA
+State: MG
+Country: Brazil
+Zip Code: 35590000
+#### ID DOCUMENTS ####
+CPF: 85161691620
+#### CONTACT ####
+CONTACT PHONE: (37) 32619450
+CONTACT CELL PHONE: () 999054867
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: romerojs@gmail.com
+Secondary E-mailromero@koalainterativa.com.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

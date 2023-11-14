@@ -1,0 +1,33 @@
+##### ID: 702927245 | PASSWORD: 5129 | MILES: 6488 #####
+FULL NAME: ALESSANDRO GONCALVES GUIMARAES | MEMBER ID: 702927245
+BIRTHDAY: 1978-07-11
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 6488
+Miles To Expire: 3
+Member Since: 2005-04-05T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: CIRO FURTADO SODRE CUIABA MT
+Number: 187
+Complement: 
+City: CUIABA
+State: MT
+Country: Brazil
+Zip Code: 78050625
+#### ID DOCUMENTS ####
+CPF: 85004189153
+#### CONTACT ####
+CONTACT PHONE: (65) 36441441
+CONTACT CELL PHONE: () 984383639
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: tandrilhomt@hotmail.com
+Secondary E-mailtandrilhomt@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 423071
+Number: 423071******3932
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2022-06-15T16:34:03

@@ -1,0 +1,33 @@
+##### ID: 430927604 | PASSWORD: 3057 | MILES: 0 #####
+FULL NAME: ADRIANO OSCAR SCHOENARDIE | MEMBER ID: 430927604
+BIRTHDAY: 1978-06-25
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2014-10-26T22:53:21.000-02:00
+#### ADDRESS ####
+Street Name: SERGIPE
+Number: 145
+Complement: NEOPOLIS
+City: GRAVATAI
+State: RS
+Country: Brazil
+Zip Code: 94100070
+#### ID DOCUMENTS ####
+CPF: 96334029053
+#### CONTACT ####
+CONTACT PHONE: (51) 34319323
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: contato@awebsites.com.br
+Secondary E-mailcomercial@awebsites.com.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

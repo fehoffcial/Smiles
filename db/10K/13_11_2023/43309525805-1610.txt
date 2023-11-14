@@ -1,0 +1,33 @@
+##### ID: 43309525805 | PASSWORD: 1610 | MILES: 808 #####
+FULL NAME: CAIO CALDEIRA | MEMBER ID: 475520065
+BIRTHDAY: 1995-10-16
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 808
+Miles To Expire: 58
+Member Since: 2018-04-09T17:30:13.000-03:00
+#### ADDRESS ####
+Street Name: rua catumbi
+Number: 962
+Complement: apto 1
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 03021000
+#### ID DOCUMENTS ####
+CPF: 43309525805
+#### CONTACT ####
+CONTACT PHONE: (3596) 7410
+CONTACT CELL PHONE: () 2605
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: caio.caldeira95@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 550209
+Number: 550209******5437
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2022-09-15T09:15:39

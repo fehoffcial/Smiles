@@ -1,0 +1,33 @@
+##### ID: 424461542 | PASSWORD: 3167 | MILES: 0 #####
+FULL NAME: JEFERSON SILVA | MEMBER ID: 424461542
+BIRTHDAY: 1988-10-24
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2014-06-16T12:03:09.000-03:00
+#### ADDRESS ####
+Street Name: DO POMAR
+Number: 48
+Complement: csa
+City: CABO FRIO
+State: RJ
+Country: Brazil
+Zip Code: 28922595
+#### ID DOCUMENTS ####
+CPF: 12841796728
+#### CONTACT ####
+CONTACT PHONE: (22) 26471769
+CONTACT CELL PHONE: () 998175066
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: jefersonsilvacoelho@bol.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

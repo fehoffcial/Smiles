@@ -1,0 +1,33 @@
+##### ID: 37917131831 | PASSWORD: 8314 | MILES: 0 #####
+FULL NAME: RAQUEL SOUZA | MEMBER ID: 118440932
+BIRTHDAY: 1991-01-21
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-06-11T18:14:16.000-03:00
+#### ADDRESS ####
+Street Name: MARIA MARQUES CHAN CASA   NUMERO 753
+Number: 00000
+Complement: 
+City: BAURU
+State: SP
+Country: Brazil
+Zip Code: 17047510
+#### ID DOCUMENTS ####
+CPF: 37917131831
+#### CONTACT ####
+CONTACT PHONE: (0) 0
+CONTACT CELL PHONE: () 0
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: raqueloliveirasouza1485@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

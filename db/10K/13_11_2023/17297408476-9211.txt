@@ -1,0 +1,33 @@
+##### ID: 17297408476 | PASSWORD: 9211 | MILES: 0 #####
+FULL NAME: CARLOS EDUARDO SANTOS MARQUES | MEMBER ID: 135803010
+BIRTHDAY: 2020-08-14
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2020-08-21T13:45:48.000-03:00
+#### ADDRESS ####
+Street Name: rua DA PAZ
+Number: 202
+Complement: 
+City: MACEIÓ
+State: AL
+Country: Brazil
+Zip Code: 57039602
+#### ID DOCUMENTS ####
+CPF: 17297408476
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 996517600
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: lucaselndsm@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

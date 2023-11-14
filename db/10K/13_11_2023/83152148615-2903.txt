@@ -1,0 +1,33 @@
+##### ID: 83152148615 | PASSWORD: 2903 | MILES: 400 #####
+FULL NAME: WOLDEN ZANUTI GRIPP | MEMBER ID: 507111382
+BIRTHDAY: 1973-08-27
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 400
+Miles To Expire: 400
+Member Since: 2018-09-28T09:01:40.000-03:00
+#### ADDRESS ####
+Street Name: CANGERANA
+Number: 17
+Complement: 
+City: CACHOEIRO DE ITAPEMIRIM
+State: ES
+Country: Brazil
+Zip Code: 29308490
+#### ID DOCUMENTS ####
+CPF: 83152148615
+#### CONTACT ####
+CONTACT PHONE: (28) 35217162
+CONTACT CELL PHONE: () 999923467
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: woldenzg@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

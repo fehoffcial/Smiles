@@ -1,0 +1,33 @@
+##### ID: 19304552400 | PASSWORD: 1959 | MILES: 0 #####
+FULL NAME: JASIEL SOUZA DE ARAUJO | MEMBER ID: 730899982
+BIRTHDAY: 1959-11-11
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2009-10-24T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: RIO DE JANEIRO
+Number: 2538
+Complement: APTº 402
+City: DIVINOPOLIS
+State: MG
+Country: Brazil
+Zip Code: 35502456
+#### ID DOCUMENTS ####
+CPF: 19304552400
+#### CONTACT ####
+CONTACT PHONE: (37) 32123170
+CONTACT CELL PHONE: () 99030597
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: prjasielsa@yahoo.com.br
+Secondary E-mailPRJASIELSA@YAHOO.COM.BR
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

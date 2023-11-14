@@ -1,0 +1,33 @@
+##### ID: 89143400906 | PASSWORD: 6380 | MILES: 0 #####
+FULL NAME: JACKSON EDUARDO MANKE | MEMBER ID: 126333863
+BIRTHDAY: 1977-09-20
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-11-13T07:02:05.000-03:00
+#### ADDRESS ####
+Street Name: Rua 16 de julho
+Number: 279
+Complement: Casa
+City: INDAIAL
+State: SC
+Country: Brazil
+Zip Code: 89130000
+#### ID DOCUMENTS ####
+CPF: 89143400906
+#### CONTACT ####
+CONTACT PHONE: (47) 33801013
+CONTACT CELL PHONE: () 991424335
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: jackson.manke@gmail.com
+Secondary E-mailjackbnu@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

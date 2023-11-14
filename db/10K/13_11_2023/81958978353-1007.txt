@@ -1,0 +1,33 @@
+##### ID: 81958978353 | PASSWORD: 1007 | MILES: 10338 #####
+FULL NAME: CONCEICAO DE MARIA SOARES SILVA | MEMBER ID: 456983516
+BIRTHDAY: 1979-05-24
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 10338
+Miles To Expire: 10000
+Member Since: 2017-05-20T11:25:45.000-03:00
+#### ADDRESS ####
+Street Name: rua pastor manoel batista
+Number: 431
+Complement: centro
+City: RORAINÓPOLIS
+State: RR
+Country: Brazil
+Zip Code: 69373000
+#### ID DOCUMENTS ####
+CPF: 81958978353
+#### CONTACT ####
+CONTACT PHONE: (95) 32381193
+CONTACT CELL PHONE: () 991683565
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: conceicaodemaria_2012@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 506753
+Number: 506753******7080
+BRAND: ELO
+Gateway: Adyen
+Payment Date: 2021-02-05T11:52:20

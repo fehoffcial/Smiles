@@ -1,0 +1,33 @@
+##### ID: 85494151700 | PASSWORD: 2704 | MILES: 602 #####
+FULL NAME: FREDERICO JORGE DE MIRANDA FARIAS | MEMBER ID: 085267195
+BIRTHDAY: 1966-08-29
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 602
+Miles To Expire: 602
+Member Since: 1997-10-02T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: R MONTEIRO LOBATO CJ PETRO
+Number: 51
+Complement: CONJ. PETRO
+City: MANAUS
+State: AM
+Country: Brazil
+Zip Code: 69083110
+#### ID DOCUMENTS ####
+CPF: 85494151700
+#### CONTACT ####
+CONTACT PHONE: (92) 36466545
+CONTACT CELL PHONE: () 991523673
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 36445777
+### E-MAIL ####
+E-mail: magicpublici@gmail.com
+Secondary E-maildomber@uol.com.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 512215
+Number: 512215******0280
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-07-26T05:38:14

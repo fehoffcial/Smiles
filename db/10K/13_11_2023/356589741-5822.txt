@@ -1,0 +1,33 @@
+##### ID: 356589741 | PASSWORD: 5822 | MILES: 0 #####
+FULL NAME: LUCAS SOUZA NASCIMENTO | MEMBER ID: 356589741
+BIRTHDAY: 1991-04-29
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2011-06-28T18:57:47.000-03:00
+#### ADDRESS ####
+Street Name: BALACLAVA
+Number: 1040
+Complement: 
+City: SANTO ANDRE
+State: SP
+Country: Brazil
+Zip Code: 09260440
+#### ID DOCUMENTS ####
+CPF: 39249391870
+#### CONTACT ####
+CONTACT PHONE: (11) 44753339
+CONTACT CELL PHONE: () 77099976
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 88528063
+### E-MAIL ####
+E-mail: emaildolucassouza@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 525664
+Number: 525664******9034
+BRAND: Mastercard
+Gateway: 
+Payment Date: 2015-11-07T20:02:05

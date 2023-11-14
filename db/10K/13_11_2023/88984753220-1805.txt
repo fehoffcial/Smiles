@@ -1,0 +1,33 @@
+##### ID: 88984753220 | PASSWORD: 1805 | MILES: 0 #####
+FULL NAME: RAFAEL DA SILVA ALMEIDA | MEMBER ID: 452792981
+BIRTHDAY: 1986-12-09
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2016-12-18T01:00:54.000-02:00
+#### ADDRESS ####
+Street Name: RIO MADEIRA
+Number: 11
+Complement: QUARA V3
+City: MUTUM PARANÁ
+State: RO
+Country: Brazil
+Zip Code: 76842000
+#### ID DOCUMENTS ####
+CPF: 88984753220
+#### CONTACT ####
+CONTACT PHONE: (69) 35339529
+CONTACT CELL PHONE: () 999402195
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: rafaelarthur.almeida@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

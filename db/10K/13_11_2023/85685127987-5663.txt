@@ -1,0 +1,33 @@
+##### ID: 85685127987 | PASSWORD: 5663 | MILES: 3100 #####
+FULL NAME: OSMAR ANDREIKO | MEMBER ID: 388982565
+BIRTHDAY: 1973-09-08
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 3100
+Miles To Expire: 100
+Member Since: 2012-11-28T20:19:49.000-02:00
+#### ADDRESS ####
+Street Name: OITO
+Number: 255
+Complement: APTO 303B
+City: CONTAGEM
+State: MG
+Country: Brazil
+Zip Code: 32260040
+#### ID DOCUMENTS ####
+CPF: 85685127987
+#### CONTACT ####
+CONTACT PHONE: (31) 30498725
+CONTACT CELL PHONE: () 991323042
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: andreikoand@yahoo.com.br
+Secondary E-mailandreikoand2@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 523284
+Number: 523284******7753
+BRAND: MASTERCARD
+Gateway: Cielo
+Payment Date: 2020-04-13T08:26:22

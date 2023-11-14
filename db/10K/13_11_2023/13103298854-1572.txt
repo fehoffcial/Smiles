@@ -1,0 +1,33 @@
+##### ID: 13103298854 | PASSWORD: 1572 | MILES: 0 #####
+FULL NAME: LEANDRO BOCCHI FACIOLI | MEMBER ID: 710376391
+BIRTHDAY: 1971-10-03
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 1999-12-30T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: RUA VICTORIO OSTI
+Number: 441
+Complement: 
+City: BARRA BONITA
+State: SP
+Country: Brazil
+Zip Code: 17340000
+#### ID DOCUMENTS ####
+CPF: 13103298854
+#### CONTACT ####
+CONTACT PHONE: (14) 36411937
+CONTACT CELL PHONE: () 997062128
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 36417383
+### E-MAIL ####
+E-mail: leandro.facioli@hotmail.com
+Secondary E-mailFACIOLI.ENG@IG.COM.BR
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

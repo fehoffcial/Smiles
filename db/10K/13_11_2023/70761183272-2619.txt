@@ -1,0 +1,33 @@
+##### ID: 70761183272 | PASSWORD: 2619 | MILES: 0 #####
+FULL NAME: JUCELIA CRISTINA CHAVES DA SILVA | MEMBER ID: 452109980
+BIRTHDAY: 1980-08-19
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2016-11-22T18:55:11.000-02:00
+#### ADDRESS ####
+Street Name: MARIA DOS ANJOS
+Number: 097
+Complement: 
+City: BELÉM
+State: PA
+Country: Brazil
+Zip Code: 66080330
+#### ID DOCUMENTS ####
+CPF: 70761183272
+#### CONTACT ####
+CONTACT PHONE: (91) 96241365
+CONTACT CELL PHONE: () 996241365
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: juc.cristina@yahoo.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

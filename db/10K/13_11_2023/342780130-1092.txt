@@ -1,0 +1,33 @@
+##### ID: 342780130 | PASSWORD: 1092 | MILES: 366 #####
+FULL NAME: EDUARDO MIRANDA DA FONSECA | MEMBER ID: 342780130
+BIRTHDAY: 1980-05-29
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 366
+Miles To Expire: 66
+Member Since: 2010-12-25T18:27:25.000-02:00
+#### ADDRESS ####
+Street Name: ABEL ADRIANO DA SILVA
+Number: 50
+Complement: bl d apt 32
+City: ITAJAÍ
+State: SC
+Country: Brazil
+Zip Code: 88306020
+#### ID DOCUMENTS ####
+CPF: 08559983775
+#### CONTACT ####
+CONTACT PHONE: (21) 34682930
+CONTACT CELL PHONE: () 967501039
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: taisadefante@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 491674
+Number: 491674******8704
+BRAND: VISA
+Gateway: 
+Payment Date: 2018-03-15T04:24:03

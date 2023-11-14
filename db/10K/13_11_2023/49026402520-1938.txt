@@ -1,0 +1,33 @@
+##### ID: 49026402520 | PASSWORD: 1938 | MILES: 52501 #####
+FULL NAME: ANA RITA SANTOS SOUZA | MEMBER ID: 449334384
+BIRTHDAY: 1968-05-22
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 52501
+Miles To Expire: 47830
+Member Since: 2016-08-10T12:11:54.000-03:00
+#### ADDRESS ####
+Street Name: MÁRCIO BAPTISTA
+Number: 156
+Complement: STIEP
+City: SALVADOR
+State: BA
+Country: Brazil
+Zip Code: 41770015
+#### ID DOCUMENTS ####
+CPF: 49026402520
+#### CONTACT ####
+CONTACT PHONE: (71) 30358089
+CONTACT CELL PHONE: () 991898013
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: ana.planetacor@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

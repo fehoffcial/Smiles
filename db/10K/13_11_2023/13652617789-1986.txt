@@ -1,0 +1,33 @@
+##### ID: 13652617789 | PASSWORD: 1986 | MILES: 0 #####
+FULL NAME: DANIEL ARES DA SILVA | MEMBER ID: 124207440
+BIRTHDAY: 1991-02-28
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-09-30T21:29:50.000-03:00
+#### ADDRESS ####
+Street Name: RAUL RUDGE
+Number: 161
+Complement: casa
+City: RIO DE JANEIRO
+State: RJ
+Country: Brazil
+Zip Code: 22750190
+#### ID DOCUMENTS ####
+CPF: 13652617789
+#### CONTACT ####
+CONTACT PHONE: (21) 99397566
+CONTACT CELL PHONE: () 993975664
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: daniel.ares.ds@gmail.com
+Secondary E-maildadsdesigner@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

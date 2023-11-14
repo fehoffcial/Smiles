@@ -1,0 +1,33 @@
+##### ID: 19736878368 | PASSWORD: 8261 | MILES: 0 #####
+FULL NAME: MARIA CARMECITA FERREIRA FEITOSA | MEMBER ID: 478407366
+BIRTHDAY: 1957-12-20
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2018-06-13T14:18:02.000-03:00
+#### ADDRESS ####
+Street Name: RUA HIGINO TEIXIERA(RUA 02)
+Number: 564
+Complement: 
+City: PEDREIRAS
+State: MA
+Country: Brazil
+Zip Code: 65725000
+#### ID DOCUMENTS ####
+CPF: 19736878368
+#### CONTACT ####
+CONTACT PHONE: (99) 36425698
+CONTACT CELL PHONE: () 987400933
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: fisicomaluco01@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

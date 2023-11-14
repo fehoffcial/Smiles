@@ -1,0 +1,33 @@
+##### ID: 075867072 | PASSWORD: 6457 | MILES: 1406 #####
+FULL NAME: LUIZ PAULO GOMES DE OLIVEIRA | MEMBER ID: 075867072
+BIRTHDAY: 1981-02-22
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 1406
+Miles To Expire: 406
+Member Since: 1999-04-30T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: RUA TIRADENTES
+Number: 39
+Complement: 502
+City: BELEM
+State: PA
+Country: Brazil
+Zip Code: 66053330
+#### ID DOCUMENTS ####
+CPF: 68600356253
+#### CONTACT ####
+CONTACT PHONE: (91) 32236457
+CONTACT CELL PHONE: () 998987290
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: lp2202@gmail.com
+Secondary E-maillp2202@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 489391
+Number: 489391******4168
+BRAND: Visa
+Gateway: Cielo
+Payment Date: 2023-06-05T09:37:40

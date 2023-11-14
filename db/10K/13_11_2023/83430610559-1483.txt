@@ -1,0 +1,33 @@
+##### ID: 83430610559 | PASSWORD: 1483 | MILES: 1762 #####
+FULL NAME: PRISCILLA DA SILVA GOES | MEMBER ID: 108714266
+BIRTHDAY: 1983-09-14
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 1762
+Miles To Expire: 762
+Member Since: 2019-01-31T22:58:04.000-02:00
+#### ADDRESS ####
+Street Name: Rua 88
+Number: 136
+Complement: Conj Eduardo Gomes
+City: SÃO CRISTÓVÃO
+State: SE
+Country: Brazil
+Zip Code: 49100000
+#### ID DOCUMENTS ####
+CPF: 83430610559
+#### CONTACT ####
+CONTACT PHONE: (79) 99126519
+CONTACT CELL PHONE: () 991265198
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: priscillahistoria@yahoo.com.br
+Secondary E-mailpriscillasabub@yahoo.com.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 444456
+Number: 444456******1476
+BRAND: VISA
+Gateway: Cielo
+Payment Date: 2020-01-15T07:05:42

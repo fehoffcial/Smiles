@@ -1,0 +1,33 @@
+##### ID: 21391261810 | PASSWORD: 7757 | MILES: 0 #####
+FULL NAME: ANDERSON FERREIRA LEÃO | MEMBER ID: 119321952
+BIRTHDAY: 1981-07-27
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-06-23T10:39:22.000-03:00
+#### ADDRESS ####
+Street Name: ÔNIX
+Number: 987
+Complement: 
+City: OSASCO
+State: SP
+Country: Brazil
+Zip Code: 06280030
+#### ID DOCUMENTS ####
+CPF: 21391261810
+#### CONTACT ####
+CONTACT PHONE: (11) 36032319
+CONTACT CELL PHONE: () 991225125
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: anderson.andy.sp@hotmail.com
+Secondary E-mailandersonspbrasil@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

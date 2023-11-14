@@ -1,0 +1,33 @@
+##### ID: 361204373 | PASSWORD: 5267 | MILES: 0 #####
+FULL NAME: ERICO LUIZ MILANI | MEMBER ID: 361204373
+BIRTHDAY: 1953-11-28
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2011-09-02T11:10:09.000-03:00
+#### ADDRESS ####
+Street Name: ALAGOAS, CURITIBA, PR1D60BQH
+Number: 3020
+Complement: CASA
+City: CURITIBA
+State: PR
+Country: Brazil
+Zip Code: 80630050
+#### ID DOCUMENTS ####
+CPF: 23057386920
+#### CONTACT ####
+CONTACT PHONE: (41) 33297927
+CONTACT CELL PHONE: () 84198131
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: elmilani@pop.com.br
+Secondary E-mailmilani.e@r7.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

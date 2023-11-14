@@ -1,0 +1,33 @@
+##### ID: 73554847100 | PASSWORD: 4046 | MILES: 11073 #####
+FULL NAME: Dayvison Dario Ferreira Gomes | MEMBER ID: 736491814
+BIRTHDAY: 1989-07-20
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 11073
+Miles To Expire: 100
+Member Since: 2010-08-31T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: MAJOR ELDO SÁ CORREA
+Number: 07
+Complement: QUADRA 44, CPA 03 Se
+City: CUIABÁ
+State: MT
+Country: Brazil
+Zip Code: 78058418
+#### ID DOCUMENTS ####
+CPF: 73554847100
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 981722097
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: dayvison_dario@hotmail.com
+Secondary E-maildayvisondario@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 422061
+Number: 422061******5977
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2023-10-20T15:03:59

@@ -1,0 +1,33 @@
+##### ID: 706221563 | PASSWORD: 2702 | MILES: 0 #####
+FULL NAME: MARIO DE SOUZA | MEMBER ID: 706221563
+BIRTHDAY: 1964-01-30
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 1998-07-16T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: PIRATININGA
+Number: 33
+Complement: 303 BLOCO A
+City: VILA VELHA
+State: ES
+Country: Brazil
+Zip Code: 29101220
+#### ID DOCUMENTS ####
+CPF: 76603520753
+#### CONTACT ####
+CONTACT PHONE: (27) 33498857
+CONTACT CELL PHONE: () 992359835
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 33574663
+### E-MAIL ####
+E-mail: mariosouza.es@gmail.com
+Secondary E-mailMARIO.SOUZA@BR.ABB.COM
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

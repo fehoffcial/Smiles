@@ -1,0 +1,33 @@
+##### ID: 60806640383 | PASSWORD: 2808 | MILES: 0 #####
+FULL NAME: PEDRO HENRIQUE DA MOREIRA | MEMBER ID: 138817195
+BIRTHDAY: 1994-08-28
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2020-11-29T10:43:49.000-03:00
+#### ADDRESS ####
+Street Name: joão duarte 2
+Number: 54
+Complement: casa
+City: JAGUARUANA
+State: CE
+Country: Brazil
+Zip Code: 62823000
+#### ID DOCUMENTS ####
+CPF: 60806640383
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 992486112
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: pedrohenriquedasilva99@gmail.com
+Secondary E-mailpedrohenriquedasilva99@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

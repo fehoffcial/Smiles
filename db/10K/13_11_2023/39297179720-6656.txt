@@ -1,0 +1,66 @@
+##### ID: 39297179720 | PASSWORD: 6656 | MILES: 1300 #####
+FULL NAME: AMAURI DA SILVA | MEMBER ID: 499632792
+BIRTHDAY: 1956-04-05
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 1300
+Miles To Expire: 456
+Member Since: 1998-09-16T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: ANTÔNIO MADRUGA
+Number: 1982
+Complement: ap:802 -  bloco sul - capim macio
+City: NATAL
+State: RN
+Country: Brazil
+Zip Code: 59082120
+#### ID DOCUMENTS ####
+CPF: 39297179720
+#### CONTACT ####
+CONTACT PHONE: (21) 27963313
+CONTACT CELL PHONE: () 969642626
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: adsyug@gmail.com
+Secondary E-mailamauri.silva@ibge.gov.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 498406
+Number: 498406******6032
+BRAND: Visa
+Gateway: 
+Payment Date: 2018-12-05T19:00:47
+##### ID: 39297179720 | PASSWORD: 6656 | MILES: 1300 #####
+FULL NAME: AMAURI DA SILVA | MEMBER ID: 499632792
+BIRTHDAY: 1956-04-05
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 1300
+Miles To Expire: 456
+Member Since: 1998-09-16T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: ANTÔNIO MADRUGA
+Number: 1982
+Complement: ap:802 -  bloco sul - capim macio
+City: NATAL
+State: RN
+Country: Brazil
+Zip Code: 59082120
+#### ID DOCUMENTS ####
+CPF: 39297179720
+#### CONTACT ####
+CONTACT PHONE: (21) 27963313
+CONTACT CELL PHONE: () 969642626
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: adsyug@gmail.com
+Secondary E-mailamauri.silva@ibge.gov.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 498406
+Number: 498406******6032
+BRAND: Visa
+Gateway: 
+Payment Date: 2018-12-05T19:00:47

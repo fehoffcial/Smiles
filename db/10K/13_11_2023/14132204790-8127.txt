@@ -1,0 +1,33 @@
+##### ID: 14132204790 | PASSWORD: 8127 | MILES: 0 #####
+FULL NAME: RODRIGO PEREIRA | MEMBER ID: 445676140
+BIRTHDAY: 1996-04-03
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2016-02-29T21:05:10.000-03:00
+#### ADDRESS ####
+Street Name: LUIZA MAGNUS
+Number: 27
+Complement: 
+City: SÃO JOÃO DE MERITI
+State: RJ
+Country: Brazil
+Zip Code: 25545071
+#### ID DOCUMENTS ####
+CPF: 14132204790
+#### CONTACT ####
+CONTACT PHONE: (21) 26562630
+CONTACT CELL PHONE: () 971354551
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: rod.pereira.rp@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

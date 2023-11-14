@@ -1,0 +1,33 @@
+##### ID: 52218341204 | PASSWORD: 5260 | MILES: 43 #####
+FULL NAME: RAYANDSON BELO NOGUEIRA | MEMBER ID: 726219185
+BIRTHDAY: 1983-08-11
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 43
+Miles To Expire: 43
+Member Since: 2009-03-08T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: ÁGUA CHATA
+Number: 2315
+Complement: apt 304 bloco 06
+City: GUARULHOS
+State: SP
+Country: Brazil
+Zip Code: 07251000
+#### ID DOCUMENTS ####
+CPF: 52218341204
+#### CONTACT ####
+CONTACT PHONE: (11) 32306705
+CONTACT CELL PHONE: () 999653375
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 32284234
+### E-MAIL ####
+E-mail: rayandson240@outlook.com
+Secondary E-mailbelonogueira2016@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 422185
+Number: 422185******5546
+BRAND: VISA
+Gateway: 
+Payment Date: 2018-01-05T09:20:19

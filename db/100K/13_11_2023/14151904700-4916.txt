@@ -1,0 +1,33 @@
+##### ID: 14151904700 | PASSWORD: 4916 | MILES: 131079 #####
+FULL NAME: DANIELA FARIA ZOUAIN DE ALMEIDA | MEMBER ID: 460956510
+BIRTHDAY: 1990-04-06
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 131079
+Miles To Expire: 100
+Member Since: 2017-10-07T17:17:55.000-03:00
+#### ADDRESS ####
+Street Name: SANTA CATARINA
+Number: 1555
+Complement: apt 114
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 04378300
+#### ID DOCUMENTS ####
+CPF: 14151904700
+#### CONTACT ####
+CONTACT PHONE: (27) 33293707
+CONTACT CELL PHONE: () 942240279
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: daniela.zouain@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 425850
+Number: 425850******4541
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2023-10-25T06:12:39

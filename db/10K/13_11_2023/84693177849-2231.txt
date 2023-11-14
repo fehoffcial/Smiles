@@ -1,0 +1,33 @@
+##### ID: 84693177849 | PASSWORD: 2231 | MILES: 66000 #####
+FULL NAME: ILZO COSTA PESSOA | MEMBER ID: 037778090
+BIRTHDAY: 1957-02-09
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 66000
+Miles To Expire: 1000
+Member Since: 1998-02-19T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: RISOS-DO-PRADO
+Number: 158
+Complement: casa
+City: BOA VISTA
+State: RR
+Country: Brazil
+Zip Code: 69309373
+#### ID DOCUMENTS ####
+CPF: 84693177849
+#### CONTACT ####
+CONTACT PHONE: (95) 36264680
+CONTACT CELL PHONE: () 88011250
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: ilzolino@yahoo.com.br
+Secondary E-maililzo.pessoa@ifrr.edu.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 498406
+Number: 498406******4933
+BRAND: Visa
+Gateway: Cielo
+Payment Date: 2023-11-05T05:05:27

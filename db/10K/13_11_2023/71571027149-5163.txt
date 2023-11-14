@@ -1,0 +1,33 @@
+##### ID: 71571027149 | PASSWORD: 5163 | MILES: 462 #####
+FULL NAME: EDUARDO SOUZA | MEMBER ID: 447783512
+BIRTHDAY: 1981-01-10
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 462
+Miles To Expire: 231
+Member Since: 2016-06-13T09:17:54.000-03:00
+#### ADDRESS ####
+Street Name: MANOEL CAVALCANTE PROENÇA
+Number: 495
+Complement: APTO 1001
+City: CUIABÁ
+State: MT
+Country: Brazil
+Zip Code: 78032145
+#### ID DOCUMENTS ####
+CPF: 71571027149
+#### CONTACT ####
+CONTACT PHONE: (65) 81206777
+CONTACT CELL PHONE: () 96776777
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: eduardo.bertholdo@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,33 @@
+##### ID: 83838740068 | PASSWORD: 2509 | MILES: 729 #####
+FULL NAME: BRUNA FRATA | MEMBER ID: 136044274
+BIRTHDAY: 1993-09-25
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 729
+Miles To Expire: 448
+Member Since: 2020-08-30T21:49:51.000-03:00
+#### ADDRESS ####
+Street Name: CARLOS GOMES
+Number: 1603
+Complement: 401
+City: PORTO ALEGRE
+State: RS
+Country: Brazil
+Zip Code: 90480005
+#### ID DOCUMENTS ####
+CPF: 83838740068
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 992218202
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: bruh_frata@hotmail.com
+Secondary E-mailbrunafrata@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

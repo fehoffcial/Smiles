@@ -1,0 +1,33 @@
+##### ID: 45970709824 | PASSWORD: 8928 | MILES: 5852 #####
+FULL NAME: MATHEUS DIAS DE SOUZA GALVÃO | MEMBER ID: 123322301
+BIRTHDAY: 1995-11-10
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 5852
+Miles To Expire: 4614
+Member Since: 2019-09-11T23:33:01.000-03:00
+#### ADDRESS ####
+Street Name: JOSÉ SIMÃO BECHARA
+Number: 26
+Complement: 
+City: ITATIBA
+State: SP
+Country: Brazil
+Zip Code: 13256214
+#### ID DOCUMENTS ####
+CPF: 45970709824
+#### CONTACT ####
+CONTACT PHONE: (11) 96395116
+CONTACT CELL PHONE: () 963951169
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: matheus.dsg19@gmail.com
+Secondary E-mailmatheus.dsg19@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

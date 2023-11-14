@@ -1,0 +1,33 @@
+##### ID: 59932260991 | PASSWORD: 2246 | MILES: 0 #####
+FULL NAME: MARIA ESTELA MILANEZ BROGNI | MEMBER ID: 130364161
+BIRTHDAY: 1964-03-18
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2020-01-29T10:05:29.000-03:00
+#### ADDRESS ####
+Street Name: rua josé bortoluzzi
+Number: 70
+Complement: casa
+City: NOVA VENEZA
+State: SC
+Country: Brazil
+Zip Code: 88865000
+#### ID DOCUMENTS ####
+CPF: 59932260991
+#### CONTACT ####
+CONTACT PHONE: (48) 34361007
+CONTACT CELL PHONE: () 988079191
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: estelabrogni@yahoo.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,33 @@
+##### ID: 391856673 | PASSWORD: 2679 | MILES: 0 #####
+FULL NAME: MARIA MAIA | MEMBER ID: 391856673
+BIRTHDAY: 1963-03-27
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2013-01-28T15:16:23.000-02:00
+#### ADDRESS ####
+Street Name: av. Joao Pessoa
+Number: 5819
+Complement: ap 01 bl A4
+City: fortaleza
+State: CE
+Country: Brazil
+Zip Code: 60425685
+#### ID DOCUMENTS ####
+CPF: 24625957320
+#### CONTACT ####
+CONTACT PHONE: (85) 32321271
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: raissamlima@yahoo.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

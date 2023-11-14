@@ -1,0 +1,33 @@
+##### ID: 47846783874 | PASSWORD: 2310 | MILES: 0 #####
+FULL NAME: MARIANA PEIXOTO VILLAR | MEMBER ID: 132710115
+BIRTHDAY: 1998-10-23
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2020-04-01T21:44:13.000-03:00
+#### ADDRESS ####
+Street Name: ÁLVARES DE AZEVEDO
+Number: 139
+Complement: Apto 401
+City: NITERÓI
+State: RJ
+Country: Brazil
+Zip Code: 24220020
+#### ID DOCUMENTS ####
+CPF: 47846783874
+#### CONTACT ####
+CONTACT PHONE: (21) 27199994
+CONTACT CELL PHONE: () 981399940
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: jvmarcio@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

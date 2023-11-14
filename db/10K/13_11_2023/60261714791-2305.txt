@@ -1,0 +1,33 @@
+##### ID: 60261714791 | PASSWORD: 2305 | MILES: 52000 #####
+FULL NAME: PEDRO RODRIGUES MONICA RODRIGUES | MEMBER ID: 453082965
+BIRTHDAY: 1960-05-23
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 52000
+Miles To Expire: 1000
+Member Since: 2016-12-28T10:45:36.000-02:00
+#### ADDRESS ####
+Street Name: SANTA RITA DE CÁSSIA
+Number: 203
+Complement: CASA
+City: RIO DE JANEIRO
+State: RJ
+Country: Brazil
+Zip Code: 21331020
+#### ID DOCUMENTS ####
+CPF: 60261714791
+#### CONTACT ####
+CONTACT PHONE: (21) 24517654
+CONTACT CELL PHONE: () 999415229
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: pedrodigytal@yahoo.com.br
+Secondary E-mailprm2007laserdigytal@yahoo.com.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 540593
+Number: 540593******1183
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-11-05T12:11:10

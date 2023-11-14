@@ -1,0 +1,33 @@
+##### ID: 49452150149 | PASSWORD: 2529 | MILES: 25032 #####
+FULL NAME: LUCIO BATISTA | MEMBER ID: 784307753
+BIRTHDAY: 1969-05-26
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 25032
+Miles To Expire: 32
+Member Since: 2004-01-22T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: Rua 8 Chácara 184b
+Number: 27
+Complement: RESID. ATHENAS
+City: BRASÍLIA
+State: DF
+Country: Brazil
+Zip Code: 72006755
+#### ID DOCUMENTS ####
+CPF: 49452150149
+#### CONTACT ####
+CONTACT PHONE: (61) 98446454
+CONTACT CELL PHONE: () 999892927
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 33973235
+### E-MAIL ####
+E-mail: luciogrande@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 230744
+Number: 230744******9574
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-10-16T04:41:44

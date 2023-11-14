@@ -1,0 +1,33 @@
+##### ID: 45553436893 | PASSWORD: 1309 | MILES: 2929 #####
+FULL NAME: CAMILA TEIXEIRA | MEMBER ID: 117850331
+BIRTHDAY: 1995-07-24
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 2929
+Miles To Expire: 8
+Member Since: 2019-05-29T12:30:31.000-03:00
+#### ADDRESS ####
+Street Name: PADRE ROBERTO LANDELL DE MOURA
+Number: 31
+Complement: 
+City: SOROCABA
+State: SP
+Country: Brazil
+Zip Code: 18017172
+#### ID DOCUMENTS ####
+CPF: 45553436893
+#### CONTACT ####
+CONTACT PHONE: (15) 32272330
+CONTACT CELL PHONE: () 1322732
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: caahxisdeforever@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 545430
+Number: 545430******9017
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2022-05-05T23:51:01

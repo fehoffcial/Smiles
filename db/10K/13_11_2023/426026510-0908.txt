@@ -1,0 +1,33 @@
+##### ID: 426026510 | PASSWORD: 0908 | MILES: 853 #####
+FULL NAME: ALEXANDRA DANTAS DA SILVA | MEMBER ID: 426026510
+BIRTHDAY: 1982-12-20
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 853
+Miles To Expire: 853
+Member Since: 2014-07-17T22:21:03.000-03:00
+#### ADDRESS ####
+Street Name: Maria Lucia
+Number: 3329
+Complement: casa
+City: PORTO VELHO
+State: RO
+Country: Brazil
+Zip Code: 76820191
+#### ID DOCUMENTS ####
+CPF: 71083464272
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 992857150
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 39013230
+### E-MAIL ####
+E-mail: alle_bia@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 498453
+Number: 498453******6486
+BRAND: Visa
+Gateway: Cielo
+Payment Date: 2021-06-05T12:45:17

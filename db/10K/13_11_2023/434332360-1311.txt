@@ -1,0 +1,33 @@
+##### ID: 434332360 | PASSWORD: 1311 | MILES: 1312 #####
+FULL NAME: EDUARDO HENRIQUE ALBUQUERQUE FERREIRA PEREIRA | MEMBER ID: 434332360
+BIRTHDAY: 1991-04-13
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 1312
+Miles To Expire: 278
+Member Since: 2015-01-08T02:24:06.000-02:00
+#### ADDRESS ####
+Street Name: GIOVANNI CARNOVALI
+Number: 92
+Complement: casa 85
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 04191000
+#### ID DOCUMENTS ####
+CPF: 38218310819
+#### CONTACT ####
+CONTACT PHONE: (11) 23364900
+CONTACT CELL PHONE: () 980338533
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: eduardohafpereira@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,33 @@
+##### ID: 14789621782 | PASSWORD: 1106 | MILES: 870 #####
+FULL NAME: DANIEL BORGES MAGALHÃES | MEMBER ID: 411683075
+BIRTHDAY: 1994-06-11
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 870
+Miles To Expire: 462
+Member Since: 2013-11-05T17:55:03.000-02:00
+#### ADDRESS ####
+Street Name: MIRAMAR
+Number: 100
+Complement: apartamento 502
+City: SERRA
+State: ES
+Country: Brazil
+Zip Code: 29160752
+#### ID DOCUMENTS ####
+CPF: 14789621782
+#### CONTACT ####
+CONTACT PHONE: (27) 33377350
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: danielbm_12@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

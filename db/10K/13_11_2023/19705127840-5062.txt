@@ -1,0 +1,33 @@
+##### ID: 19705127840 | PASSWORD: 5062 | MILES: 0 #####
+FULL NAME: MARCELO FACCIOLI JORGE | MEMBER ID: 402465674
+BIRTHDAY: 1975-05-16
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2013-07-19T01:06:17.000-03:00
+#### ADDRESS ####
+Street Name: MANOEL LUIZ DO AMARAL
+Number: 83
+Complement: 
+City: LEME
+State: SP
+Country: Brazil
+Zip Code: 13613150
+#### ID DOCUMENTS ####
+CPF: 19705127840
+#### CONTACT ####
+CONTACT PHONE: (19) 91453510
+CONTACT CELL PHONE: () 91453310
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: marcelofacciolij@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

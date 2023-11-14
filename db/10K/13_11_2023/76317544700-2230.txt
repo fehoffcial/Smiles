@@ -1,0 +1,33 @@
+##### ID: 76317544700 | PASSWORD: 2230 | MILES: 0 #####
+FULL NAME: NÉLIO SIMÕES SANTIAGO | MEMBER ID: 135244351
+BIRTHDAY: 1963-10-22
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2020-08-02T12:16:25.000-03:00
+#### ADDRESS ####
+Street Name: JOÃO CARDOSO
+Number: 50
+Complement: casa 1
+City: SÃO GONÇALO
+State: RJ
+Country: Brazil
+Zip Code: 24440210
+#### ID DOCUMENTS ####
+CPF: 76317544700
+#### CONTACT ####
+CONTACT PHONE: (21) 27173264
+CONTACT CELL PHONE: () 964660262
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: contatoestruturaleventos@hotmail.com
+Secondary E-mailnelinhosantiago@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

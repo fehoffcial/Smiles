@@ -1,0 +1,33 @@
+##### ID: 41154220842 | PASSWORD: 6157 | MILES: 737 #####
+FULL NAME: ROSANE DE OLIVEIRA | MEMBER ID: 449015136
+BIRTHDAY: 1992-04-02
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 737
+Miles To Expire: 362
+Member Since: 2016-07-28T12:11:16.000-03:00
+#### ADDRESS ####
+Street Name: ANTÔNIO FARALDO FILHO
+Number: 656
+Complement: 
+City: BOTUCATU
+State: SP
+Country: Brazil
+Zip Code: 18604023
+#### ID DOCUMENTS ####
+CPF: 41154220842
+#### CONTACT ####
+CONTACT PHONE: (14) 33547831
+CONTACT CELL PHONE: () 997717831
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: rosanecox@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

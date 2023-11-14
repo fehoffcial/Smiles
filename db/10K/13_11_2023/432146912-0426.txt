@@ -1,0 +1,33 @@
+##### ID: 432146912 | PASSWORD: 0426 | MILES: 460 #####
+FULL NAME: RAQUEL RODRIGUES ALVES | MEMBER ID: 432146912
+BIRTHDAY: 1964-04-09
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 460
+Miles To Expire: 230
+Member Since: 2014-11-20T13:55:29.000-02:00
+#### ADDRESS ####
+Street Name: RUA C
+Number: 216
+Complement: ENTRE RUAS 2 E 3
+City: PARAUAPEBAS
+State: PA
+Country: Brazil
+Zip Code: 68515000
+#### ID DOCUMENTS ####
+CPF: 16956630206
+#### CONTACT ####
+CONTACT PHONE: (94) 981598470
+CONTACT CELL PHONE: () 984160220
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: raquel.rodrigues.pa@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

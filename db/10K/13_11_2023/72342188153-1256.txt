@@ -1,0 +1,33 @@
+##### ID: 72342188153 | PASSWORD: 1256 | MILES: 0 #####
+FULL NAME: EDINEI SOARES MONTALVAO | MEMBER ID: 444044226
+BIRTHDAY: 1982-08-22
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2015-12-18T18:40:07.000-02:00
+#### ADDRESS ####
+Street Name: QUADRA 202 CONJUNTO 9
+Number: 12
+Complement: 
+City: BRASÍLIA
+State: DF
+Country: Brazil
+Zip Code: 71692525
+#### ID DOCUMENTS ####
+CPF: 72342188153
+#### CONTACT ####
+CONTACT PHONE: (61) 99036417
+CONTACT CELL PHONE: () 82815994
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: edinei_montalvao@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

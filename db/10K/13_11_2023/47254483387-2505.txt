@@ -1,0 +1,33 @@
+##### ID: 47254483387 | PASSWORD: 2505 | MILES: 5449 #####
+FULL NAME: CLAUDENIO MOTA | MEMBER ID: 123422795
+BIRTHDAY: 1975-04-26
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 5449
+Miles To Expire: 674
+Member Since: 2019-09-14T11:59:23.000-03:00
+#### ADDRESS ####
+Street Name: SARGENTO NERI
+Number: 1492
+Complement: A
+City: FORTALEZA
+State: CE
+Country: Brazil
+Zip Code: 60765174
+#### ID DOCUMENTS ####
+CPF: 47254483387
+#### CONTACT ####
+CONTACT PHONE: (85) 98152260
+CONTACT CELL PHONE: () 986328851
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: claudenio@gmail.com
+Secondary E-mailclaudeniomota@outlook.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

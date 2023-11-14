@@ -1,0 +1,33 @@
+##### ID: 83510150325 | PASSWORD: 7991 | MILES: 576 #####
+FULL NAME: RONYERY PALHARES DE OLIVEIRA | MEMBER ID: 372282256
+BIRTHDAY: 1979-12-09
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 576
+Miles To Expire: 288
+Member Since: 2012-02-13T13:40:04.000-02:00
+#### ADDRESS ####
+Street Name: FRANCISCO RAITANI
+Number: 7081
+Complement: APTO 205 BL5
+City: CURITIBA
+State: PR
+Country: Brazil
+Zip Code: 81110070
+#### ID DOCUMENTS ####
+CPF: 83510150325
+#### CONTACT ####
+CONTACT PHONE: (46) 30254861
+CONTACT CELL PHONE: () 999824806
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: ronyery@msn.com
+Secondary E-mailronyery@msn.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,33 @@
+##### ID: 60187492115 | PASSWORD: 3151 | MILES: 3263 #####
+FULL NAME: AMILTON OLIVEIRA RIBEIRO MOTA | MEMBER ID: 728292751
+BIRTHDAY: 1976-06-20
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 3263
+Miles To Expire: 1263
+Member Since: 2009-06-11T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: N/A
+Number: 
+Complement: N/A
+City: N/A
+State: 
+Country: Brazil
+Zip Code: 00000000
+#### ID DOCUMENTS ####
+CPF: 60187492115
+#### CONTACT ####
+CONTACT PHONE: (61) 91153677
+CONTACT CELL PHONE: () 91153677
+CONTACT SECONDARY CELL PHONE: () 91153736
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: amilton.mota@embrapa.br
+Secondary E-mailamilton.mota@embrapa.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 498408
+Number: 498408******9811
+BRAND: Visa
+Gateway: Cielo
+Payment Date: 2022-05-25T04:13:19

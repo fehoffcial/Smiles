@@ -1,0 +1,33 @@
+##### ID: 398387544 | PASSWORD: 4287 | MILES: 0 #####
+FULL NAME: ALAN LUAN ALEGRI DOS SANTOS | MEMBER ID: 398387544
+BIRTHDAY: 1990-12-17
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2013-05-27T12:11:29.000-03:00
+#### ADDRESS ####
+Street Name: Rua Armando Silva Araújo
+Number: 334
+Complement: casa
+City: Maricá
+State: RJ
+Country: Brazil
+Zip Code: 24915505
+#### ID DOCUMENTS ####
+CPF: 07347992923
+#### CONTACT ####
+CONTACT PHONE: (41) 36439389
+CONTACT CELL PHONE: () 99177052
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: alan.santos@tuc.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

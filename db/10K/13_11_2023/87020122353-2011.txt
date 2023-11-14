@@ -1,0 +1,33 @@
+##### ID: 87020122353 | PASSWORD: 2011 | MILES: 824 #####
+FULL NAME: MARIA  CAROLINA TENÓRIO FARIAS | MEMBER ID: 428486671
+BIRTHDAY: 1982-02-13
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 824
+Miles To Expire: 824
+Member Since: 2014-09-04T20:34:09.000-03:00
+#### ADDRESS ####
+Street Name: AV. PRINCIPAL
+Number: 33 AB
+Complement: FAZENDA CAROLINA
+City: JOÃO LISBOA
+State: MA
+Country: Brazil
+Zip Code: 65922000
+#### ID DOCUMENTS ####
+CPF: 87020122353
+#### CONTACT ####
+CONTACT PHONE: (99) 981154612
+CONTACT CELL PHONE: () 988223414
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: carolimperatriz@hotmail.com
+Secondary E-mailcarolimperatriz@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 526778
+Number: 526778******3022
+BRAND: MASTERCARD
+Gateway: Cielo
+Payment Date: 2021-04-25T13:05:22

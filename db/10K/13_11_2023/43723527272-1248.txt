@@ -1,0 +1,33 @@
+##### ID: 43723527272 | PASSWORD: 1248 | MILES: 683 #####
+FULL NAME: ANGELO MARQUES | MEMBER ID: 528884156
+BIRTHDAY: 1972-10-15
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 683
+Miles To Expire: 310
+Member Since: 1999-07-21T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: N/A
+Number: 
+Complement: N/A
+City: N/A
+State: SP
+Country: Brazil
+Zip Code: 00000000
+#### ID DOCUMENTS ####
+CPF: 43723527272
+#### CONTACT ####
+CONTACT PHONE: (92) 32361248
+CONTACT CELL PHONE: () 991142648
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: ahaydem@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

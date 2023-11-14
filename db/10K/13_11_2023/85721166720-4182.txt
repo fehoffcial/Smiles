@@ -1,0 +1,33 @@
+##### ID: 85721166720 | PASSWORD: 4182 | MILES: 10000 #####
+FULL NAME: ALEXANDRE LOPES RIBEIRO | MEMBER ID: 129215343
+BIRTHDAY: 1968-01-25
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 10000
+Miles To Expire: 10000
+Member Since: 2020-01-09T22:24:20.000-03:00
+#### ADDRESS ####
+Street Name: FREI ROGÉRIO
+Number: 10
+Complement: Avenida maracanã 987  Torre 03
+City: RIO DE JANEIRO
+State: RJ
+Country: Brazil
+Zip Code: 20540070
+#### ID DOCUMENTS ####
+CPF: 85721166720
+#### CONTACT ####
+CONTACT PHONE: (21) 97972009
+CONTACT CELL PHONE: () 997972009
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: alexandre@intermidia.net
+Secondary E-mailandreiacalcada@intermidia.net
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

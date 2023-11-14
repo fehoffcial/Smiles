@@ -1,0 +1,33 @@
+##### ID: 76331350934 | PASSWORD: 1425 | MILES: 0 #####
+FULL NAME: CARLA LIZIANE DA CONCEIÇÃO DE OLIVEIRA | MEMBER ID: 122803004
+BIRTHDAY: 1974-09-10
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-09-01T19:34:26.000-03:00
+#### ADDRESS ####
+Street Name: Rua 712
+Number: 06
+Complement: casa
+City: ITAPEMA
+State: SC
+Country: Brazil
+Zip Code: 88220000
+#### ID DOCUMENTS ####
+CPF: 76331350934
+#### CONTACT ####
+CONTACT PHONE: (47) 33682691
+CONTACT CELL PHONE: () 996010527
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: carlabronson74@gmail.com
+Secondary E-mailproduzza.web@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

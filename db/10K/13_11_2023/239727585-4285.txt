@@ -1,0 +1,33 @@
+##### ID: 239727585 | PASSWORD: 4285 | MILES: 8941 #####
+FULL NAME: RONY RICARDO MARQUARDT | MEMBER ID: 239727585
+BIRTHDAY: 1961-06-09
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 8941
+Miles To Expire: 500
+Member Since: 2003-03-15T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: Rua Canadá
+Number: 234
+Complement: Balneário nordeste
+City: IMBÉ
+State: RS
+Country: Brazil
+Zip Code: 95625000
+#### ID DOCUMENTS ####
+CPF: 29988543034
+#### CONTACT ####
+CONTACT PHONE: (51) 33322111
+CONTACT CELL PHONE: () 995371133
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 33322111
+### E-MAIL ####
+E-mail: ronyrmarquardt@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

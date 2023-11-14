@@ -1,0 +1,33 @@
+##### ID: 81654200700 | PASSWORD: 4631 | MILES: 0 #####
+FULL NAME: GEORGE DA SILVEIRA | MEMBER ID: 119686700
+BIRTHDAY: 1962-03-15
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-06-30T15:39:22.000-03:00
+#### ADDRESS ####
+Street Name: PEDRO JORIO
+Number: 386
+Complement: 208
+City: RIO DE JANEIRO
+State: RJ
+Country: Brazil
+Zip Code: 21530030
+#### ID DOCUMENTS ####
+CPF: 81654200700
+#### CONTACT ####
+CONTACT PHONE: (21) 35980699
+CONTACT CELL PHONE: () 975764229
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: georgesilveirarj@bol.com.br
+Secondary E-mailvalerialessa68@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

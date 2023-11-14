@@ -1,0 +1,33 @@
+##### ID: 368222680 | PASSWORD: 2260 | MILES: 0 #####
+FULL NAME: daniel fabian avallone avallone | MEMBER ID: 368222680
+BIRTHDAY: 1965-05-28
+GENDER: MALE
+CITIZENSHIP: Argentine
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2011-12-27T10:38:36.000-02:00
+#### ADDRESS ####
+Street Name: san martin
+Number: 915
+Complement: 
+City: san martin de los andes
+State: Other
+Country: Argentina
+Zip Code: 8370
+#### ID DOCUMENTS ####
+CPF: 
+#### CONTACT ####
+CONTACT PHONE: (2972) 428249
+CONTACT CELL PHONE: () 430421
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: dafa_ava@hotmail.com
+Secondary E-maildfavallone@yahoo.com.ar
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

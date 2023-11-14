@@ -1,0 +1,33 @@
+##### ID: 56138954491 | PASSWORD: 6384 | MILES: 0 #####
+FULL NAME: MARIA AUXLIADORA GOMES DE LIMA | MEMBER ID: 725348035
+BIRTHDAY: 1967-02-23
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2009-01-07T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: BRASIL
+Number: 665
+Complement: APTO 26
+City: FOZ DO IGUAÇU
+State: PR
+Country: Brazil
+Zip Code: 85851000
+#### ID DOCUMENTS ####
+CPF: 56138954491
+#### CONTACT ####
+CONTACT PHONE: (45) 30255390
+CONTACT CELL PHONE: () 998332330
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: flordeoutono67@hotmail.com
+Secondary E-mailflordeoutono67@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

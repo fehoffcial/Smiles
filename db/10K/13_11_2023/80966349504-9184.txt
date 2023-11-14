@@ -1,0 +1,33 @@
+##### ID: 80966349504 | PASSWORD: 9184 | MILES: 490 #####
+FULL NAME: GIRLENE RODRIGUES SILVA | MEMBER ID: 736044912
+BIRTHDAY: 1981-12-24
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 490
+Miles To Expire: 292
+Member Since: 2010-08-15T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: RUA DO CAIS
+Number: 41
+Complement: CASA
+City: MADRE DE DEUS
+State: BA
+Country: Brazil
+Zip Code: 42600000
+#### ID DOCUMENTS ####
+CPF: 80966349504
+#### CONTACT ####
+CONTACT PHONE: (71) 36041404
+CONTACT CELL PHONE: () 981462996
+CONTACT SECONDARY CELL PHONE: () 81462996
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: girlener@yahoo.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

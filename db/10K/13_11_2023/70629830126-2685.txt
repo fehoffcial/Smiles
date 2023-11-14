@@ -1,0 +1,33 @@
+##### ID: 70629830126 | PASSWORD: 2685 | MILES: 0 #####
+FULL NAME: CRISTIANO REZENDES VIEIRA | MEMBER ID: 124710832
+BIRTHDAY: 1997-12-25
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-10-10T09:40:45.000-03:00
+#### ADDRESS ####
+Street Name: 4
+Number: 0
+Complement: Quadra 03 lote 15
+City: APARECIDA DE GOIÂNIA
+State: GO
+Country: Brazil
+Zip Code: 74971030
+#### ID DOCUMENTS ####
+CPF: 70629830126
+#### CONTACT ####
+CONTACT PHONE: (62) 35485541
+CONTACT CELL PHONE: () 994610668
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: cristiano2015rezendes@gmail.com
+Secondary E-mailcristiano2018rezendes@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

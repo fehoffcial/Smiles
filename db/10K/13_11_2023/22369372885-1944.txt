@@ -1,0 +1,33 @@
+##### ID: 22369372885 | PASSWORD: 1944 | MILES: 0 #####
+FULL NAME: LUIZ FERNANDO PAVAN SCHWARZ | MEMBER ID: 735196103
+BIRTHDAY: 1982-07-09
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2010-07-24T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: AV JOAO FERRAZ NETO
+Number: 1991
+Complement: AP 14
+City: JAÚ
+State: SP
+Country: Brazil
+Zip Code: 17209655
+#### ID DOCUMENTS ####
+CPF: 22369372885
+#### CONTACT ####
+CONTACT PHONE: (14) 36220899
+CONTACT CELL PHONE: () 81433937
+CONTACT SECONDARY CELL PHONE: () 91524485
+CONTACT WORK PHONE: () 36261177
+### E-MAIL ####
+E-mail: nandomedprudente@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

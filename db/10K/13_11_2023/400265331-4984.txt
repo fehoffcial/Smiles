@@ -1,0 +1,33 @@
+##### ID: 400265331 | PASSWORD: 4984 | MILES: 64439 #####
+FULL NAME: GELSON GONZAGA COSTA | MEMBER ID: 400265331
+BIRTHDAY: 1966-09-18
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 64439
+Miles To Expire: 15000
+Member Since: 2013-06-20T14:52:53.000-03:00
+#### ADDRESS ####
+Street Name: PIONEIRO OSCAR ANTUNES
+Number: 153
+Complement: 
+City: MARING
+State: PR
+Country: Brazil
+Zip Code: 87020570
+#### ID DOCUMENTS ####
+CPF: 58686592953
+#### CONTACT ####
+CONTACT PHONE: (44) 30318295
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: gelprof1@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 544570
+Number: 544570******3702
+BRAND: Mastercard
+Gateway: Cielo
+Payment Date: 2020-12-05T12:34:22

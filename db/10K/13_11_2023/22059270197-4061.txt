@@ -1,0 +1,33 @@
+##### ID: 22059270197 | PASSWORD: 4061 | MILES: 4624 #####
+FULL NAME: HELIO ANTÔNIO CRIVELLENTE  JÚNIOR | MEMBER ID: 437046013
+BIRTHDAY: 1962-02-21
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 4624
+Miles To Expire: 4200
+Member Since: 2015-03-17T08:12:11.000-03:00
+#### ADDRESS ####
+Street Name: SQN 312 BLOCO B
+Number: 
+Complement: 
+City: BRASÍLIA
+State: DF
+Country: Brazil
+Zip Code: 70765020
+#### ID DOCUMENTS ####
+CPF: 22059270197
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: heliocrivellente@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

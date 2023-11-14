@@ -1,0 +1,33 @@
+##### ID: 50229486053 | PASSWORD: 1967 | MILES: 0 #####
+FULL NAME: MARCO ANTONIO BRUNHAUS MARIA | MEMBER ID: 468330380
+BIRTHDAY: 1967-09-28
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2017-11-17T00:13:44.000-02:00
+#### ADDRESS ####
+Street Name: CAMPO REAL
+Number: 340
+Complement: CASA
+City: VIAMÃO
+State: RS
+Country: Brazil
+Zip Code: 94465210
+#### ID DOCUMENTS ####
+CPF: 50229486053
+#### CONTACT ####
+CONTACT PHONE: (51) 91743143
+CONTACT CELL PHONE: () 91277906
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: m.brunhaus@ig.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

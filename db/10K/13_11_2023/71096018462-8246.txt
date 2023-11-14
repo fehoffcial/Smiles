@@ -1,0 +1,33 @@
+##### ID: 71096018462 | PASSWORD: 8246 | MILES: 0 #####
+FULL NAME: MOISES PEREIRA SILVA | MEMBER ID: 123755870
+BIRTHDAY: 1994-10-18
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-09-22T12:24:43.000-03:00
+#### ADDRESS ####
+Street Name: 174
+Number: 174
+Complement: Avenida Doutor Natanael Colaço
+City: JUNQUEIRO
+State: AL
+Country: Brazil
+Zip Code: 57270000
+#### ID DOCUMENTS ####
+CPF: 71096018462
+#### CONTACT ####
+CONTACT PHONE: (82) 99348519
+CONTACT CELL PHONE: () 991309240
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: moitaf37@gmail.com
+Secondary E-mailmoitaf37@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,33 @@
+##### ID: 73754170678 | PASSWORD: 2805 | MILES: 0 #####
+FULL NAME: ELISABETH REIS | MEMBER ID: 124979245
+BIRTHDAY: 1970-05-28
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-10-15T23:48:59.000-03:00
+#### ADDRESS ####
+Street Name: Rua h
+Number: 200
+Complement: Próximo a torre, portão dourado
+City: MACAÉ
+State: RJ
+Country: Brazil
+Zip Code: 27946340
+#### ID DOCUMENTS ####
+CPF: 73754170678
+#### CONTACT ####
+CONTACT PHONE: (22) 99774713
+CONTACT CELL PHONE: () 997747147
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: hugoreis139@gmail.com
+Secondary E-mailhuguinho18o@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

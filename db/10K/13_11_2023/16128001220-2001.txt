@@ -1,0 +1,33 @@
+##### ID: 16128001220 | PASSWORD: 2001 | MILES: 900 #####
+FULL NAME: ERISEIA DOS SANTOS GOMES DE OMENA | MEMBER ID: 724670925
+BIRTHDAY: 1963-02-16
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 900
+Miles To Expire: 900
+Member Since: 2008-11-14T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: AV.Edmundo Soares, QUADRA M
+Number: 356
+Complement: CONJUNTO RIO MARACANA
+City: MANAUS
+State: AM
+Country: Brazil
+Zip Code: 69028314
+#### ID DOCUMENTS ####
+CPF: 16128001220
+#### CONTACT ####
+CONTACT PHONE: (92) 36343639
+CONTACT CELL PHONE: () 84291529
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 88317366
+### E-MAIL ####
+E-mail: seia.omena@gmail.com
+Secondary E-mailseiaomena@vivax.com.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 498407
+Number: 498407******8268
+BRAND: VISA
+Gateway: Cielo
+Payment Date: 2020-02-25T11:46:09

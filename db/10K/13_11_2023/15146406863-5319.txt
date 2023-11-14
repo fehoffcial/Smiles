@@ -1,0 +1,33 @@
+##### ID: 15146406863 | PASSWORD: 5319 | MILES: 36281 #####
+FULL NAME: RITA DE CASSIA LACERDA BRAMBILLA RODRIGUES | MEMBER ID: 441136150
+BIRTHDAY: 1968-09-12
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 36281
+Miles To Expire: 12301
+Member Since: 2015-08-15T08:15:17.000-03:00
+#### ADDRESS ####
+Street Name: PRESIDENTE ROOSEVELT
+Number: 98
+Complement: AP. 302
+City: LORENA
+State: SP
+Country: Brazil
+Zip Code: 12606290
+#### ID DOCUMENTS ####
+CPF: 15146406863
+#### CONTACT ####
+CONTACT PHONE: (12) 31573084
+CONTACT CELL PHONE: () 991275824
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: durval@demar.eel.usp.br
+Secondary E-maildurval@demar.eel.usp.br
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 498401
+Number: 498401******5798
+BRAND: Visa
+Gateway: Cielo
+Payment Date: 2022-11-05T05:59:01

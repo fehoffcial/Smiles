@@ -1,0 +1,33 @@
+##### ID: 23124741587 | PASSWORD: 7490 | MILES: 0 #####
+FULL NAME: JOSÉ DÍLSON EVANGELISTA DE OLIVEIRA | MEMBER ID: 133937495
+BIRTHDAY: 1962-05-26
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2020-06-16T13:14:14.000-03:00
+#### ADDRESS ####
+Street Name: Rua José Gabriel dos Santos
+Number: 06
+Complement: Casa
+City: CONCEIÇÃO DO COITÉ
+State: BA
+Country: Brazil
+Zip Code: 48730000
+#### ID DOCUMENTS ####
+CPF: 23124741587
+#### CONTACT ####
+CONTACT PHONE: (75) 32621457
+CONTACT CELL PHONE: () 992445142
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: zedilsony@gmail.com
+Secondary E-mailzedilsony@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

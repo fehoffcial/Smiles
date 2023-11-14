@@ -1,0 +1,33 @@
+##### ID: 430029235 | PASSWORD: 0307 | MILES: 150 #####
+FULL NAME: ALEXANDRE CASTELO BRANCO BEZERRA JUNIOR | MEMBER ID: 430029235
+BIRTHDAY: 1990-07-15
+GENDER: MALE
+CITIZENSHIP: Other
+Available Miles: 150
+Miles To Expire: 150
+Member Since: 2014-10-07T16:20:49.000-03:00
+#### ADDRESS ####
+Street Name: GOVERNADOR JOSÉ MALCHER
+Number: 2141
+Complement: 
+City: BELÉM
+State: PA
+Country: Brazil
+Zip Code: 66060230
+#### ID DOCUMENTS ####
+CPF: 00520326202
+#### CONTACT ####
+CONTACT PHONE: (91) 30326468
+CONTACT CELL PHONE: () 81691010
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: alecastelo22@gmail.com
+Secondary E-mailalecastelo22@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

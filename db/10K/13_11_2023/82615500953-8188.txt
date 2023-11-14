@@ -1,0 +1,33 @@
+##### ID: 82615500953 | PASSWORD: 8188 | MILES: 2180 #####
+FULL NAME: RAQUEL DA LUZ DO ROSÁRIO | MEMBER ID: 393871343
+BIRTHDAY: 1972-09-12
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 2180
+Miles To Expire: 2180
+Member Since: 2013-03-07T20:59:38.000-03:00
+#### ADDRESS ####
+Street Name: GOVERNADOR JORGE LACERDA
+Number: 69
+Complement: 
+City: PARANAGUÁ
+State: PR
+Country: Brazil
+Zip Code: 83221180
+#### ID DOCUMENTS ####
+CPF: 82615500953
+#### CONTACT ####
+CONTACT PHONE: (41) 34252600
+CONTACT CELL PHONE: () 96822262
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: rnproducoeseeventos@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

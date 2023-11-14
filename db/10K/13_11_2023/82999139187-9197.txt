@@ -1,0 +1,33 @@
+##### ID: 82999139187 | PASSWORD: 9197 | MILES: 0 #####
+FULL NAME: CRISTIANE LIMA BATISTOTI | MEMBER ID: 460451294
+BIRTHDAY: 1976-11-29
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2017-09-19T08:06:35.000-03:00
+#### ADDRESS ####
+Street Name: MENINO JESUS
+Number: 135
+Complement: Casa
+City: CAMPO GRANDE
+State: MS
+Country: Brazil
+Zip Code: 79065624
+#### ID DOCUMENTS ####
+CPF: 82999139187
+#### CONTACT ####
+CONTACT PHONE: (67) 96045100
+CONTACT CELL PHONE: () 96045100
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: cris_limalima@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

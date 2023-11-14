@@ -1,0 +1,33 @@
+##### ID: 82324190168 | PASSWORD: 2906 | MILES: 0 #####
+FULL NAME: MILTON GONCALVES DA SILVA JUNIOR | MEMBER ID: 226153082
+BIRTHDAY: 1978-06-29
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2001-05-21T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: R. T-14
+Number: 300
+Complement: QD 169 Lt 12/18 Res. Torres da Serra apto 601A
+City: Goiania
+State: GO
+Country: Brazil
+Zip Code: 074835085
+#### ID DOCUMENTS ####
+CPF: 82324190168
+#### CONTACT ####
+CONTACT PHONE: (62) 39965997
+CONTACT CELL PHONE: () 82929720
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: peixista@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

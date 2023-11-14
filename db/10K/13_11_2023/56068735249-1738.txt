@@ -1,0 +1,33 @@
+##### ID: 56068735249 | PASSWORD: 1738 | MILES: 0 #####
+FULL NAME: ALESSANDRA DE LIMA PINHEIRO MALAGUETA | MEMBER ID: 470710660
+BIRTHDAY: 1973-07-15
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2017-12-30T12:47:22.000-02:00
+#### ADDRESS ####
+Street Name: VIRGÍLIO DE BARROS
+Number: 209
+Complement: 
+City: MANAUS
+State: AM
+Country: Brazil
+Zip Code: 69067020
+#### ID DOCUMENTS ####
+CPF: 56068735249
+#### CONTACT ####
+CONTACT PHONE: (92) 33028209
+CONTACT CELL PHONE: () 991651663
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: alemalagueta@yahoo.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

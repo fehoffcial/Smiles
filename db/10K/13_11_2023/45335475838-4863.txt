@@ -1,0 +1,33 @@
+##### ID: 45335475838 | PASSWORD: 4863 | MILES: 0 #####
+FULL NAME: HELENA MONÇÃO MARCELO | MEMBER ID: 123386944
+BIRTHDAY: 1999-06-03
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-09-13T11:53:45.000-03:00
+#### ADDRESS ####
+Street Name: AV LEONARDO DA VINCI
+Number: 909
+Complement: 
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 04313000
+#### ID DOCUMENTS ####
+CPF: 45335475838
+#### CONTACT ####
+CONTACT PHONE: (11) 55660436
+CONTACT CELL PHONE: () 958336915
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: helena.moncao15@gmail.com
+Secondary E-mailhelena.marcelo@rappi.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

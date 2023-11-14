@@ -1,0 +1,33 @@
+##### ID: 13801888819 | PASSWORD: 1002 | MILES: 0 #####
+FULL NAME: AFRANIO JOSE DOS SANTOS | MEMBER ID: 384884581
+BIRTHDAY: 1968-06-14
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2012-09-10T11:56:01.000-03:00
+#### ADDRESS ####
+Street Name: VINTE E QUATRO DE MAIO
+Number: 2381
+Complement: 
+City: INDAIATUBA
+State: SP
+Country: Brazil
+Zip Code: 13339315
+#### ID DOCUMENTS ####
+CPF: 13801888819
+#### CONTACT ####
+CONTACT PHONE: (19) 21291364
+CONTACT CELL PHONE: () 993041656
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: afranio@allbusiness.com.br
+Secondary E-mailafranio@allbusiness.com.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

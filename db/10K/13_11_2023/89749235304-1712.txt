@@ -1,0 +1,33 @@
+##### ID: 89749235304 | PASSWORD: 1712 | MILES: 7237 #####
+FULL NAME: DANIEL E OLIVEIRA ALENCAR | MEMBER ID: 365178660
+BIRTHDAY: 1984-07-08
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 7237
+Miles To Expire: 1000
+Member Since: 2011-10-28T20:01:27.000-02:00
+#### ADDRESS ####
+Street Name: RUA JOSE BONIFACIO, IMPERATRIZ
+Number: 841
+Complement: 
+City: Imperatriz
+State: MA
+Country: Brazil
+Zip Code: 65900000
+#### ID DOCUMENTS ####
+CPF: 89749235304
+#### CONTACT ####
+CONTACT PHONE: (99) 35237633
+CONTACT CELL PHONE: () 81249490
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 30730096
+### E-MAIL ####
+E-mail: danielabapai@gmail.com
+Secondary E-mailcontatoabapai@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 550209
+Number: 550209******1401
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-11-05T15:51:57

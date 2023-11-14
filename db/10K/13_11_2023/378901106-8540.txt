@@ -1,0 +1,33 @@
+##### ID: 378901106 | PASSWORD: 8540 | MILES: 173 #####
+FULL NAME: VALDEMIR DA SILVA JUNIOR | MEMBER ID: 378901106
+BIRTHDAY: 1988-06-16
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 173
+Miles To Expire: 173
+Member Since: 2012-05-28T13:27:44.000-03:00
+#### ADDRESS ####
+Street Name: RUA 20 LOTE 13 LOJA, BRASILIA,
+Number: 01
+Complement: GUARA II  POLO DE MODAS
+City: brasilia
+State: DF
+Country: Brazil
+Zip Code: 71070520
+#### ID DOCUMENTS ####
+CPF: 00610391100
+#### CONTACT ####
+CONTACT PHONE: (61) 30286004
+CONTACT CELL PHONE: () 92805261
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 30363776
+### E-MAIL ####
+E-mail: junior.maic@gmail.com
+Secondary E-mailvsjunior@stilosign.com.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

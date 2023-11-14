@@ -1,0 +1,33 @@
+##### ID: 43876309816 | PASSWORD: 3357 | MILES: 0 #####
+FULL NAME: LUIS EDUARDO NERI | MEMBER ID: 123161010
+BIRTHDAY: 1995-10-10
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-09-09T10:37:56.000-03:00
+#### ADDRESS ####
+Street Name: CAPITÃO ONOFRE DOS SANTOS
+Number: 509
+Complement: Rua Capitão Onofre dos Santos
+City: CAMPINAS
+State: SP
+Country: Brazil
+Zip Code: 13056008
+#### ID DOCUMENTS ####
+CPF: 43876309816
+#### CONTACT ####
+CONTACT PHONE: (19) 99445226
+CONTACT CELL PHONE: () 994452265
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: luisseduardoneri@gmail.com
+Secondary E-mailluisseduardoneri@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

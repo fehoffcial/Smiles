@@ -1,0 +1,33 @@
+##### ID: 427498153 | PASSWORD: 1146 | MILES: 0 #####
+FULL NAME: LUCIANE DOS SANTOS LANGE | MEMBER ID: 427498153
+BIRTHDAY: 1987-12-17
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2014-08-15T10:07:53.000-03:00
+#### ADDRESS ####
+Street Name: Rua Joaquim Porto
+Number: 1146
+Complement: 201
+City: TORRES
+State: RS
+Country: Brazil
+Zip Code: 95560000
+#### ID DOCUMENTS ####
+CPF: 83902350059
+#### CONTACT ####
+CONTACT PHONE: (51) 84448098
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: lulange.arq@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

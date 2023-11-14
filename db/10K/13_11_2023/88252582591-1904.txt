@@ -1,0 +1,33 @@
+##### ID: 88252582591 | PASSWORD: 1904 | MILES: 0 #####
+FULL NAME: DANIEL JESUS SANTOS | MEMBER ID: 139275942
+BIRTHDAY: 1978-12-29
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2020-12-14T09:04:06.000-03:00
+#### ADDRESS ####
+Street Name: DIRETA DA MANGABEIRA
+Number: 46
+Complement: Casa
+City: SALVADOR
+State: BA
+Country: Brazil
+Zip Code: 41338710
+#### ID DOCUMENTS ####
+CPF: 88252582591
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 719936131
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: daniel.jesus.santos1@gmail.com
+Secondary E-maildansantos1978@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,66 @@
+##### ID: 37009362300 | PASSWORD: 5769 | MILES: 1674 #####
+FULL NAME: DALMARIO CAVALCANTE | MEMBER ID: 469727366
+BIRTHDAY: 1968-08-27
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 1674
+Miles To Expire: 674
+Member Since: 2017-12-11T19:10:33.000-02:00
+#### ADDRESS ####
+Street Name: DIONÍSIO LEONEL ALENCAR
+Number: 1596
+Complement: apt 103 C
+City: FORTALEZA
+State: CE
+Country: Brazil
+Zip Code: 60870576
+#### ID DOCUMENTS ####
+CPF: 37009362300
+#### CONTACT ####
+CONTACT PHONE: (85) 32122453
+CONTACT CELL PHONE: () 999959947
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: drdalmario@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 458919
+Number: 458919******3222
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2019-12-26T11:50:02
+##### ID: 37009362300 | PASSWORD: 5769 | MILES: 1674 #####
+FULL NAME: DALMARIO CAVALCANTE | MEMBER ID: 469727366
+BIRTHDAY: 1968-08-27
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 1674
+Miles To Expire: 674
+Member Since: 2017-12-11T19:10:33.000-02:00
+#### ADDRESS ####
+Street Name: DIONÍSIO LEONEL ALENCAR
+Number: 1596
+Complement: apt 103 C
+City: FORTALEZA
+State: CE
+Country: Brazil
+Zip Code: 60870576
+#### ID DOCUMENTS ####
+CPF: 37009362300
+#### CONTACT ####
+CONTACT PHONE: (85) 32122453
+CONTACT CELL PHONE: () 999959947
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: drdalmario@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 458919
+Number: 458919******3222
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2019-12-26T11:50:02

@@ -1,0 +1,33 @@
+##### ID: 13426201780 | PASSWORD: 1409 | MILES: 2746 #####
+FULL NAME: WALLACE VIEIRA VALIM | MEMBER ID: 128026183
+BIRTHDAY: 1992-01-23
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 2746
+Miles To Expire: 437
+Member Since: 2019-12-09T21:28:50.000-03:00
+#### ADDRESS ####
+Street Name: rua doutor paulo de souza rocha
+Number: 285
+Complement: proximo da prefeitura
+City: PINHEIRAL
+State: RJ
+Country: Brazil
+Zip Code: 27197000
+#### ID DOCUMENTS ####
+CPF: 13426201780
+#### CONTACT ####
+CONTACT PHONE: (24) 33566576
+CONTACT CELL PHONE: () 998716951
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: wallacevalimvieira@gmail.com
+Secondary E-mailwallace_valim@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

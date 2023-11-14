@@ -1,0 +1,33 @@
+##### ID: 14138562761 | PASSWORD: 3386 | MILES: 20 #####
+FULL NAME: TAYANE BASTOS | MEMBER ID: 460867713
+BIRTHDAY: 1990-12-15
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 20
+Miles To Expire: 20
+Member Since: 2017-10-04T11:06:16.000-03:00
+#### ADDRESS ####
+Street Name: EDGARD BARBOSA
+Number: 2034
+Complement: 
+City: RIO DE JANEIRO
+State: RJ
+Country: Brazil
+Zip Code: 21645190
+#### ID DOCUMENTS ####
+CPF: 14138562761
+#### CONTACT ####
+CONTACT PHONE: (21) 30126315
+CONTACT CELL PHONE: () 992329451
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: tayanemsousa@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 541465
+Number: 541465******3022
+BRAND: MASTERCARD
+Gateway: 
+Payment Date: 2018-08-05T01:36:46

@@ -1,0 +1,33 @@
+##### ID: 14640172710 | PASSWORD: 1829 | MILES: 0 #####
+FULL NAME: BEATRIZ COSTA | MEMBER ID: 478786383
+BIRTHDAY: 1996-11-14
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2018-06-24T02:02:32.000-03:00
+#### ADDRESS ####
+Street Name: 
+Number: 
+Complement: 
+City: 
+State: 
+Country: 
+Zip Code: 
+#### ID DOCUMENTS ####
+CPF: 14640172710
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: biabix@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

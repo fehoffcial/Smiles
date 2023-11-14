@@ -1,0 +1,33 @@
+##### ID: 78453810559 | PASSWORD: 7426 | MILES: 0 #####
+FULL NAME: JOELMA DE JESUS | MEMBER ID: 132571714
+BIRTHDAY: 1977-08-16
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2020-03-23T18:19:12.000-03:00
+#### ADDRESS ####
+Street Name: 
+Number: 
+Complement: 
+City: 
+State: 
+Country: 
+Zip Code: 
+#### ID DOCUMENTS ####
+CPF: 78453810559
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: joelma-roquelina@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

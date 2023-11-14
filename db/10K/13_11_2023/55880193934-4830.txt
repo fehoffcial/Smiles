@@ -1,0 +1,33 @@
+##### ID: 55880193934 | PASSWORD: 4830 | MILES: 0 #####
+FULL NAME: TÂNIA FIORINI GEREMIAS | MEMBER ID: 123946270
+BIRTHDAY: 1966-04-02
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-09-25T19:50:05.000-03:00
+#### ADDRESS ####
+Street Name: FRANCISCO ELESBÃO DE OLIVEIRA
+Number: 140
+Complement: Casa
+City: FLORIANÓPOLIS
+State: SC
+Country: Brazil
+Zip Code: 88045530
+#### ID DOCUMENTS ####
+CPF: 55880193934
+#### CONTACT ####
+CONTACT PHONE: (48) 33071762
+CONTACT CELL PHONE: () 999333363
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: taniageremias@gmail.com
+Secondary E-mailmarcos.geremias@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

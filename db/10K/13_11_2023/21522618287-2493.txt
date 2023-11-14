@@ -1,0 +1,33 @@
+##### ID: 21522618287 | PASSWORD: 2493 | MILES: 4249 #####
+FULL NAME: JEVAN BARBOSA COSTA | MEMBER ID: 433545501
+BIRTHDAY: 2014-12-17
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 4249
+Miles To Expire: 768
+Member Since: 2014-12-17T07:18:21.000-02:00
+#### ADDRESS ####
+Street Name: MARIA FERREIRA THURLER
+Number: 
+Complement: 
+City: NOVA FRIBURGO
+State: RJ
+Country: Brazil
+Zip Code: 28605320
+#### ID DOCUMENTS ####
+CPF: 21522618287
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: jevancosta@yahoo.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 544540
+Number: 544540******5850
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-11-05T21:27:40

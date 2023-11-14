@@ -1,0 +1,33 @@
+##### ID: 13227895765 | PASSWORD: 1731 | MILES: 299 #####
+FULL NAME: CAIO ALBERTASSI | MEMBER ID: 449019572
+BIRTHDAY: 1989-12-17
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 299
+Miles To Expire: 299
+Member Since: 2016-07-28T12:42:31.000-03:00
+#### ADDRESS ####
+Street Name: SANDRO BOTICELLI
+Number: 53
+Complement: APTO 904 B
+City: SERRA
+State: ES
+Country: Brazil
+Zip Code: 29165540
+#### ID DOCUMENTS ####
+CPF: 13227895765
+#### CONTACT ####
+CONTACT PHONE: (27) 30675183
+CONTACT CELL PHONE: () 998892680
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: albertassicaio@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

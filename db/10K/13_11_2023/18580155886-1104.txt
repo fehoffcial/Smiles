@@ -1,0 +1,33 @@
+##### ID: 18580155886 | PASSWORD: 1104 | MILES: 416 #####
+FULL NAME: GIVALDO JOSÉ SANTOS | MEMBER ID: 381424105
+BIRTHDAY: 1974-03-11
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 416
+Miles To Expire: 200
+Member Since: 2012-07-03T09:48:47.000-03:00
+#### ADDRESS ####
+Street Name: DO ORFANATO
+Number: 882
+Complement: CJTO 62A
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 03131010
+#### ID DOCUMENTS ####
+CPF: 18580155886
+#### CONTACT ####
+CONTACT PHONE: (11) 34847401
+CONTACT CELL PHONE: () 87490883
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 27785277
+### E-MAIL ####
+E-mail: gio.paollo@gmail.com
+Secondary E-mailcontato@glamassessoria.com.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

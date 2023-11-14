@@ -1,0 +1,33 @@
+##### ID: 80881327204 | PASSWORD: 2306 | MILES: 3410 #####
+FULL NAME: DAVI ALVES | MEMBER ID: 477137953
+BIRTHDAY: 1988-06-15
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 3410
+Miles To Expire: 3410
+Member Since: 2018-05-15T13:23:50.000-03:00
+#### ADDRESS ####
+Street Name: 2004 Audubon Drive, Hanahan, SC
+Number: 20
+Complement: 40
+City: Charleston
+State: Other
+Country: USA
+Zip Code: 29410
+#### ID DOCUMENTS ####
+CPF: 80881327204
+#### CONTACT ####
+CONTACT PHONE: (11) 99767474
+CONTACT CELL PHONE: () 23
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: dca_davi@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 544883
+Number: 544883******5111
+BRAND: MASTERCARD
+Gateway: 
+Payment Date: 2019-10-15T08:28:04

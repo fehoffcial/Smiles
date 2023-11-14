@@ -1,0 +1,33 @@
+##### ID: 15504687748 | PASSWORD: 3741 | MILES: 0 #####
+FULL NAME: RITA DE CÁSSIA CHAGAS NASCIMENTO | MEMBER ID: 507353033
+BIRTHDAY: 1993-05-25
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2018-10-04T10:10:59.000-03:00
+#### ADDRESS ####
+Street Name: DOUTOR JOSÉ THOMAS
+Number: 95
+Complement: Casa 1
+City: RIO DE JANEIRO
+State: RJ
+Country: Brazil
+Zip Code: 21520020
+#### ID DOCUMENTS ####
+CPF: 15504687748
+#### CONTACT ####
+CONTACT PHONE: (21) 34209530
+CONTACT CELL PHONE: () 974531944
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: ritacnascimento12@gmail.com
+Secondary E-mailrc.adriano@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

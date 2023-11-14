@@ -1,0 +1,33 @@
+##### ID: 44819978691 | PASSWORD: 5229 | MILES: 16574 #####
+FULL NAME: ROGERIO RODRIGUES DA ROCHA | MEMBER ID: 732703521
+BIRTHDAY: 1963-09-12
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 16574
+Miles To Expire: 574
+Member Since: 2010-02-18T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: FERNANDO SIMOES BARBOSA, RECIF
+Number: 668
+Complement: 1101
+City: RECIFE
+State: PE
+Country: Brazil
+Zip Code: 51021060
+#### ID DOCUMENTS ####
+CPF: 44819978691
+#### CONTACT ####
+CONTACT PHONE: (81) 33142789
+CONTACT CELL PHONE: () 991058829
+CONTACT SECONDARY CELL PHONE: () 91058829
+CONTACT WORK PHONE: () 81798781
+### E-MAIL ####
+E-mail: rogerio.rocha63@gmail.com
+Secondary E-mailrogerio.rocha63@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 409280
+Number: 409280******5420
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2023-10-30T14:52:50

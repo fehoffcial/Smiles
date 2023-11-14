@@ -1,0 +1,33 @@
+##### ID: 79690548700 | PASSWORD: 6293 | MILES: 81 #####
+FULL NAME: JOSE DE LIMA PEREIRA | MEMBER ID: 451673810
+BIRTHDAY: 1963-10-04
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 81
+Miles To Expire: 81
+Member Since: 2016-11-13T20:01:05.000-02:00
+#### ADDRESS ####
+Street Name: RUA PROJETADA D
+Number: 22
+Complement: APTO 104 (PRAINHA)
+City: ARRAIL DO CABO
+State: RJ
+Country: Brazil
+Zip Code: 22980000
+#### ID DOCUMENTS ####
+CPF: 79690548700
+#### CONTACT ####
+CONTACT PHONE: (22) 97758992
+CONTACT CELL PHONE: () 992090615
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: zedelimapereira@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,33 @@
+##### ID: 83591133000 | PASSWORD: 6021 | MILES: 0 #####
+FULL NAME: NOSLEN GIUSTI COSTA | MEMBER ID: 131653432
+BIRTHDAY: 1987-06-12
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2020-02-25T02:09:25.000-03:00
+#### ADDRESS ####
+Street Name: MINAS GERAIS
+Number: 435
+Complement: apto 102
+City: SANTA ROSA
+State: RS
+Country: Brazil
+Zip Code: 98780190
+#### ID DOCUMENTS ####
+CPF: 83591133000
+#### CONTACT ####
+CONTACT PHONE: (54) 92702950
+CONTACT CELL PHONE: () 934727599
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: noslencosta@gmail.com
+Secondary E-mailnoslencosta@protonmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

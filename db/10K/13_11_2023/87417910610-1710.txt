@@ -1,0 +1,33 @@
+##### ID: 87417910610 | PASSWORD: 1710 | MILES: 4297 #####
+FULL NAME: ERIK FERNANDO MACHADO RODRIGUES | MEMBER ID: 200025140
+BIRTHDAY: 1972-06-21
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 4297
+Miles To Expire: 1113
+Member Since: 2004-03-20T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: AUGUSTO QUEIROGA, DUQUE DE CAX
+Number: 001
+Complement: LT 13 QD 65
+City: DUQUE DE CAXIAS
+State: RJ
+Country: Brazil
+Zip Code: 25240550
+#### ID DOCUMENTS ####
+CPF: 87417910610
+#### CONTACT ####
+CONTACT PHONE: (21) 41282469
+CONTACT CELL PHONE: () 981207881
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: infocelhost@gmail.com
+Secondary E-maildj.erik@webestrela.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

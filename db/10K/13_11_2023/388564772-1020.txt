@@ -1,0 +1,33 @@
+##### ID: 388564772 | PASSWORD: 1020 | MILES: 0 #####
+FULL NAME: Anderson Camargo | MEMBER ID: 388564772
+BIRTHDAY: 1980-12-01
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2012-11-21T13:56:29.000-02:00
+#### ADDRESS ####
+Street Name: GABRIEL RIBEIRO
+Number: 88
+Complement: 
+City: SAO PAULO
+State: SP
+Country: Brazil
+Zip Code: 02281160
+#### ID DOCUMENTS ####
+CPF: 28599481800
+#### CONTACT ####
+CONTACT PHONE: (11) 994487679
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: camargo.anderson@globo.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

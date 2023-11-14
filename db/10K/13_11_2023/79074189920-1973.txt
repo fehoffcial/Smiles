@@ -1,0 +1,33 @@
+##### ID: 79074189920 | PASSWORD: 1973 | MILES: 0 #####
+FULL NAME: ADEMIR SILVA | MEMBER ID: 112107030
+BIRTHDAY: 1973-03-01
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-04-12T14:02:21.000-03:00
+#### ADDRESS ####
+Street Name: 575
+Number: 575
+Complement: Avenida jucelino kubistchek
+City: Campina da Lagoa
+State: Other
+Country: Portugal
+Zip Code: 8734500
+#### ID DOCUMENTS ####
+CPF: 79074189920
+#### CONTACT ####
+CONTACT PHONE: (44) 35422493
+CONTACT CELL PHONE: () 997067308
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: ademirpastor@hotmail.com
+Secondary E-mailademirpastor@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,33 @@
+##### ID: 395535560 | PASSWORD: 4565 | MILES: 0 #####
+FULL NAME: CARLOS RENATO VON GLEHN | MEMBER ID: 395535560
+BIRTHDAY: 1972-06-02
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2013-04-08T16:57:41.000-03:00
+#### ADDRESS ####
+Street Name: GUAÍRA
+Number: 82
+Complement: 301
+City: BELO HORIZONTE
+State: MG
+Country: Brazil
+Zip Code: 30770480
+#### ID DOCUMENTS ####
+CPF: 99259478634
+#### CONTACT ####
+CONTACT PHONE: (31) 33477076
+CONTACT CELL PHONE: () 87262251
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 32110600
+### E-MAIL ####
+E-mail: vglehn@hotmail.com
+Secondary E-mailcarlos@halt.com.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

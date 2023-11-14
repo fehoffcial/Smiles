@@ -1,0 +1,33 @@
+##### ID: 85878780500 | PASSWORD: 1994 | MILES: 4 #####
+FULL NAME: ISLENE SANTOS DA SILVA | MEMBER ID: 120747104
+BIRTHDAY: 1994-01-12
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 4
+Miles To Expire: 4
+Member Since: 2019-07-21T06:35:33.000-03:00
+#### ADDRESS ####
+Street Name: TRANSVERSAL DA PAZ
+Number: 12
+Complement: 
+City: SALVADOR
+State: BA
+Country: Brazil
+Zip Code: 41336560
+#### ID DOCUMENTS ####
+CPF: 85878780500
+#### CONTACT ####
+CONTACT PHONE: (71) 32380748
+CONTACT CELL PHONE: () 996583559
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: silvaislenes@gmail.com
+Secondary E-mailJoasbenca@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 435087
+Number: 435087******7036
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2021-04-25T21:23:02

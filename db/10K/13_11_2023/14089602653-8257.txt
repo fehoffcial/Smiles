@@ -1,0 +1,33 @@
+##### ID: 14089602653 | PASSWORD: 8257 | MILES: 0 #####
+FULL NAME: REGINALDO JAMES | MEMBER ID: 720602422
+BIRTHDAY: 1948-10-26
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2004-06-06T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: RUA JULIO GOMES MOREIRA
+Number: 898
+Complement: 
+City: NATAL
+State: RN
+Country: Brazil
+Zip Code: 59022110
+#### ID DOCUMENTS ####
+CPF: 14089602653
+#### CONTACT ####
+CONTACT PHONE: (84) 32014695
+CONTACT CELL PHONE: () 987236455
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: reginaldojames@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

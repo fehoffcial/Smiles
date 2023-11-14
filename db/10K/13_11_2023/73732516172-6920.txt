@@ -1,0 +1,33 @@
+##### ID: 73732516172 | PASSWORD: 6920 | MILES: 7578 #####
+FULL NAME: DANIEL DE SOUSA PINTO | MEMBER ID: 355322144
+BIRTHDAY: 1988-01-29
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 7578
+Miles To Expire: 300
+Member Since: 2011-06-06T10:07:24.000-03:00
+#### ADDRESS ####
+Street Name: RUA OLAVO BATISTA
+Number: 341
+Complement: QUADRA 02 LOTE 04, CASA 01
+City: ANAPOLIS
+State: GO
+Country: Brazil
+Zip Code: 75123480
+#### ID DOCUMENTS ####
+CPF: 73732516172
+#### CONTACT ####
+CONTACT PHONE: (62) 30981381
+CONTACT CELL PHONE: () 981713767
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: danieldesousa2@gmail.com
+Secondary E-maildaniedesousa2@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

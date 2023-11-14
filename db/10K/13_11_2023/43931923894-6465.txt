@@ -1,0 +1,33 @@
+##### ID: 43931923894 | PASSWORD: 6465 | MILES: 0 #####
+FULL NAME: EVANDRO MURILO RODRIGUES | MEMBER ID: 121672456
+BIRTHDAY: 1995-08-13
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-08-07T14:37:22.000-03:00
+#### ADDRESS ####
+Street Name: PAULO AYRES DE OLIVEIRA
+Number: 902
+Complement: 
+City: ITAPETININGA
+State: SP
+Country: Brazil
+Zip Code: 18205530
+#### ID DOCUMENTS ####
+CPF: 43931923894
+#### CONTACT ####
+CONTACT PHONE: (15) 35427261
+CONTACT CELL PHONE: () 997695098
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: evandromurilorodrigues@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

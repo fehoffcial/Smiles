@@ -1,0 +1,33 @@
+##### ID: 85104760472 | PASSWORD: 2011 | MILES: 726 #####
+FULL NAME: LUÍS RICARDO DE SOUZA ALVES | MEMBER ID: 117385004
+BIRTHDAY: 1975-11-20
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 726
+Miles To Expire: 314
+Member Since: 2019-05-19T23:33:41.000-03:00
+#### ADDRESS ####
+Street Name: FAUSTOLO
+Number: 1450
+Complement: Ap. 231 Torre: 2
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 05041001
+#### ID DOCUMENTS ####
+CPF: 85104760472
+#### CONTACT ####
+CONTACT PHONE: (11) 30644331
+CONTACT CELL PHONE: () 983179010
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: nutricaofacil@gmail.com
+Secondary E-mailcontato.espacoservir@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

@@ -1,0 +1,33 @@
+##### ID: 13413482700 | PASSWORD: 1341 | MILES: 0 #####
+FULL NAME: ERICK NASCIMENTO ALMEIDA | MEMBER ID: 117536020
+BIRTHDAY: 1992-07-03
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-05-22T18:22:06.000-03:00
+#### ADDRESS ####
+Street Name: DO CAMPINHO
+Number: 43
+Complement: 
+City: VILA VELHA
+State: ES
+Country: Brazil
+Zip Code: 29120440
+#### ID DOCUMENTS ####
+CPF: 13413482700
+#### CONTACT ####
+CONTACT PHONE: (27) 32865439
+CONTACT CELL PHONE: () 997637524
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: erickn.almeida1@gmail.com
+Secondary E-mailerickn.almeida@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

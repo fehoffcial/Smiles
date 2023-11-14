@@ -1,0 +1,33 @@
+##### ID: 71167544900 | PASSWORD: 4691 | MILES: 8021 #####
+FULL NAME: CLESIO MELO | MEMBER ID: 424479694
+BIRTHDAY: 1969-08-03
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 8021
+Miles To Expire: 21
+Member Since: 2014-06-16T16:46:19.000-03:00
+#### ADDRESS ####
+Street Name: PADRE JOSÉ DE ANCHIETA
+Number: 45
+Complement: barbearia
+City: PALHOÇA
+State: SC
+Country: Brazil
+Zip Code: 88133450
+#### ID DOCUMENTS ####
+CPF: 71167544900
+#### CONTACT ####
+CONTACT PHONE: (48) 30939011
+CONTACT CELL PHONE: () 88422004
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: clesiomello21@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 549167
+Number: 549167******3279
+BRAND: MASTERCARD
+Gateway: 
+Payment Date: 2018-08-22T00:00:00

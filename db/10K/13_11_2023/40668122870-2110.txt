@@ -1,0 +1,66 @@
+##### ID: 40668122870 | PASSWORD: 2110 | MILES: 156 #####
+FULL NAME: JULIO CESAR LUIZ BETTIN | MEMBER ID: 456482644
+BIRTHDAY: 1995-06-28
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 156
+Miles To Expire: 156
+Member Since: 2017-04-23T14:51:18.000-03:00
+#### ADDRESS ####
+Street Name: SANTA TEREZINHA
+Number: 300
+Complement: AP 75
+City: TAUBATÉ
+State: SP
+Country: Brazil
+Zip Code: 12052231
+#### ID DOCUMENTS ####
+CPF: 40668122870
+#### CONTACT ####
+CONTACT PHONE: (12) 36261182
+CONTACT CELL PHONE: () 996702441
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: julio.bettin@yahoo.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 470598
+Number: 470598******7788
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2021-11-05T22:23:25
+##### ID: 40668122870 | PASSWORD: 2110 | MILES: 156 #####
+FULL NAME: JULIO CESAR LUIZ BETTIN | MEMBER ID: 456482644
+BIRTHDAY: 1995-06-28
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 156
+Miles To Expire: 156
+Member Since: 2017-04-23T14:51:18.000-03:00
+#### ADDRESS ####
+Street Name: SANTA TEREZINHA
+Number: 300
+Complement: AP 75
+City: TAUBATÉ
+State: SP
+Country: Brazil
+Zip Code: 12052231
+#### ID DOCUMENTS ####
+CPF: 40668122870
+#### CONTACT ####
+CONTACT PHONE: (12) 36261182
+CONTACT CELL PHONE: () 996702441
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: julio.bettin@yahoo.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 470598
+Number: 470598******7788
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2021-11-05T22:23:25

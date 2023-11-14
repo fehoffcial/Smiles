@@ -1,0 +1,33 @@
+##### ID: 236206460 | PASSWORD: 2104 | MILES: 9496 #####
+FULL NAME: JOCY BRANDAO CRUZ | MEMBER ID: 236206460
+BIRTHDAY: 1967-04-21
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 9496
+Miles To Expire: 741
+Member Since: 2002-05-06T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: QRSW 02 BL A9
+Number: AP 306
+Complement: SETOR SUDOESTE
+City: BRASÍLIA
+State: DF
+Country: Brazil
+Zip Code: 70675209
+#### ID DOCUMENTS ####
+CPF: 24852929300
+#### CONTACT ####
+CONTACT PHONE: (61) 30353467
+CONTACT CELL PHONE: () 85296788
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: jocy.cruz@icmbio.gov.br
+Secondary E-mailjocy.cruz@icmbio.gov.br
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

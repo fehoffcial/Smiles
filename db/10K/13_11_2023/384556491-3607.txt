@@ -1,0 +1,33 @@
+##### ID: 384556491 | PASSWORD: 3607 | MILES: 0 #####
+FULL NAME: SILVIO APARECIDO CARDOSO DA SILVA | MEMBER ID: 384556491
+BIRTHDAY: 1980-02-08
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2012-09-02T19:07:45.000-03:00
+#### ADDRESS ####
+Street Name: JOSE CORREIA TRAMUJAS, CURITIB
+Number: 87
+Complement: CASA
+City: CURITIBA
+State: PR
+Country: Brazil
+Zip Code: 81230540
+#### ID DOCUMENTS ####
+CPF: 03139211996
+#### CONTACT ####
+CONTACT PHONE: (41) 32886321
+CONTACT CELL PHONE: () 99012850
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: silviocsa@uol.com.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

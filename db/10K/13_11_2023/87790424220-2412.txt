@@ -1,0 +1,33 @@
+##### ID: 87790424220 | PASSWORD: 2412 | MILES: 1629 #####
+FULL NAME: ELILVIANE DA COSTA LIMA | MEMBER ID: 128441390
+BIRTHDAY: 1987-09-01
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 1629
+Miles To Expire: 1629
+Member Since: 2019-12-22T10:26:50.000-03:00
+#### ADDRESS ####
+Street Name: LAVRAS
+Number: 17
+Complement: Rua 15, quadra, conjunto canaranas
+City: MANAUS
+State: AM
+Country: Brazil
+Zip Code: 69097160
+#### ID DOCUMENTS ####
+CPF: 87790424220
+#### CONTACT ####
+CONTACT PHONE: (92) 21239818
+CONTACT CELL PHONE: () 984656009
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: elilviane.lima@gmail.com
+Secondary E-mailanymalackmalack@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

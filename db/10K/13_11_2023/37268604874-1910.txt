@@ -1,0 +1,66 @@
+##### ID: 37268604874 | PASSWORD: 1910 | MILES: 2160 #####
+FULL NAME: EDUARDO GARCIA | MEMBER ID: 122919436
+BIRTHDAY: 1988-02-20
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 2160
+Miles To Expire: 1080
+Member Since: 2019-09-03T22:19:41.000-03:00
+#### ADDRESS ####
+Street Name: GERALDO RODRIGUES DE CARVALHO
+Number: 1845
+Complement: Apto12
+City: FRANCA
+State: SP
+Country: Brazil
+Zip Code: 14404120
+#### ID DOCUMENTS ####
+CPF: 37268604874
+#### CONTACT ####
+CONTACT PHONE: (16) 93713215
+CONTACT CELL PHONE: () 981703109
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: eduardosousagarcia@gmail.com
+Secondary E-mailradijasgarcia@gmail.com
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 
+##### ID: 37268604874 | PASSWORD: 1910 | MILES:  #####
+FULL NAME:   | MEMBER ID: 
+BIRTHDAY: 
+GENDER: 
+CITIZENSHIP: 
+Available Miles: 
+Miles To Expire: 
+Member Since: 
+#### ADDRESS ####
+Street Name: 
+Number: 
+Complement: 
+City: 
+State: 
+Country: 
+Zip Code: 
+#### ID DOCUMENTS ####
+CPF: 
+#### CONTACT ####
+CONTACT PHONE: () 
+CONTACT CELL PHONE: () 
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: 
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

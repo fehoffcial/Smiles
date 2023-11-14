@@ -1,0 +1,33 @@
+##### ID: 45906558888 | PASSWORD: 2585 | MILES: 1842 #####
+FULL NAME: HENRIQUE MONTEIRO DE MACEDO | MEMBER ID: 105954881
+BIRTHDAY: 1997-08-14
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 1842
+Miles To Expire: 500
+Member Since: 2018-12-04T15:06:41.000-02:00
+#### ADDRESS ####
+Street Name: ARCÁDIA
+Number: 54
+Complement: 
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 03318110
+#### ID DOCUMENTS ####
+CPF: 45906558888
+#### CONTACT ####
+CONTACT PHONE: (11) 0
+CONTACT CELL PHONE: () 985528304
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: henrique.monteiro97@live.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 554927
+Number: 554927******1990
+BRAND: MASTERCARD
+Gateway: Cielo
+Payment Date: 2020-06-06T01:59:01

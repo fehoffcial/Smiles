@@ -1,0 +1,66 @@
+##### ID: 15611182739 | PASSWORD: 1521 | MILES: 0 #####
+FULL NAME: GILBERTO VELASCO | MEMBER ID: 123324972
+BIRTHDAY: 1995-08-11
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-09-12T00:41:53.000-03:00
+#### ADDRESS ####
+Street Name: DOUTOR CASTELO BRANCO
+Number: 23
+Complement: Rua Castelo Branco
+City: CAMPOS DOS GOYTACAZES
+State: RJ
+Country: Brazil
+Zip Code: 28060110
+#### ID DOCUMENTS ####
+CPF: 15611182739
+#### CONTACT ####
+CONTACT PHONE: (22) 27331099
+CONTACT CELL PHONE: () 998370561
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: gilbertoazeredo19@gmail.com
+Secondary E-mailgilbertoazeredo@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 516292
+Number: 516292******6958
+BRAND: MASTERCARD
+Gateway: Cielo
+Payment Date: 2020-01-15T20:04:33
+##### ID: 15611182739 | PASSWORD: 1521 | MILES: 0 #####
+FULL NAME: GILBERTO VELASCO | MEMBER ID: 123324972
+BIRTHDAY: 1995-08-11
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2019-09-12T00:41:53.000-03:00
+#### ADDRESS ####
+Street Name: DOUTOR CASTELO BRANCO
+Number: 23
+Complement: Rua Castelo Branco
+City: CAMPOS DOS GOYTACAZES
+State: RJ
+Country: Brazil
+Zip Code: 28060110
+#### ID DOCUMENTS ####
+CPF: 15611182739
+#### CONTACT ####
+CONTACT PHONE: (22) 27331099
+CONTACT CELL PHONE: () 998370561
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: gilbertoazeredo19@gmail.com
+Secondary E-mailgilbertoazeredo@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 516292
+Number: 516292******6958
+BRAND: MASTERCARD
+Gateway: Cielo
+Payment Date: 2020-01-15T20:04:33

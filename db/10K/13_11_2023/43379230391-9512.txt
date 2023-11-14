@@ -1,0 +1,66 @@
+##### ID: 43379230391 | PASSWORD: 9512 | MILES: 37025 #####
+FULL NAME: CLEILTON RABELO CUNHA | MEMBER ID: 784060616
+BIRTHDAY: 1975-05-20
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 37025
+Miles To Expire: 3800
+Member Since: 2002-09-09T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: JOSÉ DO NASCIMENTO
+Number: 546
+Complement: casa
+City: FORTALEZA
+State: CE
+Country: Brazil
+Zip Code: 60822600
+#### ID DOCUMENTS ####
+CPF: 43379230391
+#### CONTACT ####
+CONTACT PHONE: (85) 30919660
+CONTACT CELL PHONE: () 986808404
+CONTACT SECONDARY CELL PHONE: () 87444777
+CONTACT WORK PHONE: () 40629825
+### E-MAIL ####
+E-mail: cleilton.direitoestacio@gmail.com
+Secondary E-mailcleilton.rabelo@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 550209
+Number: 550209******3069
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-09-25T17:14:57
+##### ID: 43379230391 | PASSWORD: 9512 | MILES: 37025 #####
+FULL NAME: CLEILTON RABELO CUNHA | MEMBER ID: 784060616
+BIRTHDAY: 1975-05-20
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 37025
+Miles To Expire: 3800
+Member Since: 2002-09-09T00:00:00.000-03:00
+#### ADDRESS ####
+Street Name: JOSÉ DO NASCIMENTO
+Number: 546
+Complement: casa
+City: FORTALEZA
+State: CE
+Country: Brazil
+Zip Code: 60822600
+#### ID DOCUMENTS ####
+CPF: 43379230391
+#### CONTACT ####
+CONTACT PHONE: (85) 30919660
+CONTACT CELL PHONE: () 986808404
+CONTACT SECONDARY CELL PHONE: () 87444777
+CONTACT WORK PHONE: () 40629825
+### E-MAIL ####
+E-mail: cleilton.direitoestacio@gmail.com
+Secondary E-mailcleilton.rabelo@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 550209
+Number: 550209******3069
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2023-09-25T17:14:57

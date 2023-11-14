@@ -1,0 +1,66 @@
+##### ID: 41732198810 | PASSWORD: 2402 | MILES: 66 #####
+FULL NAME: NATHAN CRISTIAN DA SILVA PINTO | MEMBER ID: 421392926
+BIRTHDAY: 1993-04-24
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 66
+Miles To Expire: 66
+Member Since: 2014-04-15T00:14:23.000-03:00
+#### ADDRESS ####
+Street Name: Travessa Samambaia
+Number: 36
+Complement: Rua sem saida
+City: CAMPOS DO JORDÃO
+State: SP
+Country: Brazil
+Zip Code: 12460000
+#### ID DOCUMENTS ####
+CPF: 41732198810
+#### CONTACT ####
+CONTACT PHONE: (12) 36645985
+CONTACT CELL PHONE: () 997597691
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: ntncristian2@gmail.com
+Secondary E-mailcristiamgatinho@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 544731
+Number: 544731******0383
+BRAND: MASTERCARD
+Gateway: 
+Payment Date: 2018-07-05T11:10:51
+##### ID: 41732198810 | PASSWORD: 2402 | MILES: 66 #####
+FULL NAME: NATHAN CRISTIAN DA SILVA PINTO | MEMBER ID: 421392926
+BIRTHDAY: 1993-04-24
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 66
+Miles To Expire: 66
+Member Since: 2014-04-15T00:14:23.000-03:00
+#### ADDRESS ####
+Street Name: Travessa Samambaia
+Number: 36
+Complement: Rua sem saida
+City: CAMPOS DO JORDÃO
+State: SP
+Country: Brazil
+Zip Code: 12460000
+#### ID DOCUMENTS ####
+CPF: 41732198810
+#### CONTACT ####
+CONTACT PHONE: (12) 36645985
+CONTACT CELL PHONE: () 997597691
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: ntncristian2@gmail.com
+Secondary E-mailcristiamgatinho@hotmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 544731
+Number: 544731******0383
+BRAND: MASTERCARD
+Gateway: 
+Payment Date: 2018-07-05T11:10:51

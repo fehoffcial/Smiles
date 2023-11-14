@@ -1,0 +1,33 @@
+##### ID: 373368155 | PASSWORD: 5748 | MILES: 3378 #####
+FULL NAME: SERGIO MARINHO DE CARVALHO | MEMBER ID: 373368155
+BIRTHDAY: 1940-03-15
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 3378
+Miles To Expire: 378
+Member Since: 2012-03-03T11:56:27.000-03:00
+#### ADDRESS ####
+Street Name: T 65
+Number: 1077
+Complement: Bloco b apto 1103
+City: GOIÂNIA
+State: GO
+Country: Brazil
+Zip Code: 74230120
+#### ID DOCUMENTS ####
+CPF: 05578582753
+#### CONTACT ####
+CONTACT PHONE: (62) 36789407
+CONTACT CELL PHONE: () 998219799
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: smarinho64@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 376527
+Number: 376527******4943
+BRAND: AMEX
+Gateway: Adyen
+Payment Date: 2023-10-27T07:12:13

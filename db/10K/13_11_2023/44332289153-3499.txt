@@ -1,0 +1,33 @@
+##### ID: 44332289153 | PASSWORD: 3499 | MILES: 0 #####
+FULL NAME: ITAMAR SANTANA DE OLIVEIRA | MEMBER ID: 367210546
+BIRTHDAY: 1967-03-25
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2011-12-04T13:06:19.000-02:00
+#### ADDRESS ####
+Street Name: RUA SÃO DOMINGOS
+Number: 190
+Complement: CASA
+City: MANAUS
+State: AM
+Country: Brazil
+Zip Code: 69033250
+#### ID DOCUMENTS ####
+CPF: 44332289153
+#### CONTACT ####
+CONTACT PHONE: (92) 33023981
+CONTACT CELL PHONE: () 999858233
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 81439032
+### E-MAIL ####
+E-mail: itamarsantanadeoliveira_@hotmail.com
+Secondary E-mailITAMARSOLIVEIRA755@GMAIL.COM
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

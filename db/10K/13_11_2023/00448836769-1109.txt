@@ -1,0 +1,33 @@
+##### ID: 00448836769 | PASSWORD: 1109 | MILES: 7001 #####
+FULL NAME: PAULO CESAR DA SILVA | MEMBER ID: 138582592
+BIRTHDAY: 1969-01-08
+GENDER: MALE
+CITIZENSHIP: Brazilian
+Available Miles: 7001
+Miles To Expire: 1
+Member Since: 2020-11-23T18:15:41.000-03:00
+#### ADDRESS ####
+Street Name: MARECHAL BENTO MANOEL
+Number: 675
+Complement: casa
+City: DUQUE DE CAXIAS
+State: RJ
+Country: Brazil
+Zip Code: 25075270
+#### ID DOCUMENTS ####
+CPF: 00448836769
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 973665823
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: lavajatodopaulo01@gmail.com
+Secondary E-maillaiolion1@gmail.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 477175
+Number: 477175******1615
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2022-12-25T12:26:14

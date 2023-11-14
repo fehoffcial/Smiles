@@ -1,0 +1,33 @@
+##### ID: 13320378104 | PASSWORD: 1538 | MILES: 359 #####
+FULL NAME: MEIRE NILVA RIBEIRO DOS SANTOS | MEMBER ID: 115855913
+BIRTHDAY: 1956-09-30
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 359
+Miles To Expire: 359
+Member Since: 2019-04-24T19:31:09.000-03:00
+#### ADDRESS ####
+Street Name: 42
+Number: 00000
+Complement: QD 36 LT 09
+City: GOIANIA
+State: GO
+Country: Brazil
+Zip Code: 74355429
+#### ID DOCUMENTS ####
+CPF: 13320378104
+#### CONTACT ####
+CONTACT PHONE: (62) 32519626
+CONTACT CELL PHONE: () 982264159
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: pollimoda@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 441120
+Number: 441120******8913
+BRAND: VISA
+Gateway: Cielo
+Payment Date: 2020-06-26T02:18:43

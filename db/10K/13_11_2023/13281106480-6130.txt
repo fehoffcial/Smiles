@@ -1,0 +1,33 @@
+##### ID: 13281106480 | PASSWORD: 6130 | MILES: 1149 #####
+FULL NAME: NAYSE FAGUNDES | MEMBER ID: 110192552
+BIRTHDAY: 1999-10-21
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 1149
+Miles To Expire: 294
+Member Since: 2019-03-12T09:34:50.000-03:00
+#### ADDRESS ####
+Street Name: Rua Boa Vista
+Number: 1396
+Complement: Ultima casa da rua.
+City: olho dagua das flores
+State: AL
+Country: Brazil
+Zip Code: 05744200
+#### ID DOCUMENTS ####
+CPF: 13281106480
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 998259964
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: nayse.fagundes@arapiraca.ufal.br
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 444456
+Number: 444456******5217
+BRAND: VISA
+Gateway: Adyen
+Payment Date: 2020-11-05T05:11:28

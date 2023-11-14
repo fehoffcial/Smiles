@@ -1,0 +1,33 @@
+##### ID: 16486167718 | PASSWORD: 8462 | MILES: 1278 #####
+FULL NAME: LUANNA PIMENTA MOURA DA SILVA | MEMBER ID: 476436855
+BIRTHDAY: 1995-11-19
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 1278
+Miles To Expire: 702
+Member Since: 2018-05-02T08:22:31.000-03:00
+#### ADDRESS ####
+Street Name: CASSIPORÉ
+Number: 0
+Complement: LT21A QD92 CASA 1
+City: DUQUE DE CAXIAS
+State: RJ
+Country: Brazil
+Zip Code: 25036040
+#### ID DOCUMENTS ####
+CPF: 16486167718
+#### CONTACT ####
+CONTACT PHONE: ( ) 
+CONTACT CELL PHONE: () 969400107
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: luannapimenta.m@hotmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

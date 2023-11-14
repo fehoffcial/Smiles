@@ -1,0 +1,33 @@
+##### ID: 44865569847 | PASSWORD: 1705 | MILES: 1351 #####
+FULL NAME: CÁSSIA DE OLIVEIRA BARBOSA | MEMBER ID: 123903216
+BIRTHDAY: 1995-01-25
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 1351
+Miles To Expire: 95
+Member Since: 2019-09-25T01:06:14.000-03:00
+#### ADDRESS ####
+Street Name: ESMENIA KLAUSSNER
+Number: 104
+Complement: 
+City: SÃO PAULO
+State: SP
+Country: Brazil
+Zip Code: 04856381
+#### ID DOCUMENTS ####
+CPF: 44865569847
+#### CONTACT ####
+CONTACT PHONE: (11) 59313355
+CONTACT CELL PHONE: () 941287986
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 
+### E-MAIL ####
+E-mail: aquino.barbosa.cassia@gmail.com
+Secondary E-mailca.mylife.isyou@live.com
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 535081
+Number: 535081******4383
+BRAND: MASTERCARD
+Gateway: Adyen
+Payment Date: 2020-01-10T12:16:50

@@ -1,0 +1,33 @@
+##### ID: 701433740 | PASSWORD: 9635 | MILES: 0 #####
+FULL NAME: SANNY LEITE SILVA | MEMBER ID: 701433740
+BIRTHDAY: 1971-12-14
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 0
+Miles To Expire: 
+Member Since: 2003-02-03T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: R. ALBINO DE MORAES
+Number: 75
+Complement: 
+City: SAO PAULO
+State: SP
+Country: Brazil
+Zip Code: 04223120
+#### ID DOCUMENTS ####
+CPF: 11427122814
+#### CONTACT ####
+CONTACT PHONE: (11) 20613099
+CONTACT CELL PHONE: () 998574338
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: sanny.leite@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

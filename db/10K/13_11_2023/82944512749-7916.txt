@@ -1,0 +1,33 @@
+##### ID: 82944512749 | PASSWORD: 7916 | MILES: 400 #####
+FULL NAME: ACIDALIA MARIA BARROS MONTEIRO | MEMBER ID: 350496893
+BIRTHDAY: 1966-09-03
+GENDER: FEMALE
+CITIZENSHIP: Brazilian
+Available Miles: 400
+Miles To Expire: 400
+Member Since: 2011-03-24T23:22:17.000-03:00
+#### ADDRESS ####
+Street Name: FABIO LUZ, RIO DE JANEIRO, RJ1
+Number: 275
+Complement: 1  804
+City: RIO DE JANEIRO
+State: RJ
+Country: Brazil
+Zip Code: 20720350
+#### ID DOCUMENTS ####
+CPF: 82944512749
+#### CONTACT ####
+CONTACT PHONE: (21) 39792261
+CONTACT CELL PHONE: () 87476535
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 25928862
+### E-MAIL ####
+E-mail: andreamsfeliz@gmail.com
+Secondary E-mail
+### CARD DETAILS ###
+TYPE NAME: 
+BIN: 
+Number: 
+BRAND: 
+Gateway: 
+Payment Date: 

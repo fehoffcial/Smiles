@@ -1,0 +1,33 @@
+##### ID: 030347914 | PASSWORD: 9030 | MILES: 0 #####
+FULL NAME: FABRICIO CUTURI FRANCHOMMS | MEMBER ID: 030347914
+BIRTHDAY: 1942-06-02
+GENDER: MALE
+CITIZENSHIP: 
+Available Miles: 0
+Miles To Expire: 
+Member Since: 1996-11-26T01:00:00.000-02:00
+#### ADDRESS ####
+Street Name: N/A
+Number: 
+Complement: N/A
+City: N/A
+State: SP
+Country: Brazil
+Zip Code: 00000000
+#### ID DOCUMENTS ####
+CPF: 10010120
+#### CONTACT ####
+CONTACT PHONE: (2) 7104035
+CONTACT CELL PHONE: () 4540048
+CONTACT SECONDARY CELL PHONE: () 
+CONTACT WORK PHONE: () 0
+### E-MAIL ####
+E-mail: fcuturi@gmail.com
+Secondary E-mailFCUTURI@GMAIL.COM
+### CARD DETAILS ###
+TYPE NAME: CreditCard
+BIN: 524093
+Number: 524093******5662
+BRAND: Mastercard
+Gateway: 
+Payment Date: 2015-08-27T02:42:22
