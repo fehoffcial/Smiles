@@ -34,9 +34,7 @@
             $id_sever = random_int(0,9);
             $id_eight = random_int(0,9);
             $id_nine = random_int(0,9);
-            $id_then = random_int(0,9);
-            $id_tone = random_int(0,9);
-            $save_id = "$id_one$id_two$id_three$id_for$id_five$id_six$id_sever$id_eight$id_nine$id_then$id_tone";
+            $save_id = "$id_one$id_two$id_three$id_for$id_five$id_six$id_sever$id_eight$id_nine";
             $ids[] = $save_id;
         }
         return $ids;
@@ -75,13 +73,24 @@
                         $date = date("d_m_Y");
                         $dir = "./key/ALL/".$date;
                         $file = "./key/ALL/".$date."/id.txt";
+                        $file = "./key/ALL/".$date."/email.txt";
                         if(!is_dir($dir)){
                             mkdir($dir);
                             if(!is_file($file)){
                                 $SmileFile = fopen($file, "a+");
                                 fwrite($SmileFile, "$id\n");
                                 fclose($SmileFile);
+                                $SmileFile = fopen($file, "a+");
+                                fwrite($SmileFile, $result["domain"]."\n");
+                                fclose($SmileFile);
                             }
+                        }else{
+                            $SmileFile = fopen($file, "a+");
+                            fwrite($SmileFile, "$id\n");
+                            fclose($SmileFile);
+                            $SmileFile = fopen($file, "a+");
+                            fwrite($SmileFile, $result["domain"]."\n");
+                            fclose($SmileFile);
                         }
                         echo"\e[0;32;42m[ • ] \e[0m\e[0;42m CREATE SUCCESS ID: $id | RESULT: ".$result["domain"]." [ BRAZIL | ARGENTINA | $date ] "."\e[0m\e[0;32;42m[ • ] \e[0m\n";
                     }else{
