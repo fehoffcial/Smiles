@@ -73,25 +73,17 @@
                         $date = date("d_m_Y");
                         $dir = "./key/ALL/".$date;
                         $file = "./key/ALL/".$date."/id.txt";
-                        $file = "./key/ALL/".$date."/email.txt";
+                        $files = "./key/ALL/".$date."/email.txt";
                         if(!is_dir($dir)){
                             mkdir($dir);
-                            if(!is_file($file)){
-                                $SmileFile = fopen($file, "a+");
-                                fwrite($SmileFile, "$id\n");
-                                fclose($SmileFile);
-                                $SmileFile = fopen($file, "a+");
-                                fwrite($SmileFile, $result["domain"]."\n");
-                                fclose($SmileFile);
-                            }
-                        }else{
-                            $SmileFile = fopen($file, "a+");
-                            fwrite($SmileFile, "$id\n");
-                            fclose($SmileFile);
-                            $SmileFile = fopen($file, "a+");
-                            fwrite($SmileFile, $result["domain"]."\n");
-                            fclose($SmileFile);
+                            
                         }
+                        $SmileFile = fopen($file, "a+");
+                        fwrite($SmileFile, "$id\n");
+                        fclose($SmileFile);
+                        $SmileFiles = fopen($files, "a+");
+                        fwrite($SmileFiles, $result["domain"]."\n");
+                        fclose($SmileFiles);
                         echo"\e[0;32;42m[ • ] \e[0m\e[0;42m CREATE SUCCESS ID: $id | RESULT: ".$result["domain"]." [ BRAZIL | ARGENTINA | $date ] "."\e[0m\e[0;32;42m[ • ] \e[0m\n";
                     }else{
                         echo"\e[1;31;41m[ • ] \e[0m\e[0;41m CREATE INVALID ID: $id | RESULT: ".$result["errorMessage"]." ! [ BRAZIL | ARGENTINA | $date ] "."\e[0m\e[1;31;41m[ • ] \e[0m\n";
