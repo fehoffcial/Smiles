@@ -1,7 +1,7 @@
 <?php
     error_reporting(0);
     /**
-     * 1-) Monitoramento de IP - verificar a localization.
+     *  1-) Monitoramento de IP - verificar a localization.
      *  2-) Realizar a conexão com API da Smiles.
      */
     function MonitoringIP(){
@@ -76,7 +76,6 @@
                         $files = "./key/ALL/".$date."/email.txt";
                         if(!is_dir($dir)){
                             mkdir($dir);
-                            
                         }
                         $SmileFile = fopen($file, "a+");
                         fwrite($SmileFile, "$id\n");
@@ -149,11 +148,11 @@
                 'Host: api.smiles.com.br',
                 'Content-Type: application/json;charset=UTF-8',
                 'Accept: application/json',
-                $cookies_token,
                 'Channel: APP',
-                $cookies_authorization,
+                "$cookies_authorization",
+                "$cookies_token",
                 'X-Api-Key: avtWnVksYg2u2CQo1zvs69DuTC3G5jQ185DA5uAc',
-                'User-Agent: Smiles/2.164.0/22180;IOS (iPhone12,1; iOS 17.0.3; Scale/2.00)',
+                'User-Agent: Smiles/2.167.0/22196;IOS (iPhone12,1; iOS 17.1.2; Scale/2.00)',
             ];
             $post = [
                 "id" => $id,
@@ -386,10 +385,7 @@
         }
         fclose($file);
     }
-    // ApiChecking("smile_lp.txt",3);
-    function ApiSmile(){
-        $date = date('d/m/Y H:i:s');
-    }
-    $MonitoringID = MonitoringID(10000);
+    ApiChecking("db.txt",3);
+    
 
 ?>
